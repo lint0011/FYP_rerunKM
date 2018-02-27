@@ -1,0 +1,100 @@
+1076	rhino-mocks	framework	Rhino.Mocks is a dynamic mock object framework for the .NET platform
+596	mailto	scheme	Mailto is the URI scheme for email addresses
+9291	exception-handling	construct	Exception handling is a programming language construct or computer hardware mechanism designed to handle the occurrence of exceptions, special conditions that change the normal flow of program execution.
+116	actionfilterattribute	attributes	Action filters are custom attributes that provide a declarative means to add pre-action and post-action behavior to controller action methods.
+1866	octave	project	Octave is a GNU project that provides a scripting language for mathematical analysis
+1527	swig	compiler	SWIG is an interface compiler that connects programs written in C and C++ with scripting languages such as Perl, Python, Ruby, and Tcl.
+102	omnicomplete	feature	Omnicomplete is the name of the Vim feature which provides smart autocompletion
+373	citrix	company	Citrix is name of a company which stands for many applications round about IT virtualization, especially for Microsoft products
+283	object-literal	object	JavaScript Object Literal&#xD;&#xA;&#xD;&#xA;An object literal is a comma separated list of name value pairs wrapped in curly braces
+453	nsarraycontroller	binding	on Mac OS X, NSArrayController is a bindings compatible class that manages a collection of objects
+140	poedit	application	Poedit is free software application that allows edit gettext catalogs.
+2294	search-engine	program	A search engine is program that searches documents for specified keywords and returns a list of the documents where the keywords were found.
+234	contentcontrol	control	Represents a WPF control which can contain a single piece of content that can be of any type.
+221	sieve-of-eratosthenes	algorithm	Sieve of Eratosthenes is a simple, ancient algorithm for finding all prime numbers up to a specified integer.
+140	net-ssh	implementation	A pure-Ruby implementation of the SSH2 client protocol
+1160	interpreter	program	An interpreter is a program that executes, i.e
+550	tweepy	library	An easy-to-use Python library for accessing the Twitter API
+249	service-locator	pattern	The service locator pattern is a design pattern used in software development to encapsulate the processes involved in obtaining a service with a strong abstraction layer
+215	jdbc-odbc	applications	The JDBC-ODBC Bridge enables Java applications to access ODBC data sources through the JDBC interface.
+545	cx-freeze	modules	cx_Freeze is a set of scripts and modules for freezing Python scripts (.py) into executable files  for Windows (.exe), Mac OS (.app), or Linux.
+343	chromium-embedded	project	The Chromium Embedded Framework (CEF) is an open source project founded by Marshall Greenblatt in 2008 to develop a Web browser control based on the Google Chromium project.
+739	infowindow	class	The InfoWindow is a standard class within the Google Maps JavaScript API; it is an overlay that displays content in a floating window above the map and is anchored at a specified location on the map.
+459	database-normalization	process	Database normalization is the process of organizing the fields and tables of a relational database to minimize redundancy and dependency
+206	crossdomain.xml	document	A cross-domain policy file is an XML document that grants a web client—such as Adobe Flash Player, Adobe Reader, etc.—permission to handle data across multiple domains.
+996	libxml2	library	Software library for parsing XML documents.
+1926	mdx	language	Multidimensional Expressions (MDX) is a query language for OLAP databases
+2084	ionic-framework	framework	Ionic is a front-end framework for developing native-feeling hybrid mobile apps in HTML5 using Sass and AngularJS
+533	series	object	A Series object represents a data series and is stored in the SeriesCollection class.
+106	friend-function	function	In C++ friend function is a kind of function that is a "friend" of a given class is allowed access to private and protected data in that class that it would not normally be able to as if the data was public.
+123	background-thread	application	A background thread is a thread that not directly driving the application but does some processing asynchronously.
+129	clistctrl	control	A class in the Microsoft Foundation Classes framework; a "list view control" which displays a collection of items each consisting of an icon (from an image list) and a label.
+2172	grouping	process	The process of grouping entities into collections of associated elements.
+882	biginteger	languages	BigInteger is an arbitrary-precision arithmetic type in Java, C#, and other languages
+7907	ftp	protocol	File Transfer Protocol (FTP) is a well-established protocol for conducting file operations (such as transferring files) over a TCP-based network such as the Internet.
+621	live-wallpaper	feature	Live wallpaper is an Android 2.1+ feature that adds the potential for animation and interactivity.
+1572	release	act	Refers to the act of finalizing a software building process for distribution to end-users
+222	werkzeug	library	Werkzeug is a WSGI utility library for Python
+131	sharethis	application	The sharethis button is a third party application you install on your site that makes it easy for people to share links with their friends
+804	global-asax	interface	A special file in the ASP.NET framework, it provides a simplified interface to create hooks into system events in the life cycle of a web application and web pages in that application.
+494	jcomponent	class	JComponent is the base class for all Java Swing components except top-level containers.
+420	c++-cx	extension	Visual C++ Component Extensions is a set of high-level language extensions for C++ to work with Windows Runtime (WinRT).
+5327	prolog	language	Prolog is the most commonly used logic programming language
+123	uninstaller	software	An uninstaller, also called a deinstaller, is a utility software designed to remove other software or parts of it from a computer.
+3543	apple-push-notifications	service	The Apple Push Notification Service is a service created by Apple Inc
+319	navigationcontroller	controller	A Controller in a MVC (Model View Controller) pattern provides the execution flow of the application
+142	objectanimator	class	Android class which animates an object based on a specified property of the object
+120	cefsharp	binding	.NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
+131	ordereddictionary	structure	In Python, an OrderedDict is a data structure that stores pairs of key, values
+110	php-java-bridge	implementation	The PHP/Java Bridge is an implementation of a streaming, XML-based network protocol, which can be used to connect a native script engine, for example PHP, Scheme or Python, with a Java virtual machine.
+113	css-content	document	CSS Generated Content allows us to insert and move content around a document
+336	frameset	container	In HTML, the frameset element is a container for dividing a browser window into rectangular subspaces called frames
+393	yammer	network	Yammer is a private social network for business.
+409	error-logging	process	The process of recording errors in log file for diagnostic and Q&A purposes.
+1068	ipv6	protocols	The Internet Protocol is one of the fundamental protocols used for the Internet
+8654	static	term	Static is a term used in some programming languages to define a function or data storage area (field) that is not bound to any specific object instance.
+61129	spring	framework	The Spring Framework is an open source framework for application development on the Java platform
+2208	emulator	system	An emulator is a system which is designed to perform the duties of a different system.
+488	mainframe	class	The mainframe tag refers to the class of "big iron" computers, primarily those from IBM
+1131	oracle-apex	tool	Oracle Application Express (Oracle APEX) is a rapid Web application development tool that lets you share data and create applications
+4555	uikit	framework	UIKit is the object-oriented framework that is responsible for most of the iOS user interface.
+534	channel	objects	A communication construct enabling sending of objects between execution threads
+106	xmllint	parser	xmllint is a command line XML parser which provides syntax validation, gzip compression, and formatting options.
+56149	forms	container	A form is essentially a container that can be used to hold any amount of any subset of several types of data
+224	window-managers	service	A Window Manager is a service on most modern OSes which provides the UI for manipulating the location and sizes of windows.
+219	canonical-link	`rel`	is a keyword for the HTML attribute `rel` which allows specification of the preferred URL for web pages with duplicate content.
+124	selendroid	framework	Selendroid is a test automation framework for native or hybrid Android apps and the mobile web.
+140	rom	class	Read-only memory (ROM) is a class of storage medium used in computers and other electronic devices
+530	radiobuttonlist	control	Represents a list control that encapsulates a group of radio button controls.
+237	jspinner	class	JSpinner is java class in swing package
+1247	checkout	process	Checkout is the process of finishing a transaction after using a shopping application for some time.
+1640	core-plot	framework	Core Plot is a open source plotting framework for Mac OS X and iOS.
+684	google-earth	application	Google's virtual globe application that allows users to view 3D buildings, imagery, terrain, any other information stored in KML files.
+306	pythonpath	variable	PYTHONPATH is an environment variable that augments the default search path for module files in Python.
+5780	hover	action	Hover refers to the action of placing the mouse cursor over a given element
+203	tinyxml	parser	TinyXML is a simple, small C++ XML parser and generator library.
+266	caanimation	class	CAAnimation is an abstract animation class from Apple QuartzCore framework
+110	omnipay	library	A framework agnostic, multi-gateway payment processing library for PHP 5.3+
+762	jogl	binding	JOGL is the Java Binding for the OpenGL and OpenGL ES API
+228	r.js	command	A command line tool for running JavaScript scripts that use the Asychronous Module Defintion API (AMD) for declaring and using JavaScript modules and regular JavaScript script files
+301	dataadapter	class	DataAdapter is a .Net framework class that facilitates communication between a DataTable and a database.
+1457	iostream	library	The C++ iostream library is an object-oriented library that provides input and output functionality using streams
+783	remote-desktop	protocol	Remote Desktop Protocol (RDP) is a proprietary protocol developed by Microsoft, which provides a user with a graphical interface to another computer.
+477	watchkit	applications	WatchKit is an integral part of the Apple Watch experience for third-party applications
+710	cloudfoundry	platform	Cloud Foundry is an open platform as a service, providing a choice of clouds, developer frameworks and application services
+514	qtableview	class	QTableView is a Qt class providing a default model/view implementation of a table view.
+126	quartz-composer	language	Quartz Composer is a node-based visual programming language freely available to registered Apple developers for processing and rendering graphical data.
+1302	facebook-login	method	Facebook login is popular sign in method for many websites using Facebook credentials.
+427	jquery-tabs	widget	Tabs widget of jQuery UI toolkit.
+158	virtuoso	system	Virtuoso is a hybrid relational database management system for data represented as Relational Tables and/or RDF Property Graphs
+239	drupal-webform	module	The Webform module can be used to create contests, personalized contact forms, or petitions.
+737	openoffice.org	application	OpenOffice.org (OOo), a FOSS application suite made up of: Writer, Calc, Impress, Base, Draw, and Math
+173	roi	algorithms	Region Of Interest, a region of an image on which algorithms are executed on.
+220	stop-words	language	Stop words are words that are filtered out prior (or after) the processing of natural language data.
+668	backwards-compatibility	system	Backward compatibility refers to a software or hardware system that can successfully use interfaces and data from earlier versions of the system.
+875	preview	action	User Interface action to display a preliminary or scaled down version of the actual item.
+343	google-checkout	service	Online payment processing service provided by Google
+1346	wampserver	stack	Specific release of the WAMP stack for Windows.
+331	nomethoderror	exception	A Ruby exception that is raised when a method is called on an object which doesn't respond to that method.
+2364	moq	framework	Moq (pronounced "Mock-you" or just "Mock") is a mocking framework for .NET that makes heavy use of lambdas and LINQ expression trees.
+120	gmock	framework	Gmock is a mocking framework for Groovy

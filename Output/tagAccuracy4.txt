@@ -1,0 +1,102 @@
+264	owl-carousel	`	plugin	A jQuery plugin to create touch-enabled carousels.
+102	matrix-indexing		matrix	Indexing into a matrix is a means of selecting a subset of elements from the matrix/array
+1103	avplayer		interfaces	An AVPlayer object is used to implement controllers and user interfaces for single- or multiple-item playback.
+383	mapi	`	api	Messaging Application Programming Interface (MAPI) is a messaging architecture and a Component Object Model based API for Microsoft Windows
+8726	spring-security	`	solution	Spring Security (formerly known as Acegi Security) is the Spring Framework's application security solution
+623	group-concat	`	function	"`GROUP_CONCAT()` is a function for the RDBMS MySQL, to concat fields in groups and show them as a String"
+266	iphone-developer-program		program	The iOS developer program (formerly iPhone developer program) is the mandatory route to deploy iOS applications
+269	monad-transformers	`	abstraction	Monad transformers are an abstraction for combining monads
+241	ios-universal-app	`	app	"An iOS universal app is an app that can be run both on iPhone, iPhone with retina screen, iPad and iPad with retina screen."
+1909	default		application	"Refers to an initial, most commonly used option, setting, or value that is automatically assigned to an application or device, outside of user intervention, with the intention of making it usable ""out of the box""."
+119	w3wp	`	process	w3wp is an Internet Information Services (IIS) worker process
+331	type-erasure	`	process	"In Java, type erasure is the process where the compiler removes all information related to type parameters and type arguments within a class or method when a generic type is instantiated"
+307	cascading-deletes	`	concept	The concept of SQL databases deleting rows that refer (via a foreign key) to a deleted row.
+784	mmap	`	call	mmap is a POSIX-compliant Unix system call that maps files or devices into memory.
+117	script-tag	`	element	The <script> tag is an HTML element used to embed or include an executable script within an (x)HTML document/web-page
+168	ratingbar	`	widget	A RatingBar is an Android widget that shows a rating in stars.
+148	xml-twig	`	module	XML-Twig is a Perl module that subclasses XML-Parser to allow easy processing of XML documents of all sizes.
+737	openoffice.org		application	"OpenOffice.org (OOo), a FOSS application suite made up of: Writer, Calc, Impress, Base, Draw, and Math"
+276	middleman		websites	Use the popular Ruby Sinatra (Rails-like) Tool chain to build static websites
+2281	handler	`	function	"In the Observer pattern, an event handler is the function or method called on an observer listening for an event dispatched by the subject"
+1325	contenteditable	`	attribute	"contentEditable is an HTML attribute (invented by Microsoft and standardized in HTML5) that is used for client-side in-browser ""rich text"" editing."
+238	red-black-tree	`	structure	"A red-black tree is a type of self-balancing binary search tree, a data structure used in computing science, typically used to implement associative arrays."
+2618	pinvoke	`	specification	P/Invoke is an implementation specification created by Microsoft of the Common Language Infrastructure (CLI) for invocation of native code libraries from managed code.
+507	appharbor	`	platform	AppHarbor is a cloud application platform for .NET
+7427	tkinter	`	interface	"Tkinter is the standard Python interface to the ""Tk"" graphical user interface toolkit."
+504	tire	`	client	Tire is a Ruby client for the ElasticSearch search engine/database
+451	drivers		os	Drivers allow higher-level programs to communicate with the specific hardware device and operating system that they were programmed for
+221	terminal-services		sessions	"Terminal Services provides the ability to host multiple, simultaneous client sessions on Windows Server 2003."
+764	binary-data		character	Binary-data is information stored using a two character alphabet (typically written using 0 and 1)
+709	swiftmailer	`	library	"Swift Mailer is a library that integrates into any web app written in PHP 5, offering a flexible and elegant object-oriented approach to sending emails with a multitude of features."
+236	android-navigation		component	Designing Effective Navigation: Consistent navigation is an essential component of the overall user experience
+874	cas	`	system	"Central Authentication Service, a trusted system to authenticate a user or&#xD;&#xA;Code Access Security, a Microsoft .NET system for limiting actions that untrusted code can perform."
+2434	testng	`	framework	TestNG is a testing framework focused on providing both unit and functional testing abilities in the Java programming language
+136	numba	`	compiler	Numba is an open source NumPy-aware optimizing compiler for Python.
+6597	monotouch	`	kit	"Xamarin.iOS (previously known as MonoTouch) is a commercial software development kit for Mac OS X and Windows that lets you use C# (a .NET programming language) to create native applications for Apple iPhone, iPod Touch, iPad and Watch devices."
+101	tt-news	`	extension	tt_news is a TYPO3 extension displaying news or articles.
+151	zend-translate	`	solution	Zend_Translate is the Zend Framework's solution for multilingual applications.
+640	self		object	A keyword used in instance methods to refer to the object on which they are working.
+181	boxlayout	`	manager	BoxLayout is a Java Swing layout manager that allows multiple components to be laid out either vertically or horizontally.
+181	xap	`	framework	"XAP is an XML-based declarative framework for building, deploying and maintaining rich, interactive Ajax powered web applications."
+210	amazon-mws	`	api	"Amazon Marketplace Web Service (Amazon MWS) is an integrated Web service API that helps Amazon sellers to programmatically exchange data on listings, orders, payments, reports, and more."
+4721	jquery-animate	`	method	Refers to jquery's animate() method
+471	titlebar		interface	"An area of a window in a graphical user interface (GUI), normally located at the top, that commonly displays the name of the application, options for manipulating the window, and other important information about the application."
+175	opa	`	language	Opa is an open source programming language for both backend and frontend web development
+249	findviewbyid	`	method	findViewById(int id) is a method of the View and Activity classes
+189	m2crypto	`	wrapper	"M2Crypto is the most complete Python wrapper for OpenSSL featuring RSA, DSA, DH, HMACs, message digests, symmetric ciphers (including AES); SSL functionality to implement clients and servers; HTTPS extensions to Python's httplib, urllib, and xmlrpclib; unforgeable HMAC'ing AuthCookies for web session management; FTP/TLS client and server; S/MIME; ZServerSSL."
+203	abi	`	interface	"The (Application Binary Interface) specifies the low level interface between the programs, libraries and the operating system"
+155	bada	`	platform	bada is Samsung's platform for mobile devices.
+279	word-count		document	The word count is the number of words in a document or passage of text.
+267	countif	`	function	COUNTIF is an Excel function which allows for the counting of values in a range where the values meet a criterion.
+5051	request	`	message	A request is a message sent by a source to another object.
+177	.obj	`	format	A text-based file format that stores 3d gemoetry.
+125	web-config-transform		application	Web.config transformation lets you easily transform .NET application configuration files.
+187	jquery-svg	`	plugin	A jQuery plugin that lets you interact with an SVG canvas.
+2802	updatepanel	`	control	UpdatePanel is an ASP.NET AJAX control which allows page content to be updated asynchronously.
+3463	async-await		model	"This covers the asynchronous programming model supported by various programming languages, using the async and await keywords."
+101	pysnmp	`	package	PySNMP is a python package used for native python snmp transactions.
+32134	cocoa	`	framework	"Cocoa is Apple's application-development framework for OS X, consisting of Foundation, Application Kit, and Core Data"
+226	qtreewidget	`	class	QTreeWidget is a class in Qt that provides a tree-like view of data.
+633	signature		signature	"In computer programming, especially object-oriented programming, a method is commonly identified by its unique method signature, which usually includes the method name, and the number, types and order of its parameters"
+5714	char		character	"char typically refers to a character data-type, representing letters of text."
+461	url-scheme	`	scheme	A URI scheme is the top level of the Uniform Resource Identifier(URI) naming structure in computer networking.
+231	outline	`	property	"outline is a property in CSS, that is used to draw a line around the element"
+235	netstream	`	class	The NetStream class opens a one-way streaming channel over a NetConnection.
+1654	avaudioplayer		api	"Apple’s AVFoundation framework includes AVAudioPlayer, an easy, feature rich, Objective-C based API for playing audio files."
+267	dayofweek	`	function	Usually a function that returns day of the week when a certain date object is passed.
+1623	database-schema	`	structure	"A description of the structure of the database - including the structure of the tables, columns, constraints, views, etc, etc.."
+22935	firefox	`	browser	"Firefox is a free, open source and cross-platform web browser created by Mozilla."
+1321	in-app-billing	`	service	"In-app Billing, a service provided by Android operating system."
+166	size-classes		class	"A size class is a new technology in iOS8 to allow you to customize your app for a given device class, based on its orientation and screen size"
+291	motorola	`	company	Motorola is an American multinational telecommunications company which designs and sells wireless network infrastructure equipment.
+108	linker-scripts		command	The linker command language used to control the memory layout of computer programs and details of the linking process.
+114	try-except		error	"A form of error handling in Python and Delphi, similar to try/catch in C-like languages"
+628	pcap		interface	pcap (packet capture) consists of an application programming interface (API) for capturing network traffic
+870	multicast		network	"Multicast refers to one-to-many network transmission options, where packets will be automatically propagated just to those nodes wishing to receive them"
+152	asp.net-controls		server	ASP.NET Web server controls are objects on ASP.NET Web pages that run when the page is requested and that render markup to a browser
+709	remote-server	`	machine	remote-server is a machine used for data processing which is accessed via a network
+319	ref	`	keyword	"The ref keyword causes an argument to be passed by reference, not by value"
+1822	carrierwave	`	gem	"A modern ruby gem for file uploads in Rails and other frameworks, similar to paperclip and attachment_fu"
+4466	pthreads	`	api	Pthreads (POSIX Threads) is a standardised C-based API for creating and manipulating threads on a POSIX-compliant system
+150	gwidgets	`	api	gWidgets provides a toolkit-independent API for building GUIs for the R programming language.
+127	ncover	`	tool	`NCover` is the original `.NET` code coverage tool
+126	basecamp	`	tool	Basecamp is a web-based project-management tool developed by 37signals and launched in 2004
+225	macruby	`	implementation	MacRuby is an implementation of the Ruby 1.9 programming language in ObjC for Mac OSX
+502	scapy		etc	"Scapy is a powerful interactive packet manipulation tool, packet generator, network scanner, network discovery, packet sniffer, etc"
+2331	distinct	`	keyword	The SQL DISTINCT keyword is used to remove duplicate values from a result of a query.
+2285	ssms	`	tool	"Microsoft SQL Server Management Studio is a graphical tool for configuring, managing, and administering all components within Microsoft SQL Server."
+127	mapserver	`	engine	MapServer is an Open Source geographic data rendering engine written in C
+1915	codeblocks	`	ide	"Code::Blocks is a free, open-source, cross-platform and extensible C++ IDE with some support for a few other languages such as D and Fortran."
+591	text-mining	`	process	Text Mining is a process of deriving high-quality information from unstructured (textual) information.
+747	jtextpane	`	component	A Java Swing text component that can be marked up with attributes that are represented graphically.
+137	qabstractitemmodel	`	class	QAbstractItemModel is a class in the Qt framework
+251	ef-migrations	`	feature	"Code First Migrations is a feature of Entity Framework that provides for detecting changes to a code-first model, and upgrading the database schema based on those changes."
+1392	sortable	`	plugin	"A jQuery UI framework plugin which allows a developer to create a group of sortable blocks, which can be dragged and reordered by mouse."
+124	griffon	`	platform	Griffon is a rich client application platform that uses Groovy and Java.
+156	flask-login		framework	Flask-Login provides user session management for the python web framework Flask.
+179	stage3d	`	api	Stage3D is an API in Adobe Flash which allows developers to create hardware accelerated graphics.
+1585	cpanel		control	cPanel is a Linux based web hosting control panel that provides a graphical interface and automation tools designed to simplify the process of hosting a web site
+545	cx-freeze	`	modules	"cx_Freeze is a set of scripts and modules for freezing Python scripts (.py) into executable files  for Windows (.exe), Mac OS (.app), or Linux."
+156	android-fonts		device	"There are different fonts available to use programmatically and also using the device setting, Generally programmers do use fonts in a way that keeping the font file in assets folder and then passing the font as resource to textviews."
+				
+	correct	72		

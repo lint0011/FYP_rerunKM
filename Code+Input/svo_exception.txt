@@ -1,0 +1,3 @@
+list	list may refer to: a linked list, or a dynamic array
+c#	C# — a multi-paradigm, managed, object-oriented programming language
+ruby	Ruby is a multi-platform open-source dynamic object-oriented interpreted language created by Yukihiro Matsumoto in 1993.

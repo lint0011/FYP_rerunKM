@@ -1,0 +1,44 @@
+.net	framework	The .NET framework is a software framework designed mainly for the Microsoft Windows operating system
+sockets	endpoint	An endpoint of a bidirectional inter-process communication flow
+windows	os	Windows is a client, server, and mobile operating systems developed by Microsoft
+oop	paradigm	Object-oriented programming is a programming paradigm using objects: data structures consisting of data fields and methods together with their interactions.
+vbscript	language	VBScript is an interpreted scripting language developed by Microsoft that is modeled on Visual Basic.
+excel	development	Only for questions on complex formula development
+ubuntu	os	Ubuntu is a free desktop and server operating system based on Debian GNU/Linux
+enums	dataType	A data type consisting of a named values called elements, members or enumerators of the type.
+loops	structure	Loops are a control flow structure in programming in which a statements may be executed repeatedly until some condition is met.
+position	location	Position refers to the location of an element relative to its container, typically on the horizontal and vertical axes.
+google-chrome	browser	Google Chrome is a web browser available on mobile, TV, and desktop platforms
+return	statement	A return statement causes execution to leave the current subroutine and resume at the point in the code immediately after where the subroutine was called, known as its return address
+github	service	GitHub is a web-based hosting service for software development projects that use Git for version control.
+machine-learning	algorithms	Machine learning revolves around developing self learning computer algorithms that function by virtue of discovering patterns in data and making intelligent decisions based on such patterns.
+objective-c	features	This tag should be used only on questions that are about Objective-C features or depend on code in the language
+rotation	movement	A rotation is a circular movement of an object around a center of rotation
+utf	code	Unicode Transformation Format used for encoding Unicode code points.
+realm	database	Realm mobile database replacement for SQLite & Core Data
+google-chrome-extension	extension	Extension development for the Google Chrome web browser.
+angularjs	framework	AngularJS is an open-source JavaScript framework
+google-drive-sdk	sdk	Google Drive is a free and paid cloud storage service from Google.The Google Drive SDK enables developers to integrate their apps with Google Drive to enhance the end-user’s experience.
+pyspark	api	The Spark Python API exposes the apache-spark programming model to Python.
+html	language	HTML is the standard markup language used for structuring web pages and formatting content
+javascript	language	JavaScript is a dynamic, weakly-typed language typically used for client-side scripting
+css	language	CSS is a style sheet language used for describing the look and formatting of HTML and XML documents including colors, layout, and fonts.
+php	language	PHP is a popular general-purpose weakly-typed server-side scripting plus object-oriented programming language that is especially suited for web development.
+c	language	C is a general-purpose computer programming language used for operating systems, libraries, games and other high performance work
+c++	language	C++ is a general-purpose programming language based on C
+lisp	languages	Lisp is a general purpose programming languages, influenced by the lambda calculus, and with the ability to manipulate source code as a data structure.
+python	language	Python is a dynamic and strongly typed programming language that is designed to emphasize usability
+java	language	Java is a general-purpose programming language designed to be used in conjunction with the Java Virtual Machine
+regex	language	Regular expressions are expressions written in a declarative language used for matching patterns within strings
+xml	format	Extensible Markup Language is a flexible, structured document format that defines human- and machine-readable encoding rules
+mysql	dbms	MySQL is a freely available open-source Relational Database Management System that uses Structured Query Language
+sql	language	Structured Query Language is a language for querying databases
+tsql	extension	T-SQL is the extension of SQL functionality supported by Sybase ASE and Microsoft SQL Server.
+j#	language	J# programming language is a discontinued transitional language for programmers of Java and Visual J++ languages, so they may use their existing knowledge and applications on .NET Framework.
+browser	application	A web browser or Internet browser is a software application for retrieving, presenting, and traversing information resources on the World Wide Web.
+linq	component	Language Integrated Query is a Microsoft .NET Framework component that adds native data querying capabilities to .NET languages.
+database	data	A database is an organized data typically used to model certain situations
+unix	os	The Unix operating system is a general purpose OS that was developed by Bell Labs in the late 1960s and today exists in various versions
+list	array	list may refer to: a linked list, or a dynamic array
+c#	language	C# â a multi-paradigm, managed, object-oriented programming language
+ruby	language	Ruby is a multi-platform open-source dynamic object-oriented interpreted language created by Yukihiro Matsumoto in 1993.

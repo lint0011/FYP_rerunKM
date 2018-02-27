@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.node circle {
+  cursor: pointer;
+  stroke: #3182bd;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+  pointer-events: none;
+  text-anchor: middle;
+}
+
+line.link {
+  fill: none;
+  stroke: #9ecae1;
+  stroke-width: 1.5px;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type='text/javascript' src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<script type='text/javascript'>
+	
+var width = 1500,
+    height = 1000,
+	legendRectSize = 10,
+	legendSpacing = 0,
+    root;
+
+var force = d3.layout.force()
+    .linkDistance(100)
+    .charge(-120)
+    .gravity(.1)
+    .size([width, height])
+    .on("tick", tick);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+var link = svg.selectAll(".link"),
+    node = svg.selectAll(".node");
+	
+//Set up the colour scale
+var color = d3.scale.category20();
+//var color = d3.scale.ordinal()
+ //   .domain(["others","library","package","tool","class","implementation","component","extension","engine","system","client","interface","server","language","gem","app","platform"])
+//    .range(["#1a9850", "#66bd63", "#a6d96a","#d9ef8b","#ffffbf","#fee08b","#fdae61","#f46d43","#d73027"]);
+
+
+	
+
+var nodesParentList = [];
+var nodesParent = {};
+var nodesParentCat = {};
+var nodesByName = {};
+var catName = {};
+var edgesNum = {};
+var groupByName = {};
+var allnodes;
+var radius = 6;
+var i = 0;
+
+d3.csv("graph.csv", function(error, links) {
+	  if (error) throw error;
+	  //console.log(links);
+	  // Create nodes for each unique source and target.
+	  links.forEach(function(link) {
+		link.source = nodeByName(link.tag);
+		link.target = nodeByName(link.dest);
+		if(nodesParent[link.dest]==null)
+		{
+			nodesParent[link.dest] = [link.tag];
+			
+		}
+		else
+		{
+			var list = nodesParent[link.dest];
+			list.push(link.tag);
+			nodesParent[link.dest] = list;
+		}
+		if (nodesParentList!=null && nodesParentList.indexOf(link.dest)<0){
+			nodesParentList.push(link.dest);
+			}
+		groupByName[link.tag] = +link.relvalue;
+		groupByName[link.dest] = +link.prelvalue;
+		catName[groupByName[link.tag]] = link.rel;
+		edgesNum[link.tag] = +link.edgestag;
+		edgesNum[link.dest] = +link.edgesdest;
+	  });
+	  allnodes = d3.values(nodesByName);
+	  var pnode;
+	var testing =[];
+	 nodesParentList.forEach(function(parent){
+	//if(nodesParentList[0]!=null){
+		//var parent = nodesParentList[0];
+		//console.log("exist");	 
+		var childList = nodesParent[parent];
+		var pnodenum = allnodes.indexOf(nodesByName[parent]);
+		pnode = allnodes[pnodenum];
+		pnode.children = [];
+		pnode.c=[];
+		childList.forEach(function(child){
+			var cnodenum = allnodes.indexOf(nodesByName[child]);
+			var cnode = allnodes[cnodenum];
+			if(nodesParent[child]!=null){
+				var list = pnode.c;
+				cnode.parent = pnode.name;
+				list.push(cnode);
+				pnode.c = list;
+				//console.log(pnode.c);
+				}
+			var list = pnode.children;
+			list.push(cnode);
+			pnode.children = list;
+		});
+		root = pnode;
+		if (root.children) {
+			root._children = root.children;
+			if(root.c){
+				root.children = root.c;
+				root.c = null;
+			}
+			else
+				root.children = null;
+		}
+		testing = testing.concat(flatten(root));
+	});
+	  //var testing =flattenAll(nodes);
+	  //console.log(testing);	 
+	
+	
+	
+	update(testing);
+	  
+	  function nodeByName(name) {
+		return nodesByName[name] || (nodesByName[name] = {name: name});
+	  }
+	   
+});
+
+	   
+function update(testing) {
+  var nodes = testing,
+	  links = d3.layout.tree().links(nodes);
+	//console.log(nodes);
+  // Restart the force layout.
+  force
+      .nodes(nodes)
+      .links(links)
+      .start();
+
+  // Update links.
+  link = link.data(links, function(d) { return d.target.id; });
+
+  link.exit().remove();
+
+  link.enter().insert("line", ".node")
+      .attr("class", "link");
+
+  // Update nodes.
+  node = node.data(nodes, function(d) { return d.id; });
+
+  node.exit().remove();
+	var tip = d3.tip()
+			.attr('class', 'd3-tip')
+			.offset([-10, 0])
+			.html(function (d) {
+			return  d.name + "";
+		})
+		svg.call(tip);
+  var nodeEnter = node.enter().append("g")
+      .attr("class", "node")
+      .on("click", click)
+      .call(force.drag)
+	  .on('mouseover', tip.show) 
+	  .on('mouseout', tip.hide);
+
+  nodeEnter.append("circle")
+      .attr("r", function(d) { return calRadius(edgesNum[d.name]);});
+	  
+  nodeEnter.append("text")
+	  .attr("dx", 12)
+      .attr("dy", ".35em")
+      .text(function(d) { 
+				if (nodesParent[d.name]!=null){
+					return d.name;}
+				else return ;	});
+
+  node.select("circle")
+      .style("fill", colorfill);
+	  
+	var legend = svg.append("g")
+	.selectAll("g")
+	.data(color.domain())
+	.enter()
+	.append('g')
+	  .attr('class', 'legend')
+	  .attr('transform', function(d, i) {
+		var height = legendRectSize;
+		var x = 0;
+		var y = i * height;
+		return 'translate(' + x + ',' + y + ')';
+	});
+
+	console.log(catName);	
+	legend.append('rect')
+	.attr('width', legendRectSize)
+	.attr('height', legendRectSize)
+	.style('fill', color)
+	.style('stroke', color);
+	legend.append('text')
+	.attr('x', legendRectSize + legendSpacing)
+	.attr('y', legendRectSize - legendSpacing)
+	.text(function(d){return catName[d];});
+	
+	
+	
+}
+function calRadius(edge) {
+		if((edge/10)+4>10)
+			return 10;
+		else
+			return (edge/10)+4;
+	  }
+
+function tick() {
+  link.attr("x1", function(d) { return d.source.x; })
+      .attr("y1", function(d) { return d.source.y; })
+      .attr("x2", function(d) { return d.target.x; })
+      .attr("y2", function(d) { return d.target.y; });
+
+  node.attr("transform", function(d) { 
+  return "translate(" + Math.max(radius, Math.min(width - radius, d.x)) + "," + Math.max(radius, Math.min(height - radius, d.y)) + ")"; });
+}
+
+function colorfill(d) {
+	return color(groupByName[d.name]); 
+ /* return d._children ? "#3182bd" // collapsed package
+      : d.children ? "#c6dbef" // expanded package
+      : "#fd8d3c"; // leaf node*/
+}
+
+// Toggle children on click.
+function click(d) {
+  if (d3.event.defaultPrevented) return; // ignore drag
+  if(nodesParentList.indexOf(d.name)!=-1){
+	  var showchild = false;
+	  if (d.c) {
+		if(d.children){
+			d._children = d.children;
+			d.children = d.c;
+			d.c = null;
+			showchild = false;
+		  } else {
+			d.children = d._children;
+			d._children = null;
+			showchild = true;
+		  }
+	  }
+	  else{
+		d.c = d.children;
+		d.children = d._children;
+		d._children = null;
+		showchild = true;
+	  }
+	  console.log(d);
+	  if(showchild){
+		//console.log(d);
+		if(d.parent != null){
+			var pnodenum = allnodes.indexOf(nodesByName[d.parent]);
+			pnode = allnodes[pnodenum];
+			update(flatten(pnode));
+		}
+		else
+			update(flatten(d));
+	  }
+	  else{
+	  
+		if(d.parent != null){
+			var pnodenum = allnodes.indexOf(nodesByName[d.parent]);
+			pnode = allnodes[pnodenum];
+			update(flatten(pnode));
+		}
+		else
+			update(flattenAll(allnodes));
+		
+		}
+	}
+}
+
+// Returns a list of all nodes under the root.
+function flatten(root) {
+  var nodes = [];
+
+  function recurse(node) {
+    if (node.children) node.children.forEach(recurse);
+    if (!node.id) node.id = ++i;
+    nodes.push(node);
+  }
+
+  recurse(root);
+  return nodes;
+}
+
+function flattenAll(allnodes){
+	var pnode;
+	var testing =[];
+	nodesParentList.forEach(function(parent){
+	//if(nodesParentList[0]!=null){
+		//var parent = nodesParentList[0];
+		var pnodenum = allnodes.indexOf(nodesByName[parent]);
+		pnode = allnodes[pnodenum];
+		root = pnode;
+		if (root.c) {
+			if(root.children){
+				root._children = root.children;
+				root.children = root.c;
+				root.c = null;
+			  } 
+		  }
+		 
+		
+		testing = testing.concat(flatten(root));
+		
+	});
+	 
+	return testing;
+}
+
+</script>
+</body>
+</html>

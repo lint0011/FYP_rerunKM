@@ -26,6 +26,7 @@ from random import randint
 #Preprocess the first sentence to remove unwanted words or symbols
 def preprocess(inputFile, outputFile_processed): #delete outputFile
 	firstSentences = {}        #Store the first sentence for each term
+	findtagwiki = open('nulltagexcerpt.txt','w',encoding = 'utf8')
 	
 	f = open(inputFile, encoding = 'utf8') #Lynn
 	lines = f.readlines()
@@ -33,15 +34,20 @@ def preprocess(inputFile, outputFile_processed): #delete outputFile
 	
 	#removeList = ["Questions", "Question","For questions", "for questions","This tag", "this tag", "THIS TAG", "For issues", "for issues"] # "Use this tag", "DO NOT", "This is a tag"}
 	#Lynn: disable the removeList, first sentence highly likely to contain category even with keywords in removeList	
-
+	
 	for index, row in enumerate(lines):
 		items = row.strip().split("	")
 		if len(items) == 2:
-			if items[1] != "\n":
+			if items[1] != r"\N":
 				firstSentences[items[0]] = items[1].split(". ")[0]
 				if ".&" in firstSentences[items[0]]:
 					firstSentences[items[0]] = items[1].split(".&")[0]
 					#print items[0]
+			else:
+				findtagwiki.write(items[0]+'\n')
+	findtagwiki.close()
+
+
 	
 	print(str(len(firstSentences)))
 
@@ -96,9 +102,9 @@ def preprocess(inputFile, outputFile_processed): #delete outputFile
 		
 		#remove certain phrases
 		for conjunction in conjunctionList:
-			print(conjunction)
+			#print(conjunction)
 			value = value.replace(conjunction, "") 
-			print(value)
+			#print(value)
 		
 		""" #Lynn disabled the removeList
 		remove = 0
@@ -736,7 +742,7 @@ def categoryExceptionProcess(f_exception2,f,f_manualCategory,f_rescued, f_failed
 
 if __name__ == '__main__':
 
-	f = "tagWiki_test.txt"								#Input
+	f = "tagWiki.txt"								#Input
 	f_preprocess = 'tagWiki_preprocess.txt'
 	f_preprocess2 = 'tagWiki_preprocess2.txt'
 	f_allTags = "allTags_test.txt"						#Input
@@ -758,7 +764,7 @@ if __name__ == '__main__':
 
 	try:
 	
-		#preprocess(f, f_preprocess2)
+		preprocess(f, f_preprocess2)
 		#extractPOS(f_preprocess2,f_allTags, f_version,f_pos)
 		#extractSVO(f_preprocess2, f_pos, f_svo, f_exception)
 		#postProcess(f_svo, f_exception, f_manualCategory, f_tagCategory, f_exception2)	
@@ -766,7 +772,7 @@ if __name__ == '__main__':
 		#categoryAnalysis(f_refine, f_analysis)
 		#tagsInfo(f_tagRevise, f_refine, f_exception2, f_tagInfo)
 		#verifyAccacuracy(f_tagInfo, f_tagAccuracy)
-		categoryExceptionProcess(f_exception2,f,f_manualCategory,f_rescued, f_failed_rescued) #Lynn add this function to perform word match in whole tagwiki
+		#categoryExceptionProcess(f_exception2,f,f_manualCategory,f_rescued, f_failed_rescued) #Lynn add this function to perform word match in whole tagwiki
 		
 	except Exception as e :
 		print('There are exceptions')

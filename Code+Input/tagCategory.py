@@ -126,7 +126,7 @@ def preprocess(inputFile, outputFile_processed): #delete outputFile
 	fwp.close()
 	
 	
-#Extract POS tag
+#Extract POS tag extractPOS(f_preprocess2,f_allTags, f_version,f_pos)
 def extractPOS(inputFile_data,  inputFile_tags, inputFile_version, outputFile_pos):
 
 	f = open(inputFile_tags, encoding = 'utf8') #Lynn
@@ -151,27 +151,29 @@ def extractPOS(inputFile_data,  inputFile_tags, inputFile_version, outputFile_po
 	f = open(inputFile_data, encoding = 'utf8')
 	lines = f.readlines()
 	f.close()
+	totallength = len(lines)
 	
 	for index, row in enumerate(lines):
-		if index %300 == 0:
-			print(str(index) + " Finish " + str(float(index)/len(lines)))
-		items = row.strip().split("\t\t")
-		
-		#if index >=5000 and index < 6000 and items[0] in tag_version:
-		if items[0] in tag_version:
-			fw_pos.write(str(index) +"	"+items[0]+"	\n")
-		if items[0] not in tag_version:
+		if index >= 29124:
+			if index %300 == 0:
+				print(str(index) + " Finish " + str(float(index)/totallength))
+			items = row.strip().split("\t\t")
 			
-			fw_pos.write(str(index)+"	"+items[0] +"	")	
-			if len(items)>1:
-				text = items[1].split(". ")[0]#.decode('utf-8')   #Lynn     
-				pos = english_postagger.tag(text.split())	
-			
-				for p in pos:
-					fw_pos.write(str(p))
-					fw_pos.write("	")
-			
-			fw_pos.write("\n")
+			#if index >=5000 and index < 6000 and items[0] in tag_version:
+			if items[0] in tag_version:
+				fw_pos.write(str(index) +"	"+items[0]+"	\n")
+			if items[0] not in tag_version:
+				
+				fw_pos.write(str(index)+"	"+items[0] +"	")	
+				if len(items)>1:
+					text = items[1].split(". ")[0]#.decode('utf-8')   #Lynn     
+					pos = english_postagger.tag(text.split())	
+				
+					for p in pos:
+						fw_pos.write(str(p))
+						fw_pos.write("	")
+				
+				fw_pos.write("\n")
 			
 			
 	fw_pos.close()		
@@ -747,7 +749,7 @@ if __name__ == '__main__':
 	f_preprocess2 = 'tagWiki_preprocess2.txt'
 	f_allTags = "allTags_test.txt"						#Input
 	f_version = "tag_version_manual_test.txt"			#Input
-	f_pos = "pos.txt"
+	f_pos = "pos_part3.txt"
 	f_svo = "svo.txt"
 	f_exception = "svo_exception.txt"
 	f_analysis = "analysis.txt"
@@ -764,8 +766,8 @@ if __name__ == '__main__':
 
 	try:
 	
-		preprocess(f, f_preprocess2)
-		#extractPOS(f_preprocess2,f_allTags, f_version,f_pos)
+		#preprocess(f, f_preprocess2)
+		extractPOS(f_preprocess2,f_allTags, f_version,f_pos)
 		#extractSVO(f_preprocess2, f_pos, f_svo, f_exception)
 		#postProcess(f_svo, f_exception, f_manualCategory, f_tagCategory, f_exception2)	
 		#furtherPostProcess(f_tagCategory, f_refineLong,f_refine)

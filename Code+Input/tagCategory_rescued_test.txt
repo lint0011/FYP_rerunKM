@@ -1,0 +1,2 @@
+iphone	ide	DO NOT use this tag unless you are addressing Apple's iPhone and/or iPod touch specifically. For questions not dependent on hardware, use the tag "iOS". Another tag to consider is "cocoa-touch" (but not "cocoa"). Please refrain from questions regarding the iTunes App Store or about iTunes Connect. If using C#, tag with mono.
+language-agnostic	program	Use this tag for PROGRAMMING QUESTIONS that are independent of any particular programming language.

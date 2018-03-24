@@ -1,1 +1,2247 @@
+table	DO NOT USE THIS TAG; it is ambiguous. Use nothing for SQL questions, for html use `html-table`, for css use `css-tables`. Read the tag wiki for more alternate tag suggestions. 
+trust	Trust is a measure of how much an entity relies on other entities for its security.
+size	Size in computing can refer to various dimensions: size in bits, in bytes, in pixels, in memory, in disk space, etc.  Please don't use this tag in your posts - it's too generic to usefully categorise your question.
+article	An article is a particular section or item of a series in a written document
+subdomain	Subdomain is a domain which is a part of a larger domain.&#xD;&#xA;For example, 'sub.example.com' is subdomain of 'example.com' domain.
+environment	The O/S in which a process is executed, especially settings that affect the process
+freeware	Freeware means free-to-use without paying money. Usually that belongs to private purpose only. 
+shortcuts	Shortcut refers to a short or small path for reaching somewhere rather than the original and longer one.
+settings	Settings may refer to the tweaking which can be used to help improve the user-experience or performance etc.
+fogbugz	FogBugz is a bug tracker and issue tracker made by Fog Creek Software.
+replication	The use of redundant resources to improve reliability, fault-tolerance, or performance.
+null	Null means *nothing* or *unknown*, depending on context.&#xD;&#xA;
+lamp	LAMP refers to a stack of web technologies based on Linux, Apache, MySQL, and PHP/Perl/Python.
+mercurial	Mercurial is a fast, open-source DVCS (Distributed Version Control System).&#xD;&#xA;
+virtual	An extensible or simulated artifact
+schema	Schema means shape, or more generally, plan. It may be XML schema or Database schema.
+cmmi	Capability Maturity Model Integration
+resume	Starting something again after stopping/pausing it. (DO NOT USE for any topic related to employment or CVs)
+jobs	A job is a process executing in the background, or scheduled for later execution.  &#xD;&#xA;&#xD;&#xA;**DO NOT** use this tag for career, employment, or hiring practice questions, as these are off-topic!
+msdn	Microsoft Developer Network  http://msdn.microsoft.com/
+parents	In an oriented tree, the parents are the previous nodes before the node of interest. Parent, grandparent, great grandparent etc...
+mcpd	MCPD is an acronym which stands for Microsoft Certified Professional Developer.
+mcts	Microsoft Certified Technology Specialist
+isight	iSight is a webcam, both external and internal, developed and marketed by Apple Inc. The external iSight was connected to a computer via a FireWire cable, and came with a set of mounts to place it atop any then-current Apple display, laptop computer, all-in-one desktop computer, or flat surface. Currently iSight camera are 
+reverse	Rearranging the order of a sequence such that the final order is a mirror image of the original.
+automation	Automation is the process of having a computer do a repetitive task or a task that requires great precision or multiple steps, without requiring human intervention.
+swap	Changing position of two items.
+axis	Don't use the [tag:axis] to refer to Apache Axis, use [tag:apache-axis] instead. See &#xD;&#xA;&#xD;&#xA;https://meta.stackoverflow.com/questions/276302/what-direction-to-go-with-the-axis-tag&#xD;&#xA;
+wiki-engine	Wiki-Engine (aka Wiki Software)
+efs	Windows Encrypted File System
+scroll	Scrolling refers to the continuous sliding of content across a display screen.
+themes	Themes and theming can be used to give another look and feel to existing UI and has a close relation to templating. 
+picasa	With Picasa and Picasa Webalbums from Google a user can manage digital photo's offline (Picasa) and online (Picasa Webalbums). 
+text-processing	Mechanizing the creation or manipulation of electronic text.
+palm-os	Questions about Palm OS (now also known as Garnet OS) from PalmSource/ACCESS.  Note that this is distinct from HP/Palm webOS.
+load	A measure of the amount of work a computer is performing. CPU load is closely related too, but not exactly the same as CPU utilization.
+pop3	Post Office Protocol version 3
+mstest	Microsoft .NET Unit Testing Framework (MSTest)
+split	Use this tag for questions about separating an item (e.g. a string) into parts, often by a delimiter or regular expression.
+billing	Billing is the process of sending a bill to a customer
+ooad	Object Oriented Analysis and Design
+freetext	FREETEXT is an SQL text-search predicate that uses stemming (e.g. -ing, -ly) and a thesaurus to search for the given string.
+linear-equation	An algebraic equation of the form y = mx+b
+bundle	Bundles are a group of resources. 
+mbeans	MBeans are JMX beans, NOT JSF/CDI/Spring/etc "managed beans". For that, use [managed-bean] tag instead.
+gsm	GSM is an abbreviation for "Global System for Mobile Communication"
+vista64	64 Bit version of Windows Vista&#xD;&#xA;
+voronoi	A Voronoi diagram is a subdivision of space.
+compare	The analysis required to assess the differences and similarities between two or more entities.
+protection	avoid using this vague/ambiguous tag
+nodesets	\N
+diskspace	Issues relating to availability of disk space.
+conflict	DO NOT USE THIS TAG.
+office-2007	For issues relating to Microsoft Office, version 2007.
+dvcs	DVCS stands for Distributed Version Control System.
+nmea	National Marine Electronics Association (NMEA)
+multimedia	Multimedia refers to content that uses a combination of different content forms. 
+maze	A maze is a tour puzzle in the form of a complex branching passage.
+esql	Do not use this tag because it is ambiguous.  Use one of the tags [embedded-sql], [entity-sql] or [extended-sql], depending on which variant of ESQL you wish to ask about.
+pc	Anything about personal computers.
+filedialog	Refers to both OpenFileDialog and SaveFileDialog in .NET WinForms.
+dword	A DWORD is a 32-bit unsigned integer (range: 0 through 4294967295 decimal). Because a DWORD is unsigned, its first bit (Most Significant Bit (MSB)) is not reserved for signing.
+mbr	Master Boot Record: the first sector on disk, containing partition info
+jhat	jHat refers to Java Heap Analysis Tool.
+msde	Microsoft SQL Server Data Engine also known as Microsoft Data Engine
+spell-checking	Flagging words in a document that may not be spelled correctly.
+invisible	\N
+rfc2445	The RFC defines iCalendar and has been obsoleted by RFC5545 (Internet Calendaring and Scheduling Core Object Specification) on sept 2009.
+html-compression	HTML Compression is reducing the size of the HTML pages by eliminating unnecessary white spaces, tabs and newlines.
+bit-manipulation	The manipulation of individual bits. Operators used may include bitwise AND, OR, XOR, NOT, left-shift, and right-shift.
+jmf	JMF stands for the Java Media Framework.
+visual-studio-2003	Visual Studio 2003 is a version of Microsoft Visual Studio. Do not use this tag unless you have a specific question about Visual Studio -- not just a coding issue.
+dynamic-css	CSS is the abbreviation of Cascading Style Sheets
+tfs2008	Team Foundation Server 2008
+html-encode	Anything related to encoding or decoding HTML entities.
+xpsdocument	XPSDocument is a class that renders XPS documents in WPF (Windows Presentation Foundation)
+vistadb	VistaDB is an Embedded SQL Database Engine for .Net (SQL Server compatible)
+sql-server-2005	Use this tag for questions specific to the 2005 version of Microsoft's SQL Server.
+anonymous-inner-class	Anonymous Inner Classes are local classes that are declared and instantiated inline.
+trading	The act of buying and selling financial instruments, such as money markets spot instruments, stocks, bonds, commodities, virtual currencies, indices, futures, options, CFD-s and other derivatives, performed on a for-profit basis.
+g++	g++ is the C++ frontend to the GNU Compiler Collection (gcc). 
+date	A date is an ambiguous interval in time, which usually refers to a day, month and year.
+advertising	DO NOT USE THIS TAG.  If you want to, it is an indication your question is OFF TOPIC.  This tag is under burnination orders.
+header	This tag is deprecated because it lacks discriminating power. Please use a more specific tag instead, e.g.: html-heading, email-header etc.
+mta	Multiple Threaded Apartment  of the Component Object Model (COM), as opposed to STA
+blogengine.net	BlogEngine.NET is an Open Source blog based on ASP.NET. 
+symmetric	\N
+enter	The ENTER/RETURN key on the keyboard.
+pressed	This tag is extremely ambiguous, broad, and is not very useful. Please do not use it.
+qemu	QEMU is a generic and open source machine emulator and virtualizer
+lcd	LCD is an abbreviation for Liquid Crystal Display. 
+ads	Ads is an abbreviation for Advertisements.
+ocsp	Online Certificate Status Protocol
+termination	\N
+wordperfect	Automation of Corel WordPerfect using PerfectScript and other technologies.
+directed-graph	A directed graph (or digraph) is a graph, or set of nodes connected by edges, where the edges have a direction associated with them
+punbb	PunBB is a fast and lightweight PHP-powered discussion board. It is released under the GNU General Public License.
+evc	This tag is used for questions related to evc (eMbedded Visual C++).
+zxspectrum	The Sinclair ZX Spectrum was a popular 8-bit British microcomputer based on the Zilog Z80 CPU, which sold over five million units in the 1980s and was imitated by dozens of unofficial clones.
+alphanumeric	Alphanumeric refers to strings containing a combination of letters and digits.
+smartphone	Smartphone is a combination of mobile phone and PDA (Personal Digital Assistant).
+certificate	A certificate is an electronic document used in cryptography.
+vps	VPS stands for Virtual Private Server and usually refers to a single instance of a virtual machine leased for private running on a shared physical machine.
+crop	Crop refers to any issues relating to cropping images.
+ubuntu-8.04	For issues relating to using Ubuntu, version 8.04.
+microphone	A microphone is an acoustic-to-electric transducer or sensor that converts sound into an electrical signal.
+case	In SQL, the CASE expression executes a list of conditions, returning the result for the first condition which evaluates to true.
+adsi	Active Directory Services Interfaces
+usbserial	USB-to-serial Bridges/Adapters
+block	This tag is being burninated, because it can refer to many different things depending on the use of other tags with it. Do not use.
+mvcroutehandler	Questions about routing within ASP.Net MVC
+energy	Question regarding energy consumption of hardware of different instruments such as cpu's, cell-phones etc.
+commerce	E-Commerce related questions
+frequency	The rate at which a thing occurs or is found.
+sequence-diagram	The UML sequence diagram
+ansi	ANSI stands for American National Standards Institute. Please do not use this tag, see the full tag wiki for alternatives.
+aio	Asynchronous Input/Output, in computer science, is a form of input/output processing that permits other processing to continue before the transmission has finished.
+speech	Speech is the vocalized form of human communication.
+timing	timing is a numerical measurement of the how long it takes to execute an instruction or series of instructions
+axes	Axes - plural of axis
+easyphp	EasyPHP is an integrated installer for an Apache, PHP, MySQL stack on Windows
+internals	The internals tag denotes questions about how things work, as opposed to how to accomplish something specific. Of course, how something works underneath will have practical implications, but internals questions aren't about how to do something; rather, how to understand something.
+stopwatch	The System.Diagnostics.Stopwatch class in .Net, used to accurately measure elapsed time.
+brokenimage	A False/Forbidden image URL.
+balance	\N
+subfolder	Subfolder (or subdirectory)
+definition	A generic tag for topics providing definitions.
+pair	DO NOT USE THIS TAG.  It was removed as part of http://meta.stackexchange.com/questions/128315/the-great-stack-overflow-tag-question-cleanup-of-2012.
+highlighting	make chosen words or phrases more visually prominent
+xmlslurper	XMLSlurper is a Groovy class that makes parsing and working with XML simpler than with Java.
+jax-ws	JAX-WS is the JSR 224 defining a Java API for XML-Based Web Services
+group	This tag is proposed for burnination, please do not use it. If your question is about sql, either use generic tag, or if you really must use [group-by]. 
+rotatetransform	This is used to change the Angle of rotation for a UIElement
+mutable	A mutable can be modified after it is created.
+arrow	(Please use a different tag, like [arrow-keys] or [arrows])
+distributed-computing	utilizing more than one computer, connected to each other with a communication link to accomplish a common task.
+sigpipe	SIGPIPE is the signal sent to a process when it attempts to write to a pipe without a process connected to the other end.
+javamail	A Java API to send and receive emails. JavaMail is part of Java EE, but can also be used in Java SE via a separate download.
+csg	Constructive Solid Geometry
+flashdevelop	FlashDevelop is a popular, free and open source IDE for ActionScript and haXe.
+metric	\N
+dss	Data Services Server
+ipfw	ipfw is  FreeBSD firewall and is built-in  Mac OS X and DragonFly BSD . 
+mvcc	MVCC - Multi Version Concurrency Control
+relative	Something having, or standing in, some relation to something else. 
+inventory	List of goods and materials held available in stock by an entity.
+shape	Defines the boundaries of a visual respresentation.
+pda	acronym for PushDown Automata
+twiki	TWiki is an open source enterprise wiki
+ellipsis	An ellipsis is a series of dots, (usually 3, i.e. "…") used to indicate the omission of a word within some text, or more commonly that the preceding text has been truncated.
+windows-firewall	Questions referring to the firewall that comes built-in with windows.  Use this tag only when referring to the firewall that comes with Windows; Other firewalls that run on Windows should contain the two tags [windows] [firewall] instead.
+surface	A surface is a two-dimensional shape in a three-dimensional space.
+bde	BDE is the abbreviation for Borland Database Engine.
+pervasive	Pervasive PSQL is an ACID-compliant DBMS developed by Actian Corporation.
+wampserver	Specific release of the WAMP stack for Windows.
+thumbnails	Thumbnails are reduced-size versions of pictures, used to help in recognizing and organizing them, serving the same role for images as a normal text index does for words. 
+calibration	Use this tag for questions related to the process of adjusting the output or indication on a measurement instrument.
+wix3	For issues relating to deployment using Windows Installer XML, version 3.
+click-through	\N
+sqlanywhere	SAP SQL Anywhere is an RDBMS, produced by SAP. Before version 10, use [sybase-asa].
+wav	This tag is for questions related to the "Waveform Audio File Format", WAVE, or wav for short.
+local-security-policy	Local security settings for Windows
+provisioning	Act of obtaining resources for usage.  
+wurfl	WURFL stands for Wireless Universal Resource FiLe.&#xD;&#xA;&#xD;&#xA;
+gtk2	The GIMP ToolKit (GTK+) in its version 2.x.
+sgen	The Microsoft XML Serializer Generator Tool - creates xml serialiser assembly from an existing assembly.
+cdc	CDC may refer to the Communication Device Class (or USB CDC). Also may refer to Change Data Capture in Microsoft SQL Server. Also may refer to Connected Device Configuration in Java ME.
+popupmenu	Pop-up menus open to display a list of choices when triggered by the user.
+date-range	Date-range refers to a range of dates, i.e. a period of time between a start date and an end date.
+adorner	Abstract class that represents a FrameworkElement that decorates a UIElement.
+gantt-chart	For any issues relating to creating, rendering, and using Gantt charts.
+ejb-jar.xml	how ejb-jar.xml look like is described here.&#xD;&#xA;According to version of the EJB need to have use dtd path.&#xD;&#xA;EJB 1&#xD;&#xA;http://java.sun.com/j2ee/dtds/ejb-jar_1_1.dtd&#xD;&#xA;&#xD;&#xA;EJB 2.0&#xD;&#xA;&#xD;&#xA;"http://java.sun.com/dtd/ejb-jar_2_0.dtd"&#xD;&#xA;&#xD;&#xA;EJB 3.0 need xsd as updated Configuraions&#xD;&#xA; &#xD;&#xA;http://java.sun.com/xml/ns/javaee/ejb-jar_3_0.xsd"&#xD;&#xA;
+abc	Abstract Base Classes are non-instantiable classes used to define the expected behaviour of subclasses.
+eclipse-3.4	For issues relating to configuring or using Eclipse, version 3.4. Also known as Eclipse Ganymede. Use this tag for questions which are specific to this Eclipse release, in most cases you should also specify the eclipse tag. 
+clique	In the mathematical area of graph theory, a clique in an undirected graph is a subset of its vertices such that every two vertices in the subset are connected by an edge.
+timtowtdi	There Is More Than One Way To Do It.
+player	DO NOT USE: this tag is ambiguous and is in the process of being cleaned up and deleted.
+em	em is a unit of measurement in the context of typography. It can also stand for expectation-maximization in the context of statistics: use the [expectation-maximization] tag instead for this category of question.
+overhead	Overhead is any combination of excess or indirect computation time, memory, bandwidth, or other resources that are required to attain a particular goal.
+sprite	A sprite is a two-dimensional image or animation that is integrated into a larger scene.
+wallpaper	Wallpaper is the background image on one's "desktop" or "home screen."
+cycle	A cycle is a process or series of items, which repeats several times.
+lcm	LCM(a, b) is the smallest positive integer that is divisible by both a and b.
+sql-server-2005-express	Use this tag for questions specific to scaled down, free edition of SQL Server 2005.
+webinar	Presentation, lecture, or workshop that is transmitted over the Web.
+adjacency-list-model	\N
+ncr	Numeric Character Reference (NCR)
+nan	NaN is an abbreviation for "Not a Number". NaN is sometimes not equal to itself.
+jxl	Java Excel API - A Java API to read, write, and modify Excel spreadsheets
+google-widget	\N
+itemtemplate	A WPF/Xaml DataTemplate used to display each item in an ItemsControl.
+failovercluster	Microsoft Failover Clusters
+rectangles	A rectangle is a geometric shape: any quadrilateral with four right angles
+html-form	HTML forms are basic forms that can be used for user input within a web page.
+opf3	Object Persistent Framework 3
+godaddy	DO NOT USE THIS TAG. It is due for removal.
+certificate-authority	In cryptography, a certificate authority or certification authority (CA) is an entity that issues digital certificates.
+stemming	The process for reducing inflected words to their stem.
+find	This tag has multiple meanings.  Please DO NOT use this tag if you're just trying to find something.
+working-directory	\N
+bgiframe	bgiframe fixes the <select> menu issues in Internet Explorer 6.
+pitch-tracking	Pitch tracking is the process of finding the dominant frequency of an audio signal.
+qbxml	Quickbooks XML is used communicate with most versions of Quickbooks, including Online Edition
+email-validation	Email validation is the process of deciding whether a given string is a valid email-address or not.
+kernighan-and-ritchie	Questions about or related to the book "The C Programming Language" (which is also known as K&R) by Brian Kernighan and Dennis Ritchie.
+mailaddress	For questions about the MailAddress class in .NET - used for emailing.
+cohesion	\N
+scientific-computing	Use this tag for questions about using computers in science. Many of these questions also fit on scicomp.stackexchange.com.
+acronym	Acronyms are a series of letters that form a word based on another word or phrase.
+stylesheet	DO NOT USE THIS TAG. Use [css] for CSS related issues and [xslt] for XSLT related issues instead.
+page-break	Page breaks indicate the position at which one page should end and another should begin
+calculated-columns	A calculated column is calculated from an expression that can use other columns in the same table
+base-class	In Object Oriented Programming, a base class is one from which other classes inherit. For example, a  child-class `Male` and another child-class `Female` may both inherit from the base-class `Human`.
+jdk1.6	For issues relating to setting up or using the Java Development Kit (JDK), version 1.6.
+jdk1.5	For questions relating to using the Java Development Kit (JDK), version 1.5.
+beamer	Beamer is a LaTeX class for creating presentations.
+corruption	Data corruption and integrity issues
+kindle	Kindle eBook Reader 
+pys60	Python on Symbian Series 60
+itext	Library to create and manipulate PDF documents in Java and C#. This tag predominantly refers to iText versions up to 5.5.x. For iText versions from 7.0.0 onwards a separate tag "itext7" has been introduced.
+delphi-7	Delphi 7, released in August 2002, is a version of Delphi for Windows 32 bit.
+watchdog	Watchdog and watchdog timers.
+mirroring	\N
+rssi	RSSI stands for Received signal strength indication
+bssid	Basic Service Set Identification - MAC address of an Wireless Access Point.
+dpi	DPI stands for Dots Per Inch
+nose	Nose is an alternate Python unittest discovery and running process. It is intended to mimic the behavior of py.test as much as is reasonably possible.
+cdialog	In MFC, the base class used for displaying dialog boxes on the screen.
+decoding	Decoding is the reverse of encoding.
+dct	Discrete Cosine Transform (DCT).
+double-underscore	Use this tag for questions related to a Double Underscore, i.e. `__`.
+left-join	A left join is an outer join which generates a result that contains all the records of the "left" table even when there are no matching records in other tables taking part in the join.
+pod	DO NOT USE THIS TAG!
+execution	Refers to the act of running a process.  
+zone	\N
+eclipse-3.3	For issues relating to configuring or using Eclipse, version 3.3. Use this tag for questions which are specific to this Eclipse release, in most cases you should also specify the eclipse tag. 
+eclipse-3.2	For issues relating to configuring or using Eclipse, version 3.2. Use this tag for questions which are specific to this Eclipse release, in most cases you should also specify the eclipse tag. 
+vin	VIN is an abbreviation for Vehicle Identification Number
+newsletter	A email or document containing a one or more news stories that will be distributed to a group of subscribers. 
+palette	A helper class of Android to extract prominent colors from an image.&#xD;&#xA;
+reload	reloading is the process of re-requesting and re-rendering the currently displayed page
+quantization	Use this tag for questions related to quantization of any kind, such as vector quantization.
+gesture-recognition	Anything related to gesture recognition, i.e. the process of recognizing the gestures of a human user by a machine. 
+picker	Synonym of selector or chooser.
+combinatorics	Deals with combinations of entities belonging to a finite set in accordance with certain constraints.
+cpu-usage	CPU usage indicate how much of a workload is being handled by the CPU.
+prefix	A prefix is a part of a word attached to a beginning of a word which modifies the meaning of that stem.
+cfform	ColdFusion enhanced forms
+jdk1.4	For issues relating to setting up or using the Java Development Kit (JDK), version 1.4.
+nspredicateeditor	NSPredicateEditor is a Cocoa class derived from the NSRuleEditor to allow creating simple or complex rules.
+bulk-mail	Bulk (e)mailing is sending a similar email to multiple email addresses.
+fingerprint	Biometric modality that matches images of finger tips.
+shift	Questions related to the usage of the right and/or left shift key on the keyboard.
+pageload	Use this for general web page loading questions (HTML, PHP, ASP, etc).
+custom-tag	\N
+udpclient	UdpClient (System.Net.Sockets.UdpClient) is a .NET-Class allowing to send and receive UDP-Traffic.
+taxonomy	The classification, or categorization, of things
+dynamics-sl	Microsoft Dynamics (Solomon)
+symbol	A synonym for [tag:symbols].
+jdialog	The main Java Swing class for creating a dialog window.
+wbxml	WAP Binary XML(WBXML) is a binary serialization of the [XML Infoset](http://www.w3.org/TR/xml-infoset/).
+rampart	Apache Rampart - Axis2 Security Module
+avl-tree	Named after its inventors, Adelson-Velskii and Landis, an AVL tree is a self-balancing binary search tree.&#xD;&#xA;
+tasm	Turbo Assembler is an x86 assembler by Borland
+wic	Windows Imaging Component
+asqueryable	Converts IEnumerable to IQueryable
+defaultmodelbinder	\N
+formulas	A generic tag for questions concerning spreadsheet formulas. Use only when there is no more specific tag, such as [excel-formula] or [lotus-formula].
+perceptron	Perceptron is a basic linear classifier that outputs binary labels.
+eps	EPS is the common abbreviation for Encapsulated PostScript, a restricted version of PostScript meant to be embedded within other documents.
+abbreviation	For questions related to short forms of words or phrases.
+area	Area is a quantity that expresses the extent of a two-dimensional surface or shape, or planar lamina, in the plane.
+recursive-query	The ability to run recursive queries in SQL
+mom	Message Oriented Middleware
+bit	A bit is a single binary digit.
+contentpresenter	\N
+open-flash-chart	Open Flash Chart - JSON based very flexible flash chart renderer.
+smp	Symmetric multiprocessing
+profanity	A sacrilegious word, or more generally an offensive word. In the SO context, a word that may be filtered out of forum postings etc.
+resume-download	Tag for questions regarding resuming an interrrupted download - for example, using HTTP Range and Content-range headers.
+istream	In C++ std::istream is the base class for input streams.&#xD;&#xA;
+autolisp	AutoLISP is the flavor of LISP implemented by Autodesk for AutoCAD.  
+fsm	Acronym for Finite State Machine. 
+dompdf	An HTML to PDF converter written in PHP
+subform	Use this tag for questions related to a Subform, which is part of a bigger form.
+numerical-computing	Is an interconnected combination of computer science and mathematics .
+mousewheel	A mouse wheel (or scroll wheel) is a hard plastic or rubbery disc (the "wheel") on a computer mouse that is perpendicular to the mouse surface. It is used for scrolling.
+fragment	**DO NOT USE**: 'fragment' is an ambiguous tag, used to refer to numerous technologies.  Prefer less ambiguous tags. For Android Fragments, use [android-fragments].
+shapes	Questions related to drawing or defining shapes.
+segments	\N
+sqlobject	SQLObject is a powerful ORM for Python
+ia-32	Short for "Intel Architecture, 32-bit" (aka. i386, x86)
+iban	International Bank Account Number
+sta	Single-Threaded Apartment of the Component Object Model (COM), as opposed to MTA
+params	\N
+clear	Do not use. Purpose unclear and current usage ambiguous.
+aol	acronym for America Online
+pingback	Tell another webpage that your page links to it via XML-RPC. http://www.hixie.ch/specs/pingback/pingback
+directdraw	DirectDraw is a deprecated API that used to be a part of Microsoft's DirectX API.
+appendchild	adds a node to the end of the list of children of a specified parent node. If the node already exists it is removed from current parent node, then added to new parent node.
+variable-length	Refers to anything whose length can vary
+selectnodes	Selects a list of nodes matching the XPath expression.
+ctime	CTime Class&#xD;&#xA;&#xD;&#xA;The upper date limit is 12/31/3000. The lower limit is 1/1/1970 12:00:00 AM GMT.
+context-switch	A context switch is the process of storing and restoring the state (context) of a process.
+visual-studio-2008-sp1	For issues relating to Visual Studio 2008, Service Pack 1.
+rfc3339	A RFC entitled "Date and Time on the Internet: Timestamps"
+sanitize	Whitelist-based Ruby HTML and CSS sanitizer.
+loc	For questions concerning Lines of Code.
+virtual-inheritance	Virtual Inheritance is used to solve the Dreaded Diamond Problem associated with multiple inheritance in C++.
+ostringstream	Output stream class to operate on strings.
+ieee	IEEE, pronounced "Eye-triple-E," stands for the Institute of Electrical and Electronics Engineers.
+form-design	\N
+rigid-bodies	\N
+time-wait	the TIME_WAIT TCP connection state
+partial	Existing only in part; incomplete.
+level	This should redirect to `[r-factor]`.
+head	Check if you should use html-head or unix-head instead.
+storyboard	A storyboard is a graphic organizer in the form of illustrations or images displayed in sequence for the purpose of pre-visualizing a motion picture, animation, motion graphic or interactive media sequence. 
+webapplicationstresstool	Microsoft Web Application Stress Tool (WAS)
+euler-angles	The Euler angles are three angles introduced by Leonhard Euler to describe the 3D orientation of a rigid body.
+asp.net-mvc-routing	Questions about routing within ASP.NET (including MVC).
+sar	\N
+hbitmap	A handle to a bitmap (one of Windows Data Types)
+thread-state	Thread state describes state of thread in given time.
+masking	Force user input to conform to given rules.
+detail	Don't use this tag. It is ambiguous, and too broad to be meaningful.
+date-conversion	Conversion of dates from one calendar or notation to another, for example, converting Julian calendar February 29, 1700 to Gregorian calendar March 11, 1700, or "March 11, 1700" to "1700-03-11".
+simbl	SIMBL short for SIMple Bundle Loader, formerly Smart InputManager Bundle Loader.
+gdr	GDR - General Distribution Release (Microsoft)
+jtextarea	A JTextArea is a multi-line area that displays plain text.
+period	A period of time is an interval, a span of time.
+recompile	The act of compiling something again.
+cellspacing	Cellspacing is the amount of space in between the individual table cells.
+cellpadding	Cellpadding is HTML padding, as specific to table cells.
+cursor-position	\N
+operator-precedence	Operator Precedence is a rule used to clarify unambiguously which procedures should be performed first in a given expression
+x-cart	X-Cart is a web based, open source, shopping cart written in PHP.
+amortization	Amortization is the process of decreasing, or accounting for, an amount over a period.
+quest	Questions related to the PowerShell cmdlets from Quest Software
+lptstr	L‌ong P‌ointer to a T‌CHAR STR‌ing 
+decoupling	Decoupling is the reduction of dependencies between computational parts.
+nunit-2.5	For issues relating creating and running unit tests using NUnit, version 2.5.
+ucma	Unified Communications Managed API (UCMA)
+scroll-position	Tag related with keeping/changing/erasing scroll position or state in a View
+timer-jobs	Timer Jobs are recurring background processes that are managed by a Scheduler. &#xD;&#xA;&#xD;&#xA;A timer job would consist of three parts: Timer Job Definitions, Timer Job Instances, and Timer Job Schedules. 
+ancestor	In a graph, ancestor is a node that is connected to all lower-level nodes. The connected lower-level nodes are "descendants" of the ancestor node.
+details	Don't use this tag. It is ambiguous, and too broad to be meaningful.
+ubuntu-8.10	For issues relating to using Ubuntu, version 8.10.
+cfhttp	A ColdFusion/CFML tag that performs an HTTP request.
+man-in-the-middle	An attacker who interposes himself in the middle of a connection.
+selectonemenu	JSF tag to create a single-select menu.
+highrise	Highrise is a CRM for HR specialists.
+ado.net-entity-data-model	Covers the [Entity Data Model-part](https://en.wikipedia.org/wiki/Entity_Framework#Entity_Data_Model) of [ADO.NET](https://en.wikipedia.org/wiki/ADO.NET)
+orthogonal	Orthogonal refers to a line that relates to another line by a right angle.
+disconnect	A break or interruption in an existing connection, continuum, or process.
+fileinputstream	FileInputStream is a Java class meant for reading streams of raw bytes.
+ucd	IBM UrbanCode Deploy
+circular	A logical fallacy in which the developer begins with what he is trying to end up with, like class A extends B, class B extends A.
+http-caching	Eliminate the need to send HTTP requests in many cases, and eliminate the need to send full HTTP responses in other cases, by storing web content closer to where it is consumed.
+keylogger	Keystroke logging (Keylogging, Keylogger)
+backlight	A backlight is a form of illumination used in liquid crystal displays (LCDs) used in mobile, calculators and TV sscreens.
+ajax.beginform	Writes an opening <form> tag to the response.&#xD;&#xA;&#xD;&#xA;
+cewp	The Content Editor Web Part (CEWP) is an out-of-the-box SharePoint web part that allows users to enter rich HTML content.
+mandelbrot	The Mandelbrot set is a fractal in the complex plane. 
+lookahead	Lookahead is a zero-length assertion used in combinatorial searches and parsing.
+windows-live-id	A Windows Live ID is the email address and password you use to sign in to any of the following:&#xD;&#xA;&#xD;&#xA;    Xbox LIVE&#xD;&#xA;    Zune&#xD;&#xA;    Hotmail&#xD;&#xA;    MSN&#xD;&#xA;    Messenger&#xD;&#xA;    Find My Phone&#xD;&#xA;    OneDrive (formerly SkyDrive) 
+epic	EPIC - Eclipse Perl Plugin (IDE)
+acceleration	ambiguous tag: avoid
+asyncsocket	Asynchronous sockets allow for multiple simultaneous non-blocking socket connections.
+signedxml	The SignedXml class is the main class used for XML signing and verification (XMLDSIG) in the .NET Framework.
+parentid	The ID of a parent, which in an oriented tree, he is the previous node before the node of interest.
+css-editor	Tools used to edit CSS.
+selectsinglenode	Selects the first Xml Node that matches the XPath expression
+false-positive	False positive is the case where the positive result of a test doesn't correspond to reality. It leads to wrong decision.
+rspec-stories	A Cucumber-like story runner based on RSpec. Deprecated by its author, use Cucumber instead.
+wcf-authentication	Use this tag for questions related to the Windows Communication Foundation Authentication Service.
+sql-variant	Describes something rather similar to SQL but not actual ANSI-Complient SQL.
+seekableiterator	\N
+checkedlistbox	Displays a ListBox in which a check box is displayed to the left of each item.
+rds	This tag might refer to Microsoft Remote Desktop Services, Microsoft Robotics Developer Studio, or Microsoft Remote Data Service. For Amazon RDS, please use the [tag:amazon-rds] tag instead.
+albumart	A picture that represents the cover of an album
+tld	abbreviation for Top Level Domains
+aptitude	Aptitude is a front-end to the Advanced Packaging Tool (APT) It was initially created for Debian.
+inlineeditbox	Use this tag for questions related to InlineEditBox, which is best described as a behavior on some text on the page.
+gregorian-calendar	The Gregorian calendar is the de facto international civil calendar.
+clos	Common Lisp Object System
+factoring	"factoring" refers to the mathematical decomposition of integers into their factors
+ras	Remote Access Service.
+trivial	Easy question which are generic or very specific.
+incremental-linking	Incremental linking allows the linker to update the existing executable when re-compiled.
+beanstalkd	Beanstalkd is a simple, fast work queue.
+keyframe	The @keyframes rule is used to create CSS animations.
+cherokee	Cherokee is a fast, flexible and easy to configure Web Server.
+subgraph	Use this tag for questions related to a Subgraph, a part of a larger graph.
+milliseconds	A millisecond is a thousandth (1/1,000) of a second.
+reentrantreadwritelock	ReentrantReadWriteLock is a Java class providing the lock for working with multiple threads. 
+html.textbox	ASP.NET MVC helper to make textboxes
+gpu-programming	See the tag entry for [tag:gpu].
+multiple-conditions	\N
+speech-to-text	The translation of spoken words into text. Possible synonyms include automatic speech recognition, ASR, computer speech recognition, speech to text, STT. 
+powershell-ise	PowerShell-ISE refers to Microsoft Windows PowerShell's Integrated Scripting Environment.
+maximize-window	This tag refers to the process of increasing the size of a UI window to its fullest, so that it takes up the entire screen.
+jql	JIRA Query Language (JQL) is used to perform advanced searches within JIRA.
+tinterfacedobject	TInterfacedObject is a base for simple classes implementating basic IInterface. It is defined in the System.pas unit.
+tree-traversal	The process of visiting each node in a tree based on certain criterion.
+synapse	Apache Synapse is a lightweight and high-performance Enterprise Service Bus 
+fortress	Fortress Open Source IAM SDK
+ncb	\N
+contrast	the difference in color and light between parts of an image
+a0poster	a0poster is a class for the creation of a scientific poster in LaTex.
+gutter	Gutters are desirable white space between columns that makes for better legibility.
+inversion	\N
+ostream	In C++ std::ostream is the base class for output streams.
+region	Can refer to many different things depending on the use of other tags with it.
+powershell-v1.0	For issues relating to Windows PowerShell, version 1.0.
+perception	In SO, Perception means what an user believes by observing something. 
+toc	A table of contents is a summary of a larger piece of text.
+httpwatch	HttpWatch is an HTTP sniffer for IE, Firefox, iPhone & iPad.
+gnu-coreutils	Use this tag for questions specific to the GNU Core Utilities. If possible, add more specific tags such as "kill", "chown", "uniq" et cetera.
+spawn	loading and executing a new child process
+x509certificate2	.NET Class for handling X.509 Certificates
+eigenvector	The eigenvectors of a square matrix are the non-zero vectors that, after being multiplied by the matrix, remain parallel to the original vector.
+b2b	acronym for Business-to-business 
+urlrewriter.net	The open source URL rewriter for ASP.NET from urlrewriter.net
+full-text-indexing	indexing for full-text search
+image-rotation	Image rotation is performing a geometric rotation with certain angle on a particular image. 
+static-ip-address	A static IP address is simply a “permanent” address that remains associated with a single computer over an extended period of time.
+par	\N
+perforce-integrate	A process of merging or overwriting changes from one branch to another
+proxool	Proxool is a Java connection pool
+rot13	ROT13 ("rotate 13 places") is a simple cypher in which each letter is replaced with the letter that comes 13 places after it in the alphabet.
+fcl	Framework Class Library
+uncertainty	\N
+circle	This tag has been deprecated. Please use [geometry] instead.
+option	DO NOT USE THIS TAG. It is ambiguous and not helpful.
+child-process	For questions regarding  child-process 
+kubuntu	An official derivative of Ubuntu Linux that uses KDE as the default Desktop Environment.
+hwpf	Apache POI - HWPF - Java API to Handle Microsoft Word Files
+sql-server-7	Use this tag for questions specific to the 7.0 version of Microsoft's SQL Server.
+blackberry-storm	The BlackBerry Storm is a series of touch screen smartphones manufactured by Research In Motion.
+firebird1.5	For questions specific to Firebird 1.5. It is advisable to also tag with firebird.
+pch	Precompile Prefix Header
+partial-page-refresh	Modify part of a page without reloading/refreshing.
+beam	This tag should be used for questions about the BEAM, the Erlang virtual machine.
+xpath-1.0	Use this tag for questions specific to XML Path Language (XPath) version 1.0
+uiimage	The basic image handling class of Cocoa-Touch on iOS. It is Available in iOS 2.0 and later.
+stereo-3d	This tag should only be used for issues directly related to binocular graphical rendering. If you are not displaying different graphical images to the left and right eyes, do not use this tag.
+gstring	Groovy String class 
+enterprisedb	EnterpriseDB is the vendor of Postgres Plus and Postgres Plus Advanced Server, two semi-compatible PostgreSQL variants.
+java1.4	Java 2 SE version 1.4 was released in February 2002, and has reached its End of Service Life on October 30th 2008.&#xD;&#xA;
+xilinx	Xilinx is a major brand of Field Programmable Gate Arrays (FPGA).
+virtex	Virtex is a series of FPGAs produced by Xilinx
+photo-gallery	For questions relating to image galleries
+sha512	The 512-bit version of the Secure Hash Algorithm.
+rfc3986	A RFC entitled "Uniform Resource Identifier (URI): Generic Syntax"
+uimanager	UIManager manages the current look and feel and its defaults.
+clip	Clipping is restricting the surface on which a drawing is made
+cite	\N
+const-iterator	A C++ STL iterator with strictly read-only access.
+pulse	\N
+tikz	TikZ is a set of higher-level TeX macros for producing vector graphics that use PGF (Portable Graphics Format)
+ubuntu-9.04	For issues relating to using Ubuntu, version 9.04.
+chatroom	Chatrooms are places where multiple users can communicate online and talk about a specific topic.
+multitexturing	Multitexturing is the use of more than one texture at a time on a polygon.
+nsinputstream	\N
+git-push	Pushes the changes from a local Git repo to remote
+pisa	Pisa is a Python HTML/XHTML/CSS to PDF converter
+lemmatization	Lemmatization in linguistics is the process of grouping together the different inflected forms of a word so they can be analyzed as a single item.
+fiber	Fibers are particularly lightweight threads of execution which use co-operative multitasking.
+luhn	Luhn is a simple checksum formula.
+sampling	In signal processing, sampling is the reduction of a continuous signal to a discrete signal.
+movement	DO NOT USE - ambiguous
+gedcom	GEDCOM, an acronym for GEnealogical Data COMmunication.
+blackjack	Card Game – Where the aim is to get your cards as closer to 21 then the dealer, while not going over.  J, Q, K are worth 10.  A are either 11 or 1.
+no-www	The process of eliminating the usage of WWW to prefix URLs.
+latin1	Latin1 - ISO-8859-1.
+byte-shifting	\N
+applicationsettingsbase	Use this tag for questions related to the ApplicationSettingsBase Class, of C#.
+opentypefont	Do not use this tag. Use the OpenType tag instead.
+sql-server-2008	Use this tag for questions specific to the 2008 version of Microsoft's SQL Server.
+ppc	Power PC, use the "powerpc" tag. This is not "Pay per click"; use the "pay-per-click" tag for that.
+built-in-types	This tag is synonymous to the [primitive] tag. Please use it instead!
+minimum-spanning-tree	A minimum spanning tree (MST) or minimum weight spanning tree is a spanning tree of a connected, undirected graph with the least possible weight.
+arrow-keys	The up, down, left, and right keys on a keyboard, also known as "cursor keys".
+contingency	A contingency table is a non-negative integer matrix with specified row and column sums.
+venn-diagram	For questions about Venn diagrams.
+ajaxform	A HTML form that is submitted by using an AJAX request
+dmoz	The "Directory Mozilla" which is also known as the Open Directory Project (ODP).
+humanize	To humanize is to make something friendlier to humans. Humanizing makes things more civilized, refined, and understandable.
+jpl	A Java Interface to Prolog.
+rfc2616	An RFC entitled "Hypertext Transfer Protocol -- HTTP/1.1"
+tabindex	The [tabindex] is used to define a sequence that users follow when they use the Tab key to navigate through a page. By default, the natural tabbing order will match the source order in the markup.
+strcat-s	strcat_s is a proposed safer version of strcat
+cheetah	Cheetah is an Open Source Python based Templating Framework.
+spinlock	A spinlock is a lock which causes a thread trying to acquire it to simply wait in a loop ("spin") while repeatedly checking if the lock is available.
+waithandle	\N
+resizable	To make something bigger or smaller, especially an image on a computer screen.
+xpointer	XPointer uses XPath expressions to navigate an XML document to target XLink hyperlinks at specific parts of an XML document.
+vb5	Microsoft released Visual Basic version 5.0 (February 1997) exclusively for 32-bit versions of Windows. 
+ollydbg	OllyDbg is a Ring3, Win32 debugger.
+modalpopup	A modal pop-up window is a window that is displayed on top of the main window and that disables the main window until the user has finished interacting with the pop-up window.
+linkedhashset	LinkedHashSet is a variant of HashSet
+ampersand	An ampersand (or epershand; "&") is a logogram representing the conjunction word "and". This symbol is a ligature of the letters in et, Latin for "and".
+ugc	User-generated content
+stringtokenizer	StringTokenizer is a Java class that breaks a string into tokens.
+http-content-length	The Content-Length header specifies the length (in bytes) of the content, both for requests and responses.  
+pamie	P.A.M.I.E. - stands for Python Automated Module For I.E.&#xD;&#xA;
+scatterview	MPI Scatterv c++ vectors
+uid	uid refers to a string used for record keeping which is not guaranteed to be unique, but should be in the large majority of use cases.
+immediate	This tag is ambiguous. Do not use it. See info link for alternatives.
+render-to-texture	The ability to use a texture as a target image for rendering.
+spanning-tree	A spanning tree in an connected, undirected graph is a subgraph that includes all vertices, is a tree and is connected.
+eclipse-3.5	For issues relating to configuring or using Eclipse, version 3.5. Also known as Eclipse Galileo. Use this tag for questions which are specific to this Eclipse release, in most cases you should also specify the eclipse tag. 
+businessworks	TIBCO ActiveMatrix BusinessWorks
+session-scope	A state of the Java bean that holds it during HTTP session.
+worldpay	Tag for entries relating to Worldpay, previously RBS Worldpay.
+uitabbaritem	The UITabBarItem class implements an item on a tab bar, instances of the UITabBar class. Tab bar items are used to configure the tab bar.
+mbstring	MultiByte String in PHP
+pci-bus	Peripheral Component Interconnect, PCI bus is the most used bus in computers during the late 1990's and early 2000's
+font-face	@font-face is a CSS rule that allows the definition of embedded fonts within a webpage.
+touchpad	\N
+wss-3.0	Windows SharePoint Services version 3.0
+ll	LL(k) grammars are grammars that can be parsed from left-to-right, creating a leftmost derivation, using k tokens of lookahead.
+dst	DST is the tag for Daylight Saving Time issues.  DST, also known as summer time, starts when a time zone shifts its clocks forward (in the spring), and ends when the clocks shift back (in the fall).
+splistitem	Represents an item or row in a SharePoint list.
+part-of-speech	Linguistic category of words
+nscalendar	NSCalendar is an Apple MacOS and iOS class to deal with calendrical computation.
+firebird2.1	For questions specific to Firebird 2.1. It is advisable to also tag with firebird.
+nsmutabledictionary	NSMutableDictionary is the mutable version of NSDictionary.
+medial-axis	Use for questions related to the computation or/and processing of the medial axis.
+password-encryption	Password encryption is the act of securing a password with another password. If your intent is to use passwords for authentication (e.g. for logins), you should look at hashing instead of encryption. Use this tag for question about how or better still whether to encrypt passwords.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;
+jpda	Java Platform Debugger Architecture
+jet-sql	Jet-SQL is an SQL dialect used in Microsoft Access.
+radiant	A Ruby on Rails CMS.
+phase	phase is angular shift between periodic signals.
+google-chrome-os	This tag is dedicated to questions about Chrome OS.
+.net-2.0	The 2.0 version of the .NET Framework. For questions on .NET Framework generally, use the .net tag.
+segment	Segment is an ambiguous tag and one should refrain from using it.&#xD;&#xA;It has several, very different, meanings in CS.&#xD;&#xA;Please try and pick a more accurate tag for your post. 
+ota	Over-the-air wireless communication
+sql-server-2008-r2	Use this tag for questions specific to the 2008 R2 version of Microsoft's SQL Server.
+strikethrough	Strikethrough (or strikeout) is a typographic text decoration used to indicate cancelled words or sentences. A strikethrough consists of a horizontal line crossing text through the center.
+zend-form-sub-form	Use this tag for questions related to Sub Forms, from the Zend Framework. 
+visual-studio-6	Visual Studio 6.0 is a Microsoft IDE released in 1998
+base62	Base62 is a positional notation compression notably used (optionally) by Dean Edwards' packer JavaScript compressor.
+heterogeneous	This tag is ambiguous. Please use other, more specific tags to narrow down the scope of your question.
+pde	Use this tag for questions about partial differential equations. For questions about the Eclipse Plugin Development Environment, use eclipse-pde instead.
+precompile	All questions regarding the precompile process should be tagged here
+date-comparison	This tag refers to the process of comparing two or more dates with one another.
+jscompress	An online JavaScript compressor that uses UglifyJS2 for all compression.
+adox	stands for Microsoft's ActiveX Data Objects.
+business-application	Software critical to the running of a business. 
+hateoas	HATEOAS is an acronym for Hypermedia As The Engine of Application State. Its usage makes your RESTful APIs self discoverable and makes them Level 3 RMM compliant.
+javap	javap - The Java Class File Disassembler
+swipe	A quick motion gesture across the touchscreen.
+italics	This tag should not be used. Use typography instead.
+jquery-1.3.2	For issues relating to using jQuery, version 1.3.2&#xD;&#xA;
+wssf	Web Service Software Factory
+rdtsc	RDTSC is the x86 read time stamp counter instruction.
+xsd2code	Xsd2Code is a CSharp or Visual Basic Business Entity class Generator from XSD schema.
+commandlink	JSF tag to create a POST link.
+csb	\N
+outlook-2007	For issues relating to integrating with Microsoft Outlook, release 2007.
+j9	IBM's J9 Java Virtual Machine
+relative-url	A URL that is relative to another URL.
+piano	The piano (an abbreviation of pianoforte) is a musical instrument played using a keyboard.
+pervasive-sql	Pervasive PSQL is an ACID-compliant DBMS
+wix2	For issues relating to deployment using Windows Installer XML, version 2.
+polyline	Polyline in computer graphics is a continuous line composed of one or more line segments.
+regexkitlite	Lightweight Objective-C Regular Expressions for Mac OS X using the ICU Library
+synchronizationcontext	A .NET target to dispatch some work to. In winforms and WPF this is usually to the main UI thread.
+hash-of-hashes	A hash-of-hashes is a multi-dimensional hash that contains nested hashes.
+sublist	A list that makes up part of a larger list.
+reverse-geocoding	Generates an address from a latitude and longitude.
+ajdt	AJDT stands for AspectJ Development Tools, an Eclipse plug-in for Aspect Oriented Software Development in Java.
+nsscrollview	Apple OS X Developer API : NSScrollView class is the central coordinator for the Application Kit’s scrolling machinery
+recordstore	class in Java ME MIDP API - javax.microedition.rms.RecordStore
+mov	Questions related to the assembler `mov` instruction
+tps	Clarion TopSpeed Database Files
+windows-xp-sp3	Windows XP Service Pack 3 (SP3) was released to manufacturing on April 21, 2008, and to the public via both the Microsoft Download Center and Windows Update on May 6, 2008.
+jsr305	(Dormant JSR) Annotations for Software Defect Detection
+textrange	Represents a selection of content between two TextPointer positions.
+testswarm	Automated distributed continuous integration for JavaScript
+dbcc	DBCC stands for Database Console Commands in Transact-SQL.
+dom-traversal	The process of traversing the Document Object Model (DOM) tree and finding nodes based on certain criterion.
+cfmail	ColdFusion tag for sending out emails.
+rfc2898	RFC 2898 issued by the IETF in 2000 is about "PKCS #5: Password-Based Cryptography Specification Version 2.0" and is mainly a republication of PKCS #5 v2.0 from RSA    Laboratories' Public-Key Cryptography Standards (PKCS) series
+pdfptable	Table class used by iTextPdf (iText and iTextSharp) versions 5.x for generating tables
+code-smell	DO NOT USE THIS TAG, it is under an active burnination process: http://meta.stackoverflow.com/q/306314
+pom.xml	A Project Object Model or POM is the fundamental unit of work in Maven.
+doxywizard	a GUI front-end for configuring and running doxygen.
+memory-limit	\N
+hamiltonian-cycle	A Hamiltonian cycle is a cycle in a directed or undirected graph that visits each node/vertex exactly once.
+initialization-list	Initialisation lists are used to initialise class members in other than default manner. This is usually used in cases where class member is a class instance.
+antlr3	Version 3 of ANTLR (ANother Tool for Language Recognition) created and written by Dr. Terrence Parr
+trimming	trimming is a string manipulation in which leading and trailing whitespace is removed from a string.
+sorl-thumbnail	Thumbnails for Django
+websphere-6.1	Use this tag for questions related to version 6.1 of IBM's WebSphere Application Server.
+xsom	XML Schema Object Model (XSOM)
+scene	'scene' can refer to various things. Please combine this tag with other tags to put your question into perspective.
+pipelined-function	Use the result of a PL/SQL routine as if it were a table.
+ms-access-2003	Use this tag for questions specific to Microsoft Access 2003.  Use the more generic [ms-access] tag for general Access questions.
+current-working-directory	\N
+topological-sort	A topological sort of a directed graph produces a linear ordering of its vertices such that, for every edge uv, u comes before v in the ordering.
+computer-science-theory	Theoretical computer science (TCS) is a division or subset of general computer science and mathematics which focuses on more abstract or mathematical aspects of computing and includes the theory of computation.
+groovyclassloader	GroovyClassLoader is a ClassLoader for loading Groovy classes.
+pantheios	Pantheios is an open source logging API for C and C++
+removechild	removes and returns a child node from the DOM
+soundmanager2	SoundManager 2 is an open source audio API. It uses HTML5 and/or Flash to play audio using JavaScript.
+2d-3d-conversion	Process of transforming from 2D ("flat") to 3D form.
+oas	Oracle Application Server
+ora-01843	ORA-01843: not a valid month
+marker	Google Map Marker (using in making Google Maps)
+jsr199	JSR 199: Java Compiler API
+ora-12571	ORA-12571: TNS:packet writer failure
+mysql-error-1054	ERROR 1054 (42S22): Unknown column 'table.column' in '? clause'
+qgraphicsitem	The QGraphicsItem class is the base class for all graphical items in a QGraphicsScene.
+testcaseattribute	Starting with 2.5.x, TestCaseAttributes can be used to create parametrized tests in NUnit.  
+document-body	The body is part of an HTML document. It contains the content of that document.
+default-scope	default order or where clause for all queries
+stun	STUN stands for Session Traversal Utilities for NAT. It helps peers located behind NATs communicate with each other when they only have private IP addresses.
+altera	Altera, which is wholly owned subsidiary of Intel, is a major brand of Field Programmable Gate Arrays (FPGA).
+servlet-dispatching	A process of invoking a servlet dispatcher to handle a new URI.
+uservoice	Use this tag for questions about the UserVoice API.
+antiforgerytoken	Cryptographic Nonce for anti-CSRF protection
+.net-4.0-beta-2	Version 4.0 Beta 2 of the .NET Framework, it accompanied the release of Visual Studio 2010 Beta 2.
+apache2.2	Use this tag for Apache version 2.2.x specific question.
+powerset	A powerset is the set of all subsets for a given set.
+blackberry-jde	Blackberry Java Development Environment
+end-of-line	The end of a physical line
+firebird2.5	For questions specific to Firebird 2.5. It is advisable to also tag with firebird.
+forex	The foreign exchange market (forex, FX, or currency market) is a form of exchange for the global decentralized trading of international currencies.
+scorm2004	SCORM 2004 is the current version of SCORM 
+android-2.0-eclair	For issues relating to developing with the android SDK, version 2.0 (Eclair).
+unreal-development-kit	Unreal Development Kit (Game Engine)
+jdk6	For issues relating to setting up or using the Java Development Kit (JDK), version 6.
+application-lifecycle	\N
+datagridtextcolumn	Represents a DataGrid column that hosts textual content in its cells.
+socketchannel	Issues related to socket channel for stream-oriented connecting sockets in Java
+pulsar	Lightweight threads, CSP and Erlang-like actors for Clojure.&#xD;&#xA;
+bpmn	Business Process Model & Notation 
+htc-hero	HTC Hero is a smart phone that runs on Android
+response.addheader	Adds an HTTP Header to an output stream.
+createcriteria	Creating criteria based queries with GORM, Hibernate or Grails
+zend-test	Unit Testing a Zend Framework
+ubuntu-9.10	For issues relating to using Ubuntu, version 9.10.
+ebay-lms	Ebay's Large Merchant Services.
+eclipse-3.5.1	For issues relating to configuring or using Eclipse, version 3.5.1. Also known as Eclipse Galileo.
+pvm	Parallel Virtual Machine
+nested-urls	This tag refers to URLs which contain one or more smaller URLs within them.
+loess	Local regression - a form of non-parametric regression.
+motorola-droid	Content related to Motorola Droid phones
+browserfield	BrowserField is a class of BlackBerry which is used to display web content within BlackBerry Java Application
+valuestack	The ValueStack is a context for the beans evaluated via the EL expressions.
+mysql-error-1066	MySql Error #1066: Not unique table/alias: '%s'
+scraper	DO NOT USE THIS TAG. It is under an active burnination process: http://meta.stackoverflow.com/q/305314
+nachos	Educational machine and OS simulator
+spawn-fcgi	spawn-fcgi is used to spawn remote and local FastCGI processes.
+festival	The Festival Speech Synthesis System 
+pinning	Pinning is the process of associating a host with their expected X509 certificate or public key.
+world-of-warcraft	World of Warcraft is an MMORPG created by Blizzard Entertainment.
+mkcoordinatespan	MKCoordinateSpan is a struct used in Map Kit to describe the size of a given area rectangle.
+image-editing	Anything related to image editing
+google-alerts	Monitor the Web for interesting new content
+staticresource	StaticResource refers to a Xaml Markup Extension implemented as part of the Windows Presentation Foundation (WPF) Resource Model. 
+pangram	A pangram is a piece of text that contains every letter of the alphabet at least once. &#xD;&#xA;"Quick fox jumps nightly above wizard."
+remarks	\N
+jsr330	JSR 330: Dependency Injection for Java
+jtoolbar	refers either to Joomla JToolBar or Java Swing JToolBar.
+aiff	<p>Audio Interchange File Format</p>&#xA;
+pretty-urls	Pretty URLs are URLs that are SEO-friendly and easy-to-read.
+xop	XML-binary Optimized Packaging - convention for serialization of  XML Infosets.
+markov-models	\N
+zendx	ZendX stands for “Zend Framework – Extras Library"
+windows-3.1	About Microsoft Windows 3.1
+assistive-technology	Assistive Technology (AT) is primarily used by people with disabilities to assist or allow them to use various technologies.
+if-modified-since	If-Modified-Since is a HTTP conditional request header, where last modification date is the condition.
+wsod	White Screen Of Death
+mysql-error-1062	ERROR 1062 (23000): Duplicate entry '%s' for key '%s'
+strip-tags	Use this tag for questions related to removing tags (HTML or otherwise) from text.
+joystick	For questions about joysticks.
+mysql-error-1093	ERROR 1093 (HY000): You can't specify target table '%s' for update in FROM clause
+mvc-editor-templates	ASP.NET-MVC EditorTemplates
+sql-server-job	A SQL Server Job is a task that can be executed by the SQL Server Agent
+splay-tree	A splay tree is a self-adjusting binary search tree with excellent amortized performance.
+glu	The OpenGL Utility Library
+mysql-error-1045	ERROR 1045 (28000): Access denied for user '%s'@'%s' (using password: %s)
+recursive-regex	Using a regular expression to parse an expression which contains the same expression e.g. `{ foo bar {zoo} }`
+php-gd	The PHP GD class contains built in image manipulation for PHP versions 4.3 and up.
+grandchild	Grandchild is a child's child.
+powerpoint-vba	Visual Basic for Applications (VBA) in Microsoft PowerPoint
+eclipse-ecf	Eclipse Communication Framework
+rufus-scheduler	rufus-scheduler is a job scheduler for Ruby (at, cron, in, every and interval jobs). It's not a substitute for cron, it's just a small in-process scheduler.
+ora-12541	ORA-12541: TNS no listener
+nhibernate-3	Use this tag for Nhibernate version 3.x series specific question.
+iphone-vibrate	Refers to the vibration of the iPhone.
+xpath-2.0	Use this tag for questions specific to XML Path Language (XPath) version 2.0
+nsurlcache	NSURLCache is a class that is used in ios developing for caching the responses of the URL. It is available in OS X v10.2 with Safari 1.0 installed, available in OS X v10.2.7 and later .
+git-log	Shows the commit logs of a Git repo
+advanced-search	The advanced search is a search using specific parameters which allows to receive results that are more accurate (than the simple search)
+producer	Producer is an actor in the Producer Consumer scenario
+railscasts	Short Ruby on Rails screencasts containing tips, tricks and tutorials.
+telerik-mvc	Questions about Telerik ASP.NET MVC Extensions
+subforms	Use this tag for questions related to Subforms, which are part of a bigger form.
+quickbasic	About Microsoft QuickBASIC
+trace32	Trace32 is an In-Circuit Debugger.
+aspdotnetstorefront	an IIS hosted shopping cart also known as ASPDNSF
+qmap	QMap is a Qt class that implements a map a.k.a. a skip-list-based dictionary.
+mootools1.2	MooTools 1.2 is a version of the MooTools JavaScript Library first released on June 12th, 2008.
+nested-table	Table containing another table (hierarchical table)
+processor-architecture	\N
+page-size	Successive paper sizes in the series A1, A2, A3, and so forth, are defined by halving the preceding paper size along the larger dimension. The most frequently used paper size is A4 (210 × 297 mm). 
+.x	Direct3D Object (Microsoft Corporation)
+nsuinteger	An Objective-C unsigned integer
+installed-applications	Use this tag for questions related to Installed Applications, in an iPhone for example.
+sens	System Event Notification Service
+heap-dump	A heap dump is a snapshot of the memory of a Java process.
+gksession	Used to discover nearby iOS Devices using Bluetooth or Wifi
+stream-operators	Operators used for extracting or inserting into a stream.
+mappedsuperclass	Annotation for a class that entity classes inherit from
+git-reset	Sets the current Git repo head to a specified commit and optionally resets the index and working tree to match.
+with-clause	A synonym for "common table expression". It is recommended to use the tag "common-table-expression" instead
+textlabel	Returns the label used for the main textual content of the table cell. (read-only)&#xD;&#xA;
+adjacency-matrix	A means of representing which vertices (or nodes) of a graph are adjacent to which other vertices.
+pso	Particle swarm optimization (PSO)
+ordinal-indicator	\N
+ora-00984	ORA-00984: column not allowed here
+constant-expression	Constant expressions can be evaluated at compile time.
+mosaic	Mosaic is the predecessor to Netscape Navigator and Internet Explorer.
+jmenu	\N
+fixnum	The Ruby Fixnum class.
+imageurl	**imageurl** (image URL) relates to the source URL at which an image is located.
+adfs2.0	Active Directory Federation Services 2.0
+differentiation	The process of finding a derivative.
+short-open-tags	Tells PHP whether the short form (<? ?>) of PHP's open tag should be allowed.
+android-sdcard	SD Card is a Secure Digital Card available with Android which acts as the External Storage Directory.
+android-image	This tag is for questions related to images on Android
+wsit	Web Services Interoperability Technologies.
+ninject-2	tag for questions related to ninject -2 version of ninject dependency injector
+android-animation	Animations can be integrated into Android Apps, through both Java and XML.
+eclipse-3.6	For issues relating to configuring or using Eclipse 3.6 (Helios) released on 23 June 2010.  Use this tag for questions which are specific to this Eclipse release, in most cases you should also specify the eclipse tag.
+qtablewidgetitem	QTableWidgetItem is a Qt class providing an item for use with the QTableWidget class.
+wix3.5	For issues relating to deployment using Windows Installer XML, version 3.5.
+image-stitching	References the process of combining, or stitching together, one or more images.
+hyperjaxb	HyperJaxb3 adds JPA annotations to jaxb classes. 
+parallel-for	Parallel.For executes a for loop in which iterations may run in parallel to each other.
+srgb	sRGB refers to the sRGB color space used in digital imaging. Use this tag if you want to ask a question about converting to/from sRGB or modifying images in the sRGB spectrum.
+symmetry	\N
+audiosession	An audio session is a group of related audio streams.
+uipicker	DO NOT USE. Please use the [tag:UIPickerView] tag
+leap-year	A leap year is a year containing one additional day.
+coldfusion-8	For issues relating to using ColdFusion, version 8.
+private-class	\N
+sqlparameter	a .NET class for representing SQL parameters in SqlCommands
+http-status-code-500	Please DO NOT USE THIS TAG. It is meaningless for categorizing your question.
+accumulate	Accumulation refers to the process of repeatedly combining the previously calculated result with the next item, until the supply of items is exhausted. 
+tesla	Nvidia Tesla is a brand of GPUs targeting the high performance computing market.
+albacore	Albacore: Dolphin-Safe Rake Tasks For .NET Systems
+indexed-properties	Properties of a Java Bean that could be accessed via index.
+unjar	A synonym for the Ant unzip task
+dbaccess	DBAccess is a freely distributed ORM for use on iOS & MacOS X, created by iPresent inc.
+robocup	RoboCup is an annual international robotics competition. The challenge promote robotics and AI research. 
+zipoutputstream	ZipOutputStream is used to write ZipEntrys to the underlying stream. Output from ZipOutputStream can be read using ZipFile or ZipInputStream.
+xna-4.0	Version 4.0 (Final) of Microsoft's XNA Framework. If you use this tag, please also include the main tag XNA.
+custom-url	A custom url is a url that deviates from whatever is the default url
+rewritepath	Redirects a request for a resource to a different path than the one that is indicated by the requested URL. &#xD;&#xA;&#xD;&#xA;One of the uses of `RewritePath` is to strip session IDs from URLs.
+azure-worker-roles	For questions relating to the Microsoft Azure Worker Role.
+computus	Anything related to the "computus" (from medieval Latin), i.e. the computation of the date of Easter.
+curl-multi	is refer to multiple synchronous curl transfers
+dft	Discrete Fourier transform (DFT) is a specific kind of discrete transform, used in Fourier analysis. 
+vc10	An acronym for Microsoft Visual C++ 2010.
+jsr-275	JSR 275: Units Specification
+htc-hd2	HTC HD2 is a smartphone that runs on Android
+oscilloscope	Laboratory instrument to observe changes of electric signals on the screen.
+shutdown-hook	A shutdown hook is simply an initialized but unstarted thread. When the virtual machine begins its shutdown sequence it will start all registered shutdown hooks in some unspecified order and let them run concurrently.
+mac-classic	Having to do with the (obsolete) versions of Mac OS prior to Mac OS X. Questions about these versions often relate to retrocomputing or backwards compatibility.
+preemptive	\N
+css-parsing	CSS is the abbreviation of Cascading Style Sheets
+public-key	Public-key (or asymmetric) cryptography is a form of cryptography that does not require common secrets between the communicating partners.
+craigslist	Craigslist is a free online community for locals to buy, sell, trade, and discuss.
+differential-execution	What is differential execution and what is it good for?
+access-token	Access Token is the last token acquired during the OAuth authentication process.
+c2079	C2079 is a Compiler Error that occurs when one uses an undefined class, struct, or union.
+cfwindow	Questions regarding the `cfwindow` tag introduced in ColdFusion 8.
+websphere-7	Version 7.x of IBM WebSphere Application Server (WAS)
+mifare	MIFARE is the well-known trademark (owned by NXP Semiconductors) of RFID and NFC chips used in cards, tags and mobile phones.
+implicits	Anything related to Scala implicit parameters or conversions 
+ios3.0	For issues relating to using iOS, version 3.0.
+atmosphere	The Asynchronous WebSocket/Comet Framework
+inputverifier	An InputVerifier validates input in Graphical User Interface  (GUI).
+zx81	The ZX81, released in a slightly modified form in the United States as the Timex Sinclair 1000, was a home computer produced by Sinclair Research and manufactured in Scotland by Timex Corporation
+helios	Version 3.6 of Eclipse. Use this tag for questions which are specific to this Eclipse release, in most cases you should also specify the eclipse tag. 
+coldfusion-6	For issues relating to using ColdFusion, version 6.
+media-url	MEDIA_URL that handles the media served from MEDIA_ROOT
+android-1.6-donut	For issues relating to developing with the android SDK, version 1.6 (Donut).
+mxhr	Multipart XMLHttpRequests
+iis-express	IIS Express is the developer version of full IIS that doesn't require Administrator rights to run.&#xD;&#xA;&#xD;&#xA;See also [tag:iis]
+text-to-html	Convert plain text to HTML paragaphs.
+repositorylookupedit	\N
+ora-00054	ORA-00054: resource busy and acquire with NOWAIT specified
+java-6	Java SE version 6 was released in December 2006.  Use this tag for questions specific to this version of Java.
+apache-felix	Apache Felix is a community effort to implement the OSGi R4 Service Platform and other interesting OSGi-related technologies under the Apache license. 
+perl-io	Input/Output in Perl
+distinct-on	Use this tag for questions relevant to DISTINCT ON, which is used to eliminate rows that match on all specified expressions.
+mysql-error-1040	ERROR 1040: Too many connections
+innerxhtml	innerXHTML is a glorified DOM read/writer. innerXHTML reads the document node tree, returning a text string of markup to the document's equivalent. Issues related with this can be tagged with [innerXHTML] .
+android-titlebar	Android Bar that contains a title for the Application or for the current Screen. It is the same as the Android ActionBar.
+spuser	Represents a user in Microsoft SharePoint Foundation.
+static-factory	\N
+lg	LG is a multi national brand that sells electronic goods
+hashtag	A hashtag is label that classifies text as a specific category. It was popularized by twitter users
+mogenerator	Utility to easily create and maintain custom NSManagedObject subclasses for Core Data entities. 
+jsperf	JavaScript performance playground
+spring-3	Version 3.x of the Spring Framework, use [tag:spring] for general Spring related questions.
+jsr166	JSR 166: Concurrency Utilities (Java)
+coldfusion-7	For issues relating to using ColdFusion, version 7.
+ios32	For issues relating to using iOS, version 3.2.
+levenshtein-distance	A metric for measuring the amount of difference between two sequences.
+blender-2.50	For issues relating to using Blender, version 2.50.
+android-contacts	Content related to Android's Contacts APIs
+sql-server-6.5	Use this tag for questions specific to the 6.5 version of Microsoft's SQL Server.
+drupal-comments	This tag should be used for questions about node comments.
+ora-00918	ORA-00918: column ambiguously defined
+aaa-security-protocol	In computer security, AAA commonly stands for authentication, authorization and accounting.
+android-2.1-eclair	For issues relating to developing with the android SDK, version 2.1.
+active-relation	A Ruby Relational Algebra Library
+struts-config	Use this question for struts-config related questions.
+mac-office	Microsoft Office for Mac.
+orders	USE ONLY for related questions to e-commerce.&#xD;&#xA;DO NOT USE in all other cases.
+lync-server-2010	For questions about Microsoft Lync Server 2010.
+detailtextlabel	Returns the secondary label of the table cell if one exists. (read-only)
+string-math	Use this tag for questions related to string mathematics.
+pdp	XACML's Policy Decision Point
+saaj	SOAP with Attachments API for Java 
+android-compatibility	Related with Android compatibility issues.
+facebook-chat	For questions relating to Facebook's Chat API (now deprecated with v2.0)
+microsoft-project-vba	Visual Basic for Applications (VBA) for Microsoft Project
+ubuntu-10.10	For issues relating to using Ubuntu, version 10.10.
+wpf-4.0	Version 4.0 of the Windows Presentation Foundation (WPF).
+word-diff	Comparison between two or more words.
+activitygroup	A screen that contains and runs multiple embedded activities
+android-gridview	GridView is a subclass of AdapterView that displays items in a two-dimensional, scrollable grid. 
+carryflag	\N
+android-internet	This tag is used for internet related questions on the Android Operating System.
+gdb-python	Questions related to GDB's Python API.
+daterangepicker	A jQuery UI plug-in that let the user to select a date range.
+soda	SODA - the Socrata Open Data API
+flashlight	Most phones (and even tablets) have one or more camera/s. For optimal lighting, a white LED (or more than one) is used to illuminate the scene and act as a flash light.
+facebook-oauth	From Facebook Developer Page 
+pega	Pega or PegaRULES Process Commander (PRPC) is a BPMS developed by PegaSystems
+utf-16le	UTF-16LE is the little endian variety of UTF-16 without BOM.
+jboss6.x	Version 6 of the JBoss Application Server
+atunit	Java unit tests with mocks (JMock or EasyMock) and dependency injection (Spring or Guice)
+exchange-server-2010	Microsoft reached the Release to manufacturing (RTM) milestone for Exchange Server 2010 on May, 2009, and it was officially launched on November 9, 2009.
+blackberry-maps	Another Map to Google Map and only used in Blackberry Device
+wix3.6	For issues relating to deployment using Windows Installer XML, version 3.6.
+wcf-4	Wcf 4 is a version of Microsoft Windows Communication Foundation (WCF) released with Microsoft .NET Framework 4.0
+multiple-gpu	See the tag entry for "multi-gpu".
+simplex	A simplex is a generalization of the notion of a triangle or tetrahedron to arbitrary dimension.
+ios-4.2	For issues relating to using iOS, version 4.2.
+chargify	Questions related to chargify.com usage.
+bulk-email	Bulk emailing is sending the same email to multiple email addresses at the same time.
+preserve	A process of keeping a particular fragment from entity while replacing the rest of it.
+sql-server-2008r2-express	Use this tag for questions specific to scaled down, free edition of SQL Server 2008 R2.
+colorbar	Questions that include the use and customization of colorbars in figures
+elasticsearch	Elasticsearch is an Open Source (Apache 2), Distributed, RESTful, Search Engine built on top of Lucene.
+dob	DOB is a common abbreviation of Date of Birth
+twisted.internet	Twisted Internet: Asynchronous I/O and Events.
+dotnetnuke-5	DotNetNuke version 5.  A .NET based open source CMS.
+poset	POSet in a shorthand for Partially Ordered Set, that is a Set with a Partial Order.
+nunit-2.5.9	For issues relating creating and running unit tests using NUnit, version 2.5.9.
+blackberry-playbook	BlackBerry PlayBook, a tablet computer running QNX OS.
+load-time-weaving	Binary weaving of aspects when a class is loaded.
+ora-00979	ORA-00979: not a GROUP BY expression
+magellan	Magellan is part of the Zurb Foundation Framekwork.&#xD;&#xA;Magellan allows you to create navigation that tracks the active section of a page your user is in.
+jquery-1.4	For issues relating to using jQuery, version 1.4.
+wiql	Work Item Query Language
+monomorphism-restriction	Haskell's dreaded monomorphism restriction.
+range-notation	Range notation is a shorthand used in Haskell for specifying a list containing a sequence of integers.  For example, [1..10] means the set of integers [1,2,3,4,5,6,7,8,9,10]
+access-rights	Rights granted to a user for a particular entity instance.
+reentrantlock	ReentrantLock is a Java mutex class.
+ptxas	ptxas is an assembler for Parallel Thread eXecution.
+ora-27101	Oracle Error Code/Message: "shared memory realm does not exist"
+nokia-n8	The Nokia N8 is Symbian smartphone.
+sunspot-rails	Sunspot Rails Plugin
+nspersistentdocument	NSPersistentDocument is a subclass of NSDocument intended to work with Core Data.
+ruby-1.9.1	For issues relating to developing in Ruby, version 1.9.1.
+checkin-policy	Team Foundation Server checkin policies.  
+couchdb-lucene	Enables full-text searching of CouchDB documents using Lucene.
+eclipse-gef	For questions about the Eclipse Graphical Editing Framework.
+mysql-error-1075	MySQL Error 1075: Incorrect table definition; there can be only one auto column and it must be defined as a key.
+groovydoc	GroovyDoc is Groovy's equivalent for JavaDoc
+android-notification-bar	Use this tag for questions relating to issues showing your notification in the notification area.
+galaxy-tab	Samsung Galaxy Tab is an Android-based tablet computer produced by Samsung.
+short-url	Short Uniform Resource Locator (URL) - Is usually a generated "short" URL which addresses a normal "long" URL to make it more readable and/or short.
+htc-thunderbolt	HTC Thunderbolt is a smartphone runs on Android
+ora-01034	ORA-01034: ORACLE not available
+acs	ACS is short for Windows Azure Access Control Service
+locomotivecms	LocomotiveCMS is a CMS that is based on Ruby on Rails.
+disambiguation	This tag refers to the process of making something less ambiguous.
+kaminari	A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3
+class-based-views	\N
+google-pagespeed	deleted as mod-pagespeed should be used instead.
+rails-3-upgrade	Rails-3-Upgrade pertains to users who are trying to upgrade an existing 2.3+ Ruby on Rails Application to the more recent version, like 3.0 and up.
+podo	PODO is the acronym for a "Plain Old Delphi Object"
+jsr250	JSR 250: Common Annotations for the Java Platform
+python-3.2	For issues that are specific to Python 3.2. Use the more generic [python] and [python-3.x] tags where possible.&#xD;&#xA;
+ora-00917	ORA-00917: missing comma
+railstutorial.org	Questions and answers for Michael Hartl's railstutorial.org
+guice-3	Google Guice 3.0 Release
+iqr	IQR stands for "Interquartile range" in statistics.
+aqgridview	AQGridView is an attempt to create something similar to NSCollectionView on the iPhone
+ios-3.x	For issues relating to using iOS, version 3.x.
+httpinvoker	HttpInvoker is a Spring-specific remoting option that essentially enables RPC over HTTP.&#xD;&#xA;
+jquery-1.5	For issues relating to using jQuery, version 1.5.
+cancellationtokensource	Produces a CancellationToken and allows to single for its cancellation
+datebox	Datebox refers to either JTSage-DateBox, or GWT Datebox.
+ubuntu-11.04	Ubuntu release that was released on 28 April 2011.
+plsql-psp	Oracle PL/SQL Server Pages
+mbprogresshud	MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. 
+loveseat	Love Seat :- Bringing Couchdb and .Net a little closer
+ssas-2008	Microsoft SQL Server Analysis Services 2008
+platform-update-1	\N
+trailing-slash	A slash sign at the end of a URL.
+eastl	Stands for Electronic Arts Standard Template Library. 
+jcalendar	JCalendar is a Java date chooser bean for selecting a date.
+nxc	The `nxc` tag is for 'Not eXactly C'.
+visio-vba	Visual Basic for Applications (VBA) for Microsoft Visio
+http-status-code-200	200 OK&#xD;&#xA;&#xD;&#xA;The request has succeeded.
+android-canvas	The Android Java Canvas (android.graphics.Canvas)
+scripty2	\N
+specjour	distributed rspec & cucumber via bonjour&#xD;&#xA;
+timezoneoffset	A time zone offset describes the difference between a "wall time" and UTC.  General questions about time zones will get better visibility when tagged with 'timezone'.
+eclipse-gmf	The Eclipse Graphical Modeling Project
+eclipse-emf	Use this tag for questions about the Eclipse Modeling Framework Project (EMF)
+blender-2.49	For issues relating to using Blender, version 2.49.
+jboss-4.0.x	JBoss Application Server, version 4.0.x
+xoom	is an Android based tablet made by Motorola.
+jpct	jPCT is a free, lightweight 3D-Engine for Java and Android.
+db2-luw	DB2 for Linux, UNIX and Windows
+jboss-4.2.x	Version 4.2.x of the JBoss Application Server.
+petapoco	PetaPoco is a tiny and fast micro-ORM for .NET and Mono.
+django-nose	Django test runner that uses nose.
+coupon	\N
+mysql-error-1071	Error 1071: Specified key was too long; max key length is # bytes.  # can be 1000 for MyISAM, 767 for InnoDB.
+cssom	CSSOM defines APIs (including generic parsing and serialization rules) for Media Queries, Selectors, and CSS itself.
+asna-visual-rpg	ASNA's Visual RPG is a first class .NET citizen that produces verifiable .NET assemblies.
+axis-labels	The labels on any axis of a plot
+cng	CryptoAPI Next Generation (CNG) is the next version of the Windows CryptoAPI available since Vista. It adds NSA Suite B algoritms (including elliptic-curve cryptography) and is FIPS 140-2 certified.
+visual-c++-installer	Microsoft Visual C++ Redistributable Package installer
+nsassert	NSAssert is an Objective-c Macro on Cocoa and Cocoa Touch which will generate an assertion if a given condition is false.
+sqliteopenhelper	SQLiteOpenHelper is a class from the Android SDK which can be used for easier handling  of a SQLiteDatabase.
+sentestingkit	SenTestingKit is Apple's install of OCUnit on Mac OS X 10.4.
+right-angle-bracket	The symbols "<" and ">", when used in this order to enclose some expression. Please use this tag only if the specific usage of these symbols is a relevant part of the question.
+levelscheme	Questions on using LevelScheme for Mathematica
+integer-hashing	\N
+sup	SUP stands for Sybase/SAP Unwired Platform. Use sap-smp tag if using version 3.0 or newer.
+path-aliases	Questions about Drupal path aliases.
+colgroup	Relating to HTML, the colgroup represents a group of columns in an HTML table.
+unhaddins	Unofficial addins for NHibernate
+hashrocket	The `=>` symbol for building hash literals in Perl and Ruby.
+pstack	Prints a stack trace of running processes.
+xpath-3.0	Use this tag for questions specific to XML Path Language (XPath) version 3.0&#xD;&#xA;
+alcatel-ot	About alcatel ot moblies
+msisdn	About Mobile Subscriber Integrated Services Digital Network Number(MSISDN)
+flex-mobile	Questions concerning the mobile classes created in Flex version 4.5 and higher.
+celerybeat	The Celery periodic task scheduler
+twitter-search	Twitter search refers to the search form of Twitter, capable of finding various Twitter content - users, tweets, retweets, and others.
+ora-01426	ORA-01426: Numeric Overflow
+eclipse-tptp	Eclipse Test & Performance Tools Platform
+google-dfp	Google's DoubleClick for Publishers API
+radix-tree	A radix tree is a trie where each node with only one child is merged with its child as form of space optimization.
+richfaces-modal	RichFaces modal (popup) window
+annotatedtimeline	Part of the Google Visualization graphing API. An annotated timeline is an interactive time series line chart with the option to add annotations. You can display one or more lines on the chart. 
+python-3.3	For issues that are specific to Python 3.3. Use the more generic [python] and [python-3.x] tags where possible.
+swipe-gesture	Swipe is a gesture that involves touching a touchscreen or trackpad, translating the finger in one direction across the screen or pad, and removing the finger. It is commonly used as a discrete scrolling gesture (for example, go to the next picture).
+clojurescript	ClojureScript is a dialect of Clojure that compiles to JavaScript.
+nxhtml	nXhtml is an addon to Emacs for editing XHTML, PHP and similar things.
+s60-5th-edition	About Symbian S60 5th Edition.
+z3	Z3 is a high-performance theorem prover being developed at Microsoft Research.
+planar-graph	In graph theory, a planar graph is a graph that can be embedded in the plane without edge crossings.
+infinitest	infinitest is a continuous test runner for Java.
+basm	BASM = Borland/Codegear/Embarcadero's Built-In Assembler, the Delphi inline assembler
+bonobo	Bonobo is a Windows based Git Server that runs on IIS and ASP.NET-MVC.
+ccd	HL7 Continuity of Care Document 
+uiimageorientation	Specifies the possible orientations of a UIImage.
+infobubble	A InfoBubble is a customizable css3 infowindow
+ecpg	ECPG - Embedded SQL in C for PostgreSQL
+google-polyline	Google Polyline class in Google Map v3
+nodester	Nodester is an open source Node.JS Platform-as-a-Service.
+xsl-stylesheet	for questions related to the Extensible Stylesheet Language (XSL)
+applicationcontext	The Spring `ApplicationContext` class
+charts4j	charts4j is a free, lightweight charts & graphs Java API.
+nominet	Nominet is the domain registry for `.uk` domains based in the United Kingdom.
+cgcontextdrawimage	CGContextDrawImage is available in OSX and iOS which helps to draws an image into a graphics context. The issues related with drawRect or CGContextDrawImage can be tagged with this tag
+main-activity	The main activity is the one which starts before the other ones.
+http-etag	Http Entity tag for versioning and caching.
+scd	Slowly Changing Dimensions or Schema Component Designator
+strictness	In the semantics of Haskell, strictness relates to whether evaluating an expression forces evaluation of a sub-expression.
+flite	The flite tag refers to the speech synthesizer from Carnegie Mellon University
+pgbouncer	pgbouncer is a lightweight connection pooler for PostgreSQL
+mwe	Modeling Workflow Engine (MWE)
+android-websettings	Use this tag for questions regarding managing settings state for a WebView on the Android OS
+thread-priority	Thread priorities specify the relative priority of one thread versus another.
+8085	The Intel 8085 is an 8-bit CPU from the 1970's
+jsr257	JSR 257: Contactless Communication API (Java)
+sql-server-2012	Use this tag for questions specific to the 2012 version of Microsoft's SQL Server.
+uitapgesturerecognizer	UITapGestureRecognizer is a concrete subclass of UIGestureRecognizer that looks for single or multiple taps.
+android-dialogfragment	DialogFragment is a fragment that displays a dialog window, floating on top of its activity's window.
+postgresql-9.1	for PostgreSQL questions specific to version 9.1.
+pecs	A java generics acronym for "Producer (uses) Extends, Consumer (uses) Super"
+ubuntu-11.10	Ubuntu release that was released on 13 October 2011.
+lwuit-label	Allows displaying labels and images with different alignment options.
+fluid-dynamics	In physics, fluid dynamics is a subdiscipline of fluid mechanics that deals with fluid flow—the natural science of fluids (liquids and gases) in motion.
+apache-tomee	DO NOT USE THIS TAG! Please use [tomee] instead.
+viewparams	JSF tag to declare a GET parameter.
+amazon-payments	is for questions concerning the Amazon Pay APIs.
+qstyle	QStyle is an abstract base class that is responsible for the look and feel of the GUI.
+nook-tablet	General purpose multimedia tablet marketed by Barnes and Noble
+postgresql-8.4	This is for PostgreSQL questions specific to version 8.4.
+nsinvocationoperation	The NSInvocationOperation class is a concrete subclass of NSOperation that manages the execution of a single encapsulated task specified as an invocation.
+websphere-8	Version 8.x of IBM WebSphere Application Server (WAS)
+countdowntimer	The Android `CountDownTimer` class. Do not use this tag for any countdown timer-related question that is not related to the Android class
+methodhandle	Use this tag for questions regarding MethodHandle/MethodHandles Java classes from java.lang.invoke API.
+tablecolumn	used to represent the column of the table.
+draper	Decorators/View-Models for Rails Applications
+ncalc	NCalc is a mathematical expressions evaluator in .NET.
+libtiff.net	The open-source .NET version of libtiff.
+askbot	Askbot is a open source StackOverflow-like Q&A forum
+geographic-distance	Geographical distance is the distance measured along the surface of the earth.
+mrv2	Next Generation MapReduce Architecture.
+js-amd	JavaScript Asynchronous Module Definition&#xD;&#xA;
+textmate2	Latest version of Textmate which is now open sourced on Github.
+nessus	Nessus is a commercial vulnerability scanner offered by Tenable Security
+netbeans-7.1	A specific version of Netbeans IDE. Use this for question related to Netbeans IDE version 7.1
+evil-mode	Evil (Extensible Vi Layer for Emacs) is a vim emulator for emacs
+crawler4j	Crawler4j is an open source Java web crawler.
+tcollectionitem	TCollectionItem represents an item in a TCollection. It is defined in the Classes.pas unit.
+jscolor	JSColor is a simple color picker for HTML forms.
+ora-28002	ORA-28002: the password will expire within X days
+jsrender	JsRender: Next-generation jQuery Templates
+pyxll	PyXLL - Create Excel addins using Python
+docbook-5	Use this tag for a question related to DocBook version 5.
+seesaw	Seesaw UI for Clojure
+heritrix	Heritrix is a web-crawler.
+jsmin	a JavaScript minification filter written by Douglas Crockford
+pinterest	Pinterest is a virtual pinboard which allows you to organize and share things you find on the web. You can browse pinboards created by other people to discover new things and get inspiration from people who share your interests.
+libjpeg-turbo	libjpeg-turbo is a fork of libjpeg that uses SIMD instructions to accelerate baseline JPEG encoding and decoding.
+ordered-tree	A binary search tree(BST). Recursively, the left child is less than it's parent and the right child is greater than it's parent.
+pinchzoom	Gesture which allows the user to zoom in by moving two fingers closer together while touching the display.
+motodev-studio	This tag is for questions related to Moto Dev Studio or Apps being developed using Moto dev studio
+datagridviewrow	Represents one row in DataGridView
+uipinchgesturerecognizer	UIPinchGestureRecognizer is a concrete subclass of UIGestureRecognizer that looks for pinching gestures involving two touches.
+apache-1.3	Use this tag for apache version 1.3.x specific question.
+facebook-access-token	The OAuth access token specific to the Facebook API.
+roc	ROC curve is a graphical plot comparing the true positive and false positive rates of a classifier as its discrimination threshold is varied.
+tjws	Tiny Java Web Server and Servlet Container
+winrun4j	WinRun4j is a java launcher for windows. It is an alternative to javaw.exe.
+double-brace-initialize	Java's Double-Brace initialization creates Objects using anonymous classes.
+mysql-error-1293	Error 1293: There can be only one TIMESTAMP column with CURRENT_TIMESTAMP in DEFAULT or ON UPDATE clause
+jboss7.x	Version 7  of the JBoss Application Server
+skinny-war	A skinny WAR is a WAR that does not have all of its dependencies in WEB-INF/lib. Instead those dependencies are shared between the WARs through the EAR.
+texticle	Texticle exposes full text search capabilities from PostgreSQL, extending ActiveRecord with scopes to make search easy and fun!
+suncc	SunCC, the Sun C Compiler, now part of Oracle Solaris Studio
+jonas	JOnAS is a Java EE 5 certified Open Source OSGi Enterprise Server.&#xD;&#xA;The License used by JOnAS is the LGPL. 
+datagridcolumnheader	Represents a header of DataGridColumn
+datagridrowheader	Represents an individual DataGridRow header
+uiinclude	JSF/Facelets tag to include a composition.
+ios5.1	The version of iOS (formerly iPhone OS) that was released by Apple on 7 Mar 2012. iOS 5.1 runs on iPhone 3GS (and newer), iPad 1 (and newer), iPod Touch 3rd generation (and newer).
+ruby-1.8.7	For issues relating to developing in Ruby, version 1.8.7.
+spritebatch	Used in the XNA Framework. Enables a group of sprites to be drawn using the same settings. 
+github-pages	GitHub pages are static web pages hosted on GitHub.
+javacpp	JavaCPP - a bridge between Java and native C++.
+pci-e	PCI-Express (PCIe) is a peer 2 peer interconnect which is based on PCI and PCI-X. Newest generation is gen 5.0. PCIe is maintained and developed by PCI-SIG.
+ipad-3	The 3rd Generation Apple iPad.
+drupal-batch	Drupal has an API to process big tasks into small bits, and then processing one bit after another in an AJAX queue. This batch processing helps avoid PHP timeouts.
+tridion2009	This is for SDL Tridion 2009 related queries.
+nservicebus3	Questions related to the 3rd version of NServiceBus may have this tag.
+tmuxinator	Manage complex tmux sessions easily
+tuckey-urlrewrite-filter	An rule-based URLRewrite filter for Java Servlet technologies, similar to apache's mod_rewrite.
+pyes	pyes is a connector to use elasticsearch from python.
+playbook	BlackBerry PlayBook is a tablet computer made by Research In Motion.
+fma	Fused Multiply Add or Multiply-Accumulate
+uiimagepngrepresentation	Use this tag for questions related to UIImagePNGRepresentation. 
+couchcocoa	An Objective-C API To Apache CouchDB
+netburner	NetBurner - Ethernet Enabled Embedded Systems
+hasp	HASP - Hardware Against Software Piracy. Software and hardware authentication from SafeNet.
+xpinc	XPiNC is IBM Lotus Notes XPages in the Notes Client
+coco	A CoffeeScript dialect that aims to be more radical and practical.&#xD;&#xA;
+pangocairo	Pangocairo is a part of Pango that enables creation of Pango contexts on Cairo surfaces.
+cbc-mode	CBC Mode is cipher block chaining. 
+android-3.2	Android 3.2 A.K.A. Honeycomb is an incremental version of popular Android OS 3.0, meant for Tablet PCs
+iced-coffeescript	IcedCoffeeScript is a superset of CoffeeScript.
+stripos	stripos is the case-insensitive counterpart of strpos, returning the position of a given string within another string.
+gnu99	GNU dialect of ISO C99. 
+cookie-httponly	Questions related to cookies which should be send only via http. This cookies are not accessible via JavaScript.
+opentsdb	OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on top of HBase.
+bigbluebutton	BigBlueButton enables universities and colleges to deliver learning experiences to remote students.
+url-redirection	URL redirection refers to bouncing a web request to another url
+postgresql-9.2	for PostgreSQL questions specific to version 9.2.
+sysenter	SYSENTER is a companion instruction to SYSEXIT.
+gitbox	Gitbox is an easy-to-use Git GUI for Mac OS X.
+fluent-security	Fluent Security configuration for ASP.NET MVC
+dead-key	A dead key is a special kind of a modifier key on a computer keyboard that is used to attach a specific diacritic to a base letter. For instance, shift + " + A gives A with dots. 
+cloudamqp	An externally hosted RabbitMQ instance
+repeatingalarm	Alarm in Android that will be repeated after a certain pre-defined time interval.
+visual-studio-2012	Visual Studio 2012 is a version of Microsoft's Visual Studio. Do not use this tag unless you have a specific question about Visual Studio -- not just a coding issue.
+shadow-removal	Shadow removal is a computer-vision task that consists in detect and remove moving shadows from the foreground as they are not part of it.
+apache-vysper	XMPP Server written in Java.
+django-postgresql	Use this tag for PostgreSQL issues which are to be solved in accordance with Django coding best practices.
+hamlc	JavaScript templating using HAML and CoffeeScript.
+numexpr	Numexpr is a fast numerical expression evaluator for NumPy.
+prelude	Prelude is an enhanced Emacs configuration that should make your experience with Emacs both more pleasant and more powerful.
+ios6	iOS 6 was announced by Apple on June 11, 2012 and released on September 19th, 2012. It runs all iPhones from 3GS and up.
+start-activity	Launch a new Activity by using Intent in Android.
+symfony-2.1	This is the Symfony 2.1.x specific tag. Use it in addition to the symfony2 tag if your question is specific to Symfony 2.1.x — not just 2.x.
+pd4ml	An HTML to PDF converter for Java and .NET
+kue	Kue is a priority job queue backed by redis, built for node.js.
+dsml	DSML (and DSMLv2) - Directory Services Markup Language
+directorysearcher	Use this tag for question related to the DirectorySearcher .Net Framework class.
+android-checkbox	Checkboxes allow the user to select one or more options from a set. 
+android-contextmenu	Tag for questions about the creation and use of the Android context menu.
+geometric-arc	A geometric shape that represents a segment of a circle. Generally is measured by two angles, starting and ending, and it's radius. If you need an arc of an ellipse, please be sure to tag the question with the [tag:ellipse] as well.
+google-compute-engine	Google Compute Engine offers scalable and flexible virtual machine computing capabilities in the cloud.
+spring2.x	Version 2.x of the Spring Framework, use [tag:spring] for general Spring related questions.
+proof-general	Proof General is a generic front-end for proof assistants, based on Emacs.
+isabelle	Isabelle is a generic proof assistant, with Isabelle/HOL as main instance.
+threadpoolexecutor	In Java, an ExecutorService that executes each submitted task using one of possibly several pooled threads. 
+plai	Programming Languages: Application and Interpretation (PLAI) is a textbook written by Shriram Krishnamurthi from Brown University.&#xD;&#xA;
+halogy	A Codeigniter CMS for Designers
+node-fibers	A fiber is a particularly lightweight kernel thread scheduler dependent thread of execution using co-operative multitasking.
+entity-framework-4.3.1	Entity Framework 4.3.1 is a bug fixing patch release for Microsoft Entity Framework that includes some bug fixes to the 4.3 release. &#xD;&#xA;
+mongo-java	\N
+mvcgrid	MVCGrid is Telerik's HTML5 grid offering.
+scalding	Scalding is a scala DSL for Cascading, running on Hadoop.
+android-gridlayout	GridLayout is one of Android's ViewGroup subclasses that places its children in a rectangular grid. 
+bbdb	BBDB: The Insidious Big Brother Database
+jquery-1.8	For issues relating to using jQuery, version 1.8
+cclabelttf	CCLabel is a Cocos2d class, subclass of CCTextureNode that knows how to render text labels
+regex-lookarounds	Regular expression lookarounds are zero-width assertions that verify conditions about the context of a match at the current match position.
+selectmanycheckbox	JSF tag to create a checkbox group.
+java-custom-serialization	Customize the Default Protocol - Serialization
+sitefinity-3x	The tag is used to signify questions related to Sitefinity CMS before its rewrite in version 4
+smartypants	for questions related to the Daring Fireball SmartyPants web publishing plug-in that translates plain punctuation into “smart” curly punctuation
+start-of-line	The beginning of a line
+simhash	Algorithm to detect similarities between hashes.
+delphi-xe3	Delphi XE3 is a specific version of Delphi released on Sept. 2012
+prototype-scope	A Spring specific scope used to define a Bean that will get newly created on each request.
+protostuff	Protostuff is the stuff that leverages google's protobuf.
+appfog	Appfog is a simple PaaS for Java, Node, .Net, Ruby, PHP, MySQL, Mongo, PostgreSQL, and more.
+lpcwstr	LPCWSTR - Pointer to const wchar_t string
+sharepoint-2013	Microsoft SharePoint version 2013
+fosfacebookbundle	The FOSFacebookBundle enables integration of the Facebook PHP and JS SDK's.
+infobox	This class is used to create pop-up balloons for pushpins to be displayed in Bing Maps (similar to InfoWindow in Google)
+nhibernate-2	Use this tag for Nhibernate version 2.x series specific question.
+symfony-2.0	This is the Symfony 2.0.x specific tag. Use it in addition to the symfony2 tag if your question is specific to Symfony 2.0.x — not just 2.x.
+wpf-4.5	Version 4.5 of the Windows Presentation Foundation.
+ezpdf	\N
+lte	LTE (telecommunication) - Long Term Evolution
+intel-mic	Intel Many Integrated Core Architecture
+practical-common-lisp	Practical Common Lisp is a book about Common Lisp written by Peter Seibel.
+android-overlay	Base class representing an overlay which may be displayed on top of a map.
+mysql-5.5	For MySQL questions specific to version 5.5.
+rtmpd	A C++ implemntation for RTMP Server.
+tkplot	Interactive plotting of graphs
+pos-tagging	Part-of-speech tagging (POS tagging or POST) is the process of marking up a word in a text corpus as corresponding to a particular part of speech, based on both its definition, as well as its context.
+bluez	BlueZ is the Bluetooth stack implemented in most Linux kernels.
+xquery-3.0	Use this tag for questions specific to XQuery version 3.0 and no other version.
+hpet	The High Precision Event Timer (HPET) is a hardware timer used in personal computers. It was developed jointly by Intel and Microsoft and has been incorporated in PC chipsets since circa 2005.
+sql-pl	Use this tag for DB2 SQL Procedural Language (SQL PL) questions 
+ubuntu-12.10	The October 2012 version of the Ubuntu Linux Operating System(Quantal Quetzal)
+android-audiorecord	Questions related to audio recording in Android. For issues not so closely related to Android, use [audio-recording] tag.
+angular-scenario	A specific test case or condition for AngularJS.
+django-timezone	Timezone handling specific questions with Django
+pyqtgraph	High-performance scientific graphics for PyQt.
+elmahr	ElmahR = ELMAH + SignalR
+ms-security-essentials	MS Security Essentials is Microsoft's free anti-virus offering.
+entity-framework-6	The ADO.NET Entity Framework Version 6.
+glsles	The OpenGL ES Shading Language (also known as GLSL ES or ESSL) is based on the OpenGL Shading&#xD;&#xA;Language (GLSL) version 1.20.
+apps-for-office	Add-ins for office (formerly Apps for Office) extend Microsoft Office documents using JavaScript and web technologies.
+real-time-clock	\N
+http-status-code-303	Redirect to a new URI after a POST&#xD;&#xA;
+bingbot	Bingbot is a web-crawling robot, deployed by Microsoft to supply Bing. It collects documents from the web to build a searchable index.
+junit-theory	Using of @Theory annotation in JUnit
+prolog-dif	dif/2 is a Prolog built-in predicate to express in a sound manner syntactic inequality.
+novocaine	An analgesic for high-performance audio on the iPhone, iPad and Mac OS X.
+khan-academy	This tag is for questions related to interfacing with Khan Academy, such as through the Khan Academy API
+slimpicker	A New MooTools Date Picker. Works in IFrames and allows for keyboard navigation.&#xD;&#xA;
+heavy-computation	Processor Oriented Computation
+nexus-10	Nexus 10 is an Android tablet made by Google. 
+extjs4.2	Warning: only use this tag along with the generic extjs tag. Otherwise your question will not be seen by the many thousands following extjs
+blend-2012	The blend-2012 tag is for Blend for Visual Studio 2012 related issues.
+kgdb	KGDB is a source level debugger for the linux kernel. It is used along with gdb to debug linux kernels. It requires two machines that are connected via a serial connection.
+code-map	Visual Studio Code Map
+galaxy-nexus	The Galaxy Nexus (GT-I9250) is a touchscreen Android smartphone developed by a partnership between Google and Samsung. It is the third generation successor to Google's previous flagship phones: the Nexus One and Nexus S.
+commandbutton	JSF tag to create a POST botton.
+selectmanylistbox	JSF tag to create a multi-select listbox.
+prolog-toplevel	The "toplevel" or "top level loop" is Prolog's REPL.
+symfony-2.2	This is the Symfony 2.2.x specific tag. Use it in addition to the symfony2 tag if your question is specific to Symfony 2.2.x — not just 2.x.
+fringe	In Emacs a fringe is a tiny margin to the left and right edges of a window on a graphical display. 
+flask-wtforms	Flask-WTF offers simple integration with WTForms. This integration includes optional CSRF handling for greater security.
+ctfe	Compile Time Function Evaluation
+text-segmentation	Text segmentation is the process of dividing written text into meaningful units, such as words, sentences, or topics.
+ember-old-router	Ember.js routing has completely been changed since the first shot. All questions/answers mentioning this tag should not be used for latest ember versions.
+memory-segmentation	Memory segmentation refers to the practice of dividing a computer's memory in segments or sections.
+php-ews	PHP Exchange Web Services
+adf	DO NOT USE THIS TAG! Use [oracle-adf] instead. If possible, vote for the tag synonym as well http://stackoverflow.com/tags/oracle-adf/synonyms
+backbone.signalr	Backbone.SignalR integration
+ochamcrest	Hamcrest for Objective-C: Powerful, combinable, extensible matchers for verification
+synology	Synology Inc. is Network Attached Storage manufacturer. 
+smips	short for:  simple MIPS
+urlimageviewhelper	UrlImageViewHelper will fill an ImageView with an image that is found at a URL.
+svn-notify	SVN::Notify - Subversion activity notification
+epiceditor	An Embeddable JavaScript Markdown Editor
+fanstatic	Fanstatic: Resource publishing for Pythonistas
+sda	Small Data Area and Zero Data Area are parts in the RAM.
+test-more	\N
+node-blade	is a HTML Template Compiler implemented in JavaScript.
+mecab	Mecab is an open-source tokenizer and morphological analyser for Japanese, implemented in C++. Project page: https://github.com/taku910/mecab
+cisco-axl	Cisco Administrative XML Web Service (AXL)
+jqui	jQui: A Themeable Skin for WebMediaPortal
+nservicebus4	NServiceBus is a highly pluggable, reliable, open source Enterprise Service Bus built on .NET.
+www-mechanize-firefox	WWW::Mechanize::Firefox - use Firefox as if it were WWW::Mechanize&#xD;&#xA;
+silvertunnel	silvertunnel.org - easy-to-use secure and anonymous communication
+pygal	A python SVG Charts Creator
+clif	CLIF, Load Injection Framework.
+groupprincipal	Encapsulates group accounts of Microsoft Directory Services.
+pdf2swf	PDF to SWF Converter
+facepy	Facepy makes it really easy to interact with Facebook's Graph API using Python.
+hubflow	A fork of gitflow which is github centric.
+lab-color-space	A Lab color space is a color-opponent space with dimension L for lightness and a and b for the color-opponent dimensions, based on nonlinearly compressed CIE XYZ color space coordinates.
+jetstrap	The Bootstrap Interface Builder
+dialogfragment	An Android Fragment that displays a dialog window, floating on top of its activity's window.
+myprettycms	MVC4 / AJAX Based CMS.
+easynetq	EasyNetQ is a simple to use, opinionated, .NET API for RabbitMQ.&#xD;&#xA;
+wm-touch	Message used for Windows Touch (WM_TOUCH).
+ember-table	A fast, lazy rendered, easily extensible table built with Ember.js.&#xD;&#xA;
+latexml	LaTeXML is a LaTeX to XML converter.
+atdd	Acceptance Test Driven Development (ATDD)
+convert-tz	Convert from one timezone to another (MySQL)
+berkshelf	Manage a Cookbook or an Application's Cookbook dependencies
+angularjs-ng-include	Fetches, compiles and includes an external HTML fragment.
+biztalk-schemas	BizTalk XML & Flat File schemas.
+rfc4180	RFC4180 defines a common Format and MIME Type for Comma-Separated Values (CSV) Files.
+word-frequency	Word-frequency means analysis of frequencies of different words in a given text corpus or a generalized text.
+pebble-watch	Pebble Watch is a smartwatch with an e-paper display.
+codio	`Codio` is a cloud-based visual front-end `IDE`.
+symfony-2.3	This is the Symfony 2.3.x specific tag. Use it in addition to the symfony2 tag if your question is specific to Symfony 2.3.x — not just 2.x.
+php-shorttags	PHP short open tag  which was disabled by default ini configuration since PHP 5.3.0.
+railsinstaller	Install Ruby on Rails / Ruby on Windows and OSX with easy. http://railsinstaller.org 
+pander	pander is a Pandoc writer in R.
+prism.js	Syntax Highlighter -- refactored / extended, based on Dabblet
+specrun	SpecRun is an integration test runner for SpecFlow.
+pgagent	pgAgent is a job scheduler for PostgreSQL 
+boost-interval	Bost Interval Library is intended to help manipulating mathematical intervals
+python-exec	For questions about exec/eval/etc and their behavior within Python
+httpful	Httpful - A Chainable, REST Friendly, PHP HTTP Client. A sane alternative to cURL.
+junit-runner	The JUnit runner checks, makes and launches the unit tests.
+errorcollector	The ErrorCollector rule of JUnit
+flex4.7	Flex 4.7 doesn't exist, so you probably mean Flex 4.6 or Flash Builder 4.6.  Adobe hasn't released any Flex SDK after Flex 4.6 and the first Apache Flex version was 4.8.
+gaps-in-visuals	refers to blank, white, or empty areas in webpages, images, GUIs, etc.
+vtt	\N
+membus	Pure In-Memory Publish/Subscribe .NET Bus
+delphi-xe4	Delphi XE4 is a specific version of Delphi released in April 2013.
+observablelist	A list that allows listeners to track changes when they occur.
+flowpane	\N
+caldecott	A HTTP/Websocket Tunneling Library.
+grunt-contrib-qunit	grunt-contrib-qunit is a Grunt task that enables running QUnit unit tests in a headless PhantomJS instance.
+pnotify	JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft.
+floyd-cycle-finding	 For detecting the presence of cycle in linked list.
+google-groups-settings	With the Google Apps Groups Settings API account-level administrators can manage the group settings for your Google Apps account.
+kooboo	Kooboo is a developer-friendly CMS that builds on top of ASP.NET MVC.
+x-editable	x-editable enables in-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
+retina	 Name used by Apple for their liquid crystal displays with a high enough pixel density
+magicalrecord-2.1	\N
+ca65	ca65 is a powerful macro assembler for the 6502, 65C02 and 65816 CPUs.
+common-crawl	Open crawl of the web that can be accessed and analyzed by everyone.
+scaldi	Lightweight Scala Dependency Injection Library. http://scaldi.org
+internet-explorer-11	Internet Explorer 11 (IE11) is the successor to Internet Explorer 10. It was officially released on 17 October 2013 for Windows 8.1 and on 7 November 2013 for Windows 7
+chomsky-hierarchy	The Chomsky hierarchy is a containment hierarchy of classes of formal grammars.
+cassandra-cli	The Cassandra CLI is a holdover from the pre-CQL Thrift API.
+studioshell	StudioShell allows you to Interact with Visual Studio via PowerShell.
+pharlap	Pharlap Operating System
+stepic	Python image steganography
+ansi-common-lisp	This is a synonym for common-lisp.
+codetyphon	CodeTyphon is the FREE "Pascal Visual Programming Studio".
+input-mask	A string expression, defined by a developer, that governs what a user is allowed to enter in as input in a text box.
+q-value	Statistics: Also known as False discovery rate
+manova	The Multivariate analysis of variance (MANOVA) is a statistical test procedure for comparing multivariate (population) means of several groups.
+opendap	Stands for "Open-source Project for a Network Data Access Protocol"  &#xD;&#xA;&#xD;&#xA;Home: http://opendap.org/  &#xD;&#xA;Wikipedia: http://en.wikipedia.org/wiki/OPeNDAP
+dynamic-web-twain	JavaScript Image Scanning Library
+cl-ppcre	CL-PPCRE - Portable Perl-compatible regular expressions for Common Lisp
+microxml	MicroXML is a subset of XML intended for use in contexts where full XML is, or is perceived to be, too large and complex.
+cgkit	Python Computer Graphics Kit
+jsr335	JSR 335: Lambda Expressions for the Java Programming Language
+squirejs	Squire.js is a dependency injector for Require.js users to make mocking dependencies easy!
+datanitro	DataNitro integrates Python with Excel.
+nsurlrequestcachepolicy	Specifies the caching behavior of the request
+openglcontext	An OpenGL context represents all of the state associated with an instance of OpenGL. Use this tag for questions about context creation, and use.
+treeio-django	\N
+type-annotation	Type-Annotations are released with Java SE 8 release.
+apache-commons-dateutils	A helper class from Apache commons-lang used for manipulations of Dates or Calendars.
+oxid	OXID eShop is a PHP5 / MySQL Onlineshop Platform created and maintained by the OXID eSales AG. It is available in a free open-source version as well as in commercial licenses. 
+postgresql-9.3	for PostgreSQL questions specific to version 9.3.
+nunit-2.6	For issues relating creating and running unit tests using NUnit, version 2.6.
+pyelasticsearch	pyelasticsearch is a clean, future-proof, high-scale python API to elasticsearch.
+scriptprocessor	Web Audio API's ScriptProcessor node
+miscutils	Jon Skeet's Miscellaneous Utility Library
+fact++	The new generation of FaCT OWL-DL reasoner, based on C++.
+angularjs-ng-change	The ngChange allows to evaluate given expression when user changes the input. 
+dotnetnuke-7	Version 7 of the DotNetNuke open source CMS.
+ggbiplot	A biplot based on ggplot2.
+secondary-indexes	an index which is created other than index based on primary key, to speed up processing.
+ember-i18n	\N
+galera	Galera Cluster is a synchronous multi-master cluster for MySQL.
+svprogresshud	SVProgressHud for iOS
+sjson	Scala Json with capabilities for Scala Object Serialization&#xD;&#xA;&#xD;&#xA;
+activity-recognition	Activity recognition tries to detect the user's current physical activity, such as walking, driving, or standing still.
+alternator	Alternator - A DynamoDB Mock Server
+selectmanymenu	JSF tag to create a multi select dropdown.
+handwriting-recognition	Handwriting recognition is the ability of a computer to receive and interpret handwritten input.
+grunt-smoosher	A grunt task to generate cms friendly documentation of the css and js used in an HTML
+find-in-set	MySQL FIND_IN_SET() returns the position of a string if it is present (as a substring) within a list of strings.
+faces-flow	JSF Faces Flow as defined since JSF 2.2.
+resque-scheduler	resque-scheduler (https://github.com/resque/resque-scheduler) is a scheduler for resque (https://github.com/resque/resque) jobs
+grunt-contrib-compass	Compile Sass to CSS using Compass
+sql-server-2012-web	SQL Server 2012 Web Edition is a specialized edition on SQL Server targeted towards web hosting.
+natural-logarithm	Use this tag for questions related to Natural logarithm which is logarithm to the base `e`. The natural logarithm is generally written as `ln x` or `ln(x)`.
+uvm	Universal Verification Methodology
+uidynamicbehavior	A dynamic behavior confers a behavioral configuration on one or more dynamic items for their participation in two-dimensional animation.
+umalquracalendar	The Umm al-Qura calendar is a calculated lunar calendar that was created by Saudi Arabia. It is also followed by several neighboring states on the Arabian Peninsula such as Bahrain and Qatar, as well as organizations in North America and Europe.
+mano-machine	A theoretical computer described by M. Morris Mano in his textbook. Features a very limited instruction set, used for teaching.
+linaro	\N
+skspritenode	An SKSpriteNode is a node that draws a textured image, a colored square, or a textured image blended with a color.&#xD;&#xA;
+perl5.6	Perl5.6 refers to questions about that particular version of Perl 
+case-folding	Questions related to the case-insensitve comparison and use of strings.
+git-track	In git, tracking branches are local branches that relate to a remote branch.
+biml	BIML, Business Intelligence Markup Language, is a DSL that describes business intelligence entities (ETL, Cubes, Dimensions). 
+haxm	Intel® Hardware Accelerated Execution Manager
+skview	SKView is the UIView subclass Sprite Kit uses to render the currently presented scene's nodes onto. All nodes displayed by Sprite Kit are children (so to speak) of a SKView.
+skcropnode	An SKCropNode crops the pixels drawn by its children so that only some of the pixels are rendered to the parent’s framebuffer.
+scorch	System Center Orchestrator
+balanced-data-distributor	Microsoft® SSIS Balanced Data Distributor (BDD) is an SSIS transform. This transform takes a single input and distributes the incoming rows to one or more outputs uniformly via multithreading. 
+ubuntu-13.04	Ubuntu 13.04 was released on schedule on 25 April 2013.
+cart-analysis	Classification and Regression Tree (CART) analysis
+mosquitto	An Open Source MQTT v3.1/v3.1.1 Broker
+xna-3.0	Version 3.0 of Microsoft's XNA Framework. If you use this tag, please also include the main tag XNA.
+relx	A release assembler for Erlang. 
+google-oauth-java-client	For questions about the use of the Google OAuth Client Library for Java.
+picosat	PicoSAT is a SAT solver with an extensive API.
+wcag2.0	Recommendation from the W3C, which explains to developers and authors how to make Web content accessible to people with disabilities.
+watir-jquery	JQuery selectors that are used in Watir tests.
+azkaban	Azkaban is a batch workflow job scheduler created at LinkedIn to run their Hadoop Jobs.
+android-bitmap	A Java Object from android.graphics.Bitmap that represents a Bitmap.
+cap-theorem	Consistency Availability Partitioning theorem by Eric Brewer
+jira-ondemand	The hosted version of Atlassian's Jira.
+excel-2000	Excel 2000 is one of the releases of Microsoft's Excel. It introduced a minor upgrade to the notepad. The Office Assistant was also made less intrusive.
+apache2.4	Use this tag for Apache version 2.4.x specific question. 
+nlua	NLua is the bind between Lua world and the .NET world.
+cptimage	\N
+doctrine2-postgres	Version 2 of the Doctrine ORM used with postgreSQL
+dymo	Dymo label printer SDK related questions.
+fakesmile	A polyfill for declarative SVG animations (SMIL)
+spring-4	Version 4.x of the Spring Framework
+geoext	GeoExt combines OpenLayers with Ext JS
+havebox	HaveBox is a very fast and lightweight IoC containter. The goal is to keep it fast and light, and at the same time easy to use.
+jquery-multiselect	jQuery UI MultiSelect Widget
+intel-fortran	Questions using this tag should be specific to Intel Fortran, Intel Visual Fortran, and/or Compaq Visual Fortran (predecessor to Intel Visual Fortran), rather than being general questions about Fortran on Intel hardware. The more general "fortran" tag should also be added to questions using this tag.
+bulk-synchronous-parallel	See Wikipedia entry: http://en.wikipedia.org/wiki/Bulk_synchronous_parallel
+acm-java-libraries	The ACM Java Libraries were produced by the ACM's Java Task Force with the aim of simplifying the teaching of Java to first-year undergraduate students.
+microsoft-acm	The Microsoft Audio Compression Manager API
+touchimageview	Extends Android ImageView to include pinch zooming, panning, fling and double tap zoom.
+mllp	MLLP Protocol (Minimum Lower Layer Protocol) 
+xirr	Excel formula which returns the internal rate of return for a schedule of cash flows
+nhibernate-envers	Powerful audit trail integrated with NHibernate
+apache-crunch	Simple and Efficient MapReduce Pipelines
+rfc1035	RFC 1035, issued by the IETF, describes the workings of the Domain Name System and Protocol.
+qtftp	A possible misspelling of QFtp class in Qt. QtFtp is a deprecated API removed from Qt.
+arbtt	Arbtt, the Automatic Rule-based Time Tracker.
+learn-ruby-on-rails	Questions and answers related to the book "Learn Ruby on Rails" by Daniel Kehoe.
+rfc5766turnserver	RFC 5766 issued by the IETF in 2010 is about "Traversal Using Relays around NAT (TURN):      Relay Extensions to Session Traversal Utilities for NAT (STUN)"
+raml	RESTful API Modeling Language (RAML)
+django-fluent	A Django CMS that is flexible to fit your own needs.&#xD;&#xA;
+utfcpp	UTF8-CPP: UTF-8 with C++ in a Portable Way
+dogecoin	Dogecoin is an opensource peer-to-peer cryptocurrency.
+rhel-scl	Red Hat Enterprise Linux Software Collections
+mergmicrophone	Audio recording external for iOS. Based on rremicrophone from the LiveCode iOS externals SDK
+ept	Extended page table for intel vmx address translation
+fsshttp	File Synchronization via SOAP over HTTP Protocol
+angular-digest	Angular Digest Cycle
+android-simple-facebook	Simple Facebook SDK for Android which wraps and simplifies original Facebook SDK.
+http-0.9	HTTP/0.9 is the first version of HTTP. 
+monodroid.dialog	Tools to simplify creating dialogs for MonoDroid
+bolt-cms	Bolt is a sophisticated, lightweight and simple CMS for PHP.
+metaio	metaio produces APIs for Augmented Reality.
+cmake-gui	from &#xD;&#xA;http://www.cmake.org/cmake/help/v3.0/manual/cmake-gui.1.html&#xD;&#xA;
+nls-sort	In Oracle RDBMS, NLS_SORT specifies the collating sequence for ORDER BY queries.
+rfc5545	The RFC defines iCalendar (Internet Calendaring and Scheduling Core Object Specification) and obsoletes the RFC2445  since sept 2009.
+synopsys-vcs	Synopsys VCS Verilog Simulator
+crdt	Commutative Replicated Data Type
+shrimp	for questions related to adjust / shrimp, a phantomjs based pdf renderer
+node-ffi	Node.js Foreign Function Interface
+webgrind	Webgrind is a Xdebug profiling web frontend in PHP5
+summernote	Super simple WYSIWYG Editor using Bootstrap.&#xD;&#xA;&#xD;&#xA;http://summernote.org/
+gridpane	GridPane lays out its children within a flexible grid of rows and columns
+linuxbrew	An experimental fork of Homebrew for Linux.
+small-bet	Small-Bet - Nextpeer based real money challenge SDK.
+mkmapsnapshotter	MKMapSnapshotter is part of iOS 7 MapKit
+gulp-karma	Karma integration into Gulp.js-based build.
+classy-prelude	An alternative Haskell prelude based on Typeclasses
+cobub-razor	Cobub Razor - Open Source Mobile Analytics Solution
+msbuild-wpp	Microsoft Web Publishing Pipeline
+nsdraggingitem	The NSDraggingItem class encompasses a single dragged item within an NSDraggingSession instance.
+dm814x	DM814x Evaluation Module
+mean.io	MEAN - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js.
+numactl	numactl runs processes with a specific NUMA scheduling or memory placement policy.
+windroy	Windroy is Android running with Windows kernel!
+holidays-gem	https://github.com/alexdunae/holidays
+ias	About the IAS machine.
+nstableheadercell	The NSTableHeaderCell class is used by an NSTableHeaderView instance to draw the content of the column headers.
+winbgi	emulation of Borland's BGI (Borland Graphics Interface)
+holtwinters	Holt-winters smoothing is one of the simplest form of exponential smoothing
+scatter3d	Three-Dimensional Scatterplots and Point Identification 
+grunt-contrib-imagemin	Minify PNG, JPEG and GIF images
+cortex-m	For all ARM Cortex-M series cores, including M0, M0+, M1, M3, M4, M7, M23 and M33.
+treetableview	Questions about the usage of the JavaFx TreeTableView should use this tag.
+kill-ring	The kill ring is a list of blocks of text that were previously killed.
+emacs-jedi	Python auto-completion for Emacs
+plugman	Apache Plugman Cordova
+android-shape	This is a generic shape defined in XML.
+iceweasel	Iceweasel is a Debian rebrand of Mozilla FireFox.
+cortex-a	For all ARM cortex-A series CPUs, including A5,A7,A8,A9 and A15.
+akka-persistence	Akka persistence enables stateful actors to persist their internal state so that it can be recovered when an actor is started, restarted after a JVM crash or by a supervisor, or migrated in a cluster.
+android-switch	Switch is an android class for a two state toggle switch
+ginput	Graphical input from mouse or cursor.
+sles	SLES stands for SUSE Linux Enterprise Server
+rfc4122	RFC4122 issued by the IETF in 2005 is about "A Universally Unique IDentifier (UUID) URN Namespace"
+defaultmutabletreenode	DefaultMutableTreeNode is the base class used by Java to display content in a Swing based JTree.
+clojure-protocol	Protocols were introduced in Clojure 1.2
+unicoins	Unicoins are a mythical monetary unit that is only of use in lands inhabited by unicorns and on StackExchange on April Fools Day 2014. 
+tedious	Node Module - Tedious it is used to interact with instances of Microsoft's SQL Server.&#xD;&#xA;
+sjsxp	Sun Java Streaming XML Parser
+infinity.js	Infinity.js- a UITableView for the web.
+nsurlsessionuploadtask	The NSURLSessionUploadTask class is a subclass of NSURLSessionDataTask, which in turn is a concrete subclass of NSURLSessionTask.
+c#-6.0	C# 6.0 is shipped along with Roslyn (.NET Compiler Platform) and Visual Studio 2015.
+exchange-server-2013	Microsoft released the (RTM) milestone for Exchange Server 2016 on December 3, 2012.
+cscfg	Windows Azure Service Configuration Schema (.cscfg File)
+sc	SC is a curses-based Spreadsheet Calculator.
+zposition	The Euler rotation about the z axis (in radians).
+jira-zephyr	JIRA and Zephyr integration is available via connectors
+dokku	Docker powered mini-Heroku in around 100 lines of Bash
+john-the-ripper	John the Ripper is a fast password cracker, currently available for many flavors of Unix, Windows, DOS, BeOS, and OpenVMS. 
+solarwindslem	SolarWinds Log & Event Manager - SIEM made Simple & Affordable Automated Log Collection, Analysis, & Real-Time Event Correlation.
+facebook-friends	Questions related to Facebook Friends with facebook SDKs. 
+syn	Standalone Synthetic Event Library
+contourf	Filled two-dimensional contour plot (MATLAB Function Reference)
+android-nested-fragment	Nested android fragments represent fragments which are embedded in other fragments.
+openstack-heat	Openstack Orchestration Component
+delphi-xe6	Delphi XE6 is a specific version of Delphi released in April 2014.&#xD;&#xA;
+groovy-2.3	Groovy 2.3 (Q2 2014)
+deis	An open source Platform-as-a-Service inspired by Heroku and built on Docker and Kubernetes.
+svn-lock	Lock each TARGET. If any TARGET is already locked by another user, print a warning and continue locking the rest of the TARGETs. Use --force to steal a lock from another user or working copy.
+sql-server-2014-express	For questions specific to the scaled down, free edition of SQL Server 2014
+sap-smp	SAP Mobile Platform (SMP), Formerly Sybase Unwired Platform (SUP)
+embedded-tomcat-8	Embedded Apache Tomcat 8
+jsdelivr	jsDelivr is a free CDN for developers and webmasters.
+filab	FI-Lab is a working instance of FI-WARE available for experimentation.
+bytestream	A bytestream is a series of bytes.
+extjs5	Sencha Ext JS (JavaScript Framework for Rich Desktop Apps)
+searchkick	Searchkick learns what your users are looking for. As more people search, it gets smarter and the results get better. It’s friendly for developers - and magical for your users.&#xD;&#xA;Intelligent search made easy &#xD;&#xA;https://github.com/ankane/searchkick
+ithit-ajax-file-browser	Stands for IT Hit Ajax File Browser
+adobe-cc	Adobe Creative Cloud
+parse4j	Java Library to deal with Parse (parse.com) REST API
+ephesoft	Ephesoft Solution API
+luci	LuCI (a WebUI for OpenWrt)
+oracle-rac	Oracle Real Application Clusters (RAC)
+modx-user-groups	User Groups are used by MODX to define permissions.
+mongodb-roles	The builtin roles in mongo db.
+toolrunner	org.apache.hadoop.util.ToolRunner
+editingstate	Enumerates the possible states of editing an expression in an expression text box.
+uitextchecker	Used to check a string (usually the text of a document) for misspelled words.
+tfs2014	For questions specific to the Team Foundation Server release of 2014
+raccommand	RACCommand is an essential part of ReactiveCocoa.
+ultralite	Ultralite is an extra lightweight edition of SAP's SQL Anywhere DBMS.
+scichart	SciChart: High Performance WPF Chart Control
+obfuscar	Obfuscar is an open source .NET obfuscator released under MIT license.
+cryptarithmetic-puzzle	A cryptarithmetic puzzle is an equation with words whose letters represent decimals digits.
+proxyquire	\N
+btdf	BTDF - BizTalk Deployment Framework
+gbxml	Open Green Building XML Schema
+symfony-2.5	This is the Symfony 2.5.x specific tag. Use it in addition to the symfony2 tag if your question is specific to Symfony 2.5.x — not just 2.x.
+famono	\N
+rfc6455	The RFC that defines the WebSocket Protocol.
+powerdns	Use this tag for questions related to PowerDNS, an open source DNS.
+rfc6902	Request for Comments JavaScript Object Notation (JSON) Patch
+safari-push-notifications	Discussion around implementing Safari Push Notifications.
+polymer-designer-tool	Polymer Designer Tool
+postgres-xl	postgres-xl is a maintained, updated fork of the multi-master PostgreSQL fork postgres-XC. See http://www.postgres-xl.org/ 
+logitech-gaming-software	Logitech Gaming Software lets you customize Logitech G gaming mice, keyboards and headsets.
+magento-1.9.1	1.9.0.1 resolved the two issue fixed on 1.9.0 and released on May 16, 2014.
+facebook-permissions	Permissions to access Facebook pages or API.
+johnny-five	Firmata based JavaScript Arduino Framework
+osx-yosemite-beta	OS X Yosemite (version 10.10) is a major release of OS X which will be released in late 2014.
+pickadate	The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
+vstest	Visual Studio Test (VSTest.Console.exe) is a test runner developed by Microsoft.
+quasar	Lightweight threads, actors and channels for the JVM &#xD;&#xA;http://docs.paralleluniverse.co/quasar/
+rust-crates	Crates are the unit of compilation in Rust.
+heap-pollution	Heap pollution simply implies that you have "bad stuff" in your heap. It is an analogy to  water pollution which is where you have "bad stuff" in the water.
+html-formhandler	HTML::FormHandler is an HTML form handling class written in Moose.
+postgresql-9.4	for PostgreSQL questions specific to version 9.4
+wso2cloud	WSO2 Cloud is the public cloud offering from WSO2 which consists of an App Cloud and an API Cloud.
+dynamicpdf-table2	A class in a DynamicPDF Generator Professional Edition by ceTe Software.
+debian-7.6.0	Debian OS with the version 7.6.0.
+flash-cc	Adobe Flash CC (version 13) is part of Adobe's Creative Cloud released in June 2013.
+psoc	PSoC (Programmable System-on-Chip)
+altbeacon	The Open and Inter-operable Proximity Beacon Specification.
+autobahnws	Autobahn WebSocket allows bidirectional real-time messaging on the Web and WAMP adds asynchronous Remote Procedure Calls and Publish & Subscribe on top of WebSocket.
+git-branch-sculpting	Sculpting Git branches into various shapes and trees is an art. This tag is for all questions that involve sculpting and pruning commit trees into different forms.
+git-conflict-resolution	Questions about resolving merge conflicts in Git.
+google-hangouts	DO NOT USE THIS TAG. USE 'hangout' TAG.
+centos6.5	CentOS CentOS is an Enterprise-class Linux Distribution derived from the sources of Red Hat Enterprise Linux (RHEL) and aiming to be fully compatible with RHEL. Version 6.5 was released in February 2014.
+grads	The Grid Analysis and Display System (GrADS)
+cgrectintersectsrect	CGRectIntersectsRect returns whether two rectangles intersect.It is available in iOS 2.0 and later. The questions related to this can be tagged with [cgrectintersectrect]
+wix-gui	Create User Interface using WIX for the installation purposes.
+compass-rails	Integrate Compass into Rails 3.0 and up.
+uniform-interface	http://www.martinfowler.com/bliki/UniformAccessPrinciple.html
+mbv	BizTalk Message Box Viewer (MBV)
+ojs	Open Journal Systems
+bhm	BizTalk Health Monitor ... successor to the MBV
+delete-directory	Tag for questions regarding directory (folder) deletion. O.S. independent.
+read-the-docs	Free documentation hosting for the Open Source community
+selectbooleancheckbox	JSF tag to create a single checkbox.
+php-vcr	\N
+ampps	AMPPS is pre-configured stack for Apache, MySQL, MongoDB, PHP, Perl & Python shipped with the ability to use more than 335 pre-configured and ready for use by simple installation Apps.
+flume-twitter	\N
+bitrix	Bitrix is a CMS written in php
+sharepoint-webservice	Work remotely with a deployment of Windows SharePoint Services
+p4vs	P4VS is a Perforce Plug-in for Visual Studio.
+powerschool	Pearson PowerSchool SIS
+tslint	tslint is a static analysis linter for TypeScript.
+hmp	Heterogeneous Multi-Processing
+mean-shift	\N
+paralleltry	`ParallelTry[f,{arg1,arg2,…}]` evaluates  in parallel, returning the first result received.
+cancancan	Continuation of CanCan, the authorization Gem for Ruby on Rails.
+cortana	Cortana is an intelligent personal assistant on Windows Phone 8.1, Microsoft Band, and Windows 10
+pgwmodal	Responsive modal dialog for jQuery, Zepto, AngularJS
+tomcat-jdbc	This tag is about tomcat and jdbc working together.
+expr	Command-line expression evaluator
+delphi-xe7	Delphi XE7 is a specific version of Delphi released in September 2014.
+windows-phone-emulator	The Windows Phone Emulator presents the Windows Phone Interface on an Windows PC.
+janalyser	JAnalyser: A Jmeter results analysis Tool
+sequence-analysis	Sequence analysis (in the social sciences) is the analysis of how people or other units of study move from one state to another (for example, single-->married-->widowed, unemployed-->employed-->retired) over the course of their lifespan. 
+cequel	Cequel is a Ruby ORM for Cassandra using CQL3.
+iphone-6-plus	The iPhone 6 Plus is the larger-screened Apple iPhone 6, offering NFC and a 5.5" screen size.
+wordpress-4.0	WordPress Version 4.0 ("Benny")
+marathontesting	Opensource Java GUI Testing Tool
+fable	Fable -- a FORTRAN 77  to C++ convertor.
+shearsort	A Naturally parallel sorting where you sort rows independently, then columns indepenently and repeat process for logn times where n is  the length of square matrix nxn. 
+hls	HTTP Live Streaming (HLS)
+mpeg-dash	MPEG-DASH (Dynamic Adaptive Streaming over HTTP) 
+metawatch	a smartwatch by Meta Watch Ltd.
+parse-forest	The set of parse trees of an ambiguous sentence.
+wikia	Wikia is a wiki farm built on MediaWiki. Use this tag for questions specific to Wikia; for general MediaWiki questions use [MediaWiki].
+canjs-view	This tag should be used for questions regarding ejs, mustache, stache, rendering, and mustache/stache helpers.
+ocomon	a Brazilian OpenSource Help Desk Application made with PHP/MySQL
+seaglass	seaglass is a Java LaF (Look And Feel) based on the Nimbus LaF. Also see [look-and-feel].
+rfc6749	The OAuth 2.0 Authorization Framework
+json-web-token	JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
+excel-2008	Released in January 2008, the Mac OS X equivalent of Excel 2007 except distinguished from that and other Mac Excel versions for lack of VBA.
+laravel-pagination	Using pagination in Laravel Framework
+cson	CoffeeScript-Object-Notation
+zengge	ZENGGE is a manufacturer of wifi and Bluetooth LED light bulbs.
+ses	Use emacs-ses or amazon-ses tags.
+groovy-ldap	Apache Directory Groovy LDAP
+ymail	Ymail stands for Yahoo Mail. Yahoo makes it easy to enjoy what matters most in your world.
+windows-mce	for questions related to Windows XP Media Center Edition
+laravel-request	Laravel Requests - handling request and Request validation
+xcode6.1-gm-seed	Related to the new GM Seed version (after beta, before release) of xCode 6.1.
+laravel-paginate	Using pagination in Laravel Framework
+ravenfs	RavenFS refers to the Raven DB File System (http://ayende.com/blog/168323/what-is-new-in-ravendb-3-0-ravenfs) 
+laravel-annotations	Related to Laravel 5 Route Annotations.
+symfony-2.6	This is the Symfony 2.6.x specific tag. Use it in addition to the symfony2 tag if your question is specific to Symfony 2.6.x — not just 2.x.
+opencart2.x	Opencart version 2.0.0.0 and above, released 2014-10-01
+mixed-content	HTTPS page that includes content retrieved through cleartext HTTP
+zap	OWASP Zed Attack Proxy (ZAP): https://www.owasp.org/index.php/ZAP
+httpclientandroidlib	a repackaging of HttpClient 4.3.1 for Android.&#xD;&#xA;&#xD;&#xA;
+pagertitlestrip	PagerTitleStrip is a non-interactive indicator of the current, next, and previous pages of a ViewPager.
+yadcf	Yet Another DataTables Column Filter (yadcf) &#xD;&#xA;https://github.com/vedmack/yadcf
+view-source-chart	View Source Chart: Inspect the DOM at lightning speed.
+powershell-v5.0	For issues relating to Windows PowerShell, version 5.0
+biztalk-2013r2	For questions about Microsoft BizTalk Server 2013 R2.
+ravello	Run VMware workloads on AWS with nested virtualization. For Android, this allows emulators to use KVM acceleration on Amazon EC2 instances.
+installshield-2014	The 2014 edition of InstallShield.
+pygn	A Python front end to GraceNote.
+boto3	Boto 3 - The Amazon Web Services (AWS) SDK for Python
+tablednd	TableDnD is a jQuery plug-in to drag and drop rows in HTML tables.&#xD;&#xA;
+nunit-3.0	Questions related with NUnit version 3.0, for Unit Testing.
+fundamentals-ts	The C++ Technical Specification "Library Fundamentals"
+nstabviewcontroller	NSTabViewController represents an abstract target for providing content switching
+ui-select	AngularJS-native version of Select2 and Selectize
+huxley	Huxley is known as Node-huxley and used to test your UI by comparing old and new screenshots.
+firefox-developer-edition	The Firefox Developer Edition is a special version of Firefox, which targets web developers.
+javax.mail.address	\N
+wix3.9	For issues relating to deployment using Windows Installer XML, version 3.9. 
+nsurlsessiondatatask	\N
+python-textprocessing	Creation or manipulation of text using Python.
+resume-upload	Tag for questions regarding resuming an interrupted upload.
+spike-arrest	\N
+ibm-css	IBM Content Search Services
+muzei	Questions relating to the Muzei Live Wallpaper APIs
 iconic	Iconic is a svg icon font with bootstrap / foundation integration.
+yokozuna	Tag for Riak's Search Engine based on Solr - Yokozuna
+tv4	tv4 is a tiny Validator for v4 JSON Schema.
+qdomdocument	In Qt, the QDomDocument class represents an XML document.
+kint	debugging helper for PHP developers
+featherlight.js	Featherlight is a very lightweight jQuery lightbox.
+flipkart	Flipkart is an online Shopping of Books, Mobile Phones, Digital Cameras, Laptops, Watches, Clothing & Other Products at Best Price in India
+genexus-dbret	GeneXus Database Reverse Engineering Tool.
+superpixels	Superpixels are polygonal parts of a digital image resulting of a process of its partitioning into multiple segments.
+iccid	ICCD (From SIM CARD)
+pagertabstrip	PagerTabStrip is an interactive indicator of the current, next, and previous pages of a ViewPager.
+cocoon-gem	Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
+dynamic-picklist-vtiger	In vtiger, the Picklist Editor allows making a custom dropdown.
+color-shade	color shade is for get combinations of specific color's shade and tilt.
+java-threads	\N
+android-a11y	\N
+node-gm	ImageMagick or GraphicsMagick for nodeJS
+iosfwd	C++ Input-Output forward declarations header
+sonarqube-4.5	This is the SonarQube 4.5.x specific tag. Use it in addition to the sonarqube tag if your question is specific to SonarQube 4.5.x — not just 4.x.
+sonarqube-4.0	This is the SonarQube 4.0.x specific tag. Use it in addition to the [tag:sonarqube] tag if your question is specific to SonarQube 4.0.x — not just 4.x.
+ui-codemirror	The UI.Codemirror allowes to easily add CodeMirror to textareas.
+pikaday	A lightweight, no-dependency JavaScript date picker.
+jsonslurper	JsonSlurper is a Groovy class that makes parsing and working with JSON simpler than with Java.
+heads-up-notifications	High-priority notifications introduced in Android 5.0
+hamburger-menu	An off-screen menu activated by an icon with three horizontal lines.
+checkvalidity	Part of the HTML constraint validation API. 
+reactjs.net	ReactJS.NET&#xD;&#xA;REACT ♥ C# AND ASP.NET MVC
+gitlab-7	This is the GitLab 7.x specific tag. Use it in addition to the gitlab tag if your question is specific to GitLab 7.x — not just GitLab.
+sonarqube-5.0	This is the SonarQube 5.0.x specific tag. Use it in addition to the sonarqube tag if your question is specific to SonarQube 5.0.x — not just 5.x.
+postgresql-8.0	For PostgreSQL questions specific to version 8.0. 
+ssis-data-flow	Tag for questions involving the SSIS Data Flow Task
+conditional-rendering	Conditionally choose which jsf tags to convert to DOM
+processwire	ProcessWire is a free, open source CMS and CMF written in PHP 5.
+angular-ui-select	AngularJS-native version of Select2 and Selectize
+google-search-platform	Use this tag for questions about App Indexing, Google Voice Actions, Google Now and Structured Data markup.
+gcc5	Version 5.x of GCC (GNU Compiler Collection).
+ckasset	CKAsset is a class of the CloudKit Framework
+nservicebus5	NServiceBus is a highly pluggable, reliable, open source Enterprise Service Bus built on .NET.
+nservicebus-configuration	NServiceBus is a highly pluggable, reliable, open source Enterprise Service Bus built on .NET, with many configuration options.
+jnlua	JNLua (Java Native Lua) integrates the Lua Scripting Language into Java.
+iminuit	Interactive IPython Friendly Mimizer based on SEAL Minuit
+ionicons	The premium icon font for Ionic Framework
+ng-storage	localStorage and sessionStorage done right for AngularJS&#xD;&#xA;https://github.com/gsklee/ngStorage
+caesar-cipher	A very simple cipher in which the letters of the alphabet are substituted by a different letter that have a fixed distance to the original letter.
+android-palette	Palette is a helper class to extract prominent colors from an image.&#xD;&#xA;
+phonegap-4.0.0	Use this tag when asking a question about PhoneGap version 4.0.0:&#xD;&#xA;http://docs.phonegap.com/en/4.0.0/
+android-4.1-jelly-bean	Android 4.1 Jelly Bean (API Level 16) is the successor of Android 4.0 Ice Cream Sandwich.
+top-halves	In Linux, top-halves are the real interrupt handler: It just tells the kernel to run the bottom half, and exits.
+symfony-2.7	This is the Symfony 2.7.x specific tag. Use it in addition to the symfony2 tag if your question is specific to Symfony 2.7.x — not just 2.x.&#xD;&#xA;
+tfs2015	Team Foundation Server 2015 by Microsoft
+gridbagsizer	\N
+meteor-clt	For questions on the Meteor Command Line Tool
+copas	copa stands for Coroutine Oriented Portable Asynchronous Services for Lua and it is a packet dispatcher on top of lua sockets.
+cp864	DOS Code page 864 (ibm-864) used for arabic text.
+macwire	Lightweight and Nonintrusive Scala Dependency Injection Library
+irql	an Interrupt Request Level (IRQL) is the priority given to any interrupt request generated by computer hardware.
+jsr354	JSR 354: Money and Currency API
+elasticsearch-rails	 Ruby and Rails integrations for Elasticsearch -> https://github.com/elastic/elasticsearch-rails
+perl5i	perl5i - Fix as much of Perl 5 as possible in one pragma - http://search.cpan.org/~mschwern/perl5i-v2.13.1/lib/perl5i.pm
+instamojo	Instamojo lets you collect payments instantly with just a link.
+docker-swarm	Docker Swarm is native clustering for Docker. It turns a pool of Docker hosts into a single, virtual host.
+gitversion	GitVersion uses your Git history to infer your semantic version using a set of built in conventions. It currently works with GitHubFlow and GitFlow.
+bs4	bs4 is 4th version of BeautifulSoup
+ng-admin	An AngularJS admin GUI for any RESTful API
+python-green	Green is a clean, colorful test runner for Python unit tests.
+thinky	Thinky is a JavaScript ORM for RethinkDB.
+lld	lld is the linker from LLVM.
+weave	Weave: the Docker Network
+dronekit	DroneKit is for general architectural or setup questions for 3D Robotics drone APIs.
+ecmascript-intl	ECMAScript Internationalization API
+rscss	Reasonable Standard* for CSS Stylesheet Structure.
+delphi-xe8	Delphi XE8 is a specific version of Delphi released in April 2015.
+destroyed-at	ActiveRecord Mixin for Safe Destroys
+firebird-3.0	For questions specific to Firebird 3.0. It is advisable to also tag with firebird.
+cocoascript	JavaScript for OS X Applications, also known as JXA.
+mooc	A massive open online course (MOOC) is an online course aimed at unlimited participation and open access via the web.
+domainunload	Occurs when an AppDomain is about to be unloaded.
+xunit2	Related to the version 2 of XUnit : https://github.com/xunit/xunit/releases
+slick.js	A jQuery plug-in for carousel.
+dojo.xhrget	`dojo/request/xhr` deprecates `dojo/_base/xhr` and is part of Dojo’s Request API.
+dspic	Microchip's 16-bit dsPIC® Digital Signal Controllers
+cltl2	Common Lisp the Language, 2nd edition
+parula	A new colormap for MATLAB
+child-fragment	\N
+ubuntu-cloud	An OpenStack cloud with ubuntu OS
+angular-dragdrop	jQueryUI Drag and Drop for AngularJS
+twentytwenty	Twenty Twenty is a jQuery Plugin to make it easy to spot/highlight the differences between two images.
+concrete5-5.7	concrete5 version 7 is a major version of concrete5. It has been since surpassed by version 8.
+android-singleline	Constrains the text to a single horizontally scrolling line
+mshflexgrid	Microsoft Hierarchical FlexGrid
+ruby-jmeter	A Ruby based DSL for building JMeter test plans&#xD;&#xA;
+sqlcipher-android	encrypt/decrypt Android Sqlite  DataBase
+grunt-jest	Grunt task to run tests with Jest.
+bencoding	Bencoding, pronounced "B-encoding", is the encoding used by BitTorrent.
+biztalk-pipelines	This tag should be used to refer BizTalk Pipeline related Questions and Answers. To know more about the BizTalk Pipeline and its usage refer this link.
+xdcr	Cross DataCenter Replication
+spring-restcontroller	@RestController is Spring MVC's shortcut annotation for creating Rest Controllers. Use this tag for questions relating to the use of this annotation.
+sikuli-script	SikuliX = Sikuli IDE + Sikuli Script&#xD;&#xA;So, Sikuli Script = SikuliX - Sikuli IDE
+cdrts	Convergent or Commutative Replicated Data Types
+clay-css	Clay is a Haskell EDSL that allows generating CSS rules directly from Haskell.
+flummox	idiomatic, modular, testable, isomorphic Flux
+flashair	FlashAir is an SD card with embedded Wireless LAN produced by Toshiba.
+aspnet-websocket	AspNetWebSocket Class
+wamp-protocol	Web Application Messaging Protocol (WAMP)
+angular-meteor	Framework to Build Realtime Web and Mobile Apps
+moquette	Moquette aims to be a MQTT compliant broker. It is written in Java.
+nova-hypervisor-show	Display the details of the specified hypervisor.
+boringssl	BoringSSL is Google's fork of OpenSSL.
+split-screen	Split screen is the visible division of the screen, traditionally in half, but also in several simultaneous images.
+spark-cassandra-connector	Connects Apache Spark and Cassandra for clustered queries
+postgresql-bdr	Asynchronous bi-directional (multi-master) replication built in to PostgreSQL 9.4 and above
+android-coordinatorlayout	CoordinatorLayout is a super-powered FrameLayout.
+docooment	A Mongoose like Azure DocuomentDB ORM based on Microsoft Azure DocumentDB Node.js SDK.
+intellij-annotations	Annotations from the IntelliJ IDE.
+sonarqube5.1	This is the SonarQube 5.1.x specific tag. Use it in addition to the sonarqube tag if your question is specific to SonarQube 5.1.x — not just 5.x. 
+rabbithole	 Rabbithole is an interactive, embeddable Neo4j-Console.&#xD;&#xA;
+jul-to-slf4j	Module including a java.util.logging (jul) handler, to route all incoming records to the SLF4j API.
+gac-32	32 bit Global Assembly Cache.
+gac-64	64 bit Global Assembly Cache.
+http2-lawyers	Tag to cover what is legal HTTP/2
+bluetooth-oob	Out of band (OOB) Bluetooth pairing (bonding) - for example via NFC.
+flickity	CSS Library to create touch, responsive, flickable galleries.
+nse	Non Standard Evaluation
+emacs-buttercup	Behavior-Driven Emacs Lisp Testing 
+dashicons	Dashicons is the official icon font of the WordPress admin as of 3.8.
+sql-server-2016	Use this tag for questions specific to the 2016 version of Microsoft's SQL Server.
+sundials	SUNDIALS (SUite of Nonlinear and DIfferential/ALgebraic equation Solvers)
+n	n is a CLI for managing multiple Node.js / io.js versions.
+postgresql-9.5	For PostgreSQL questions specific to version 9.5
+leak-sanitizer	LeakSanitizer (LSan) is a memory leak detector for GCC and Clang.
+trepan	\N
+pymongo-2.x	Version 2 of [pymongo]
+pymongo-3.x	Version 3 of [pymongo]
+aem-developer-tools	The AEM Developer Tools are a set of Eclipse plug-in that brings you the full connection to the Adobe Experience Manager.
+freeboard	A free open-source alternative to Geckoboard.
+entitygraph	In JPA Entity Graphs give the ability to specify fetch plans.
+interleave	Interleave - mix two or more digital signals by alternating between them.
+flambo	Clojure DSL for Apache Spark
+wix3.10	For issues relating to deployment using Windows Installer XML, version 3.10.
+wix4	For issues relating to deployment using Windows Installer XML, version 4.
+apache-spark-1.2	Use for questions specific to Apache Spark 1.2 For general questions related to Apache Spark use the tag [apache-spark].
+apache-spark-1.3	Use for questions specific to Apache Spark 1.3 For general questions related to Apache Spark use the tag [apache-spark].
+apache-spark-1.4	Use for questions specific to Apache Spark 1.4. For general questions related to Apache Spark use the tag [apache-spark].
+survivejs	SurviveJS book issues
+directory-content	The process of getting and processing the content of a directory.
+ng-annotate	ng-annotate adds and removes AngularJS dependency injection annotations.
+jira-filter	Questions related to filter options for Atlassian's Jira.
+taef	MS Test Authoring and Execution Framework
+symfony-2.8	This is the Symfony 2.8.x specific tag. Use it in addition to the symfony2 tag if your question is specific to Symfony 2.8.x — not just 2.x.&#xD;&#xA;
+nexus6	For questions relating to the Nexus 6 phablet.
+knppaginatorbundle	SEO friendly Symfony2 paginator to sort and paginate.
+php-phantomjs	PHP Library to load pages through PhantomJS
+ember-easy-form	A ember extenstion that makes creating HTML forms easier.&#xD;&#xA;
+echonest	Questions about the Echo Nest API (http://developer.echonest.com)
+pkcs#7	Cryptographic Message Syntax Standard 
+marklogic-8	8th Version of MarkLogic - An Enterprise NoSQL Database. Indicates a question specific to MarkLogic 8; use with the MarkLogic tag, but not instead of. 
+android-6.0-marshmallow	Android Marshmallow, formerly known as just "Android M", is version 6.0 of Android, and began shipping in October 2015.
+app-thinning	App Thinning (iOS, watchOS)
+crazyflie	Crazyflie is an open source nano quadcopter from Bitcraze 
+php-psr	PHP Standard Recommendation
+php-fig	PHP Framework Interoperability Group
+pause	\N
+dalliance	\N
+osmand	Global Mobile Map Viewing and Navigation for Online and Offline OSM Maps&#xD;&#xA;
+percheron	Use for docker percheron related questions
+akka-tree	For questions regarding  akka-tree https://github.com/nraychaudhuri/akka-tree
+smie	GNU Emacs Simple Minded Indentation Engine
+apache-spark-1.5	Use for questions specific to Apache Spark 1.5. For general questions related to Apache Spark use the tag [apache-spark].
+rfc1122	\N
+delphi-10-seattle	Delphi 10 Seattle is a specific version of Delphi released in August 2015&#xD;&#xA;
+sonarqube5.1.2	version 5.1.2 of Sonarqube
+icloud-photo-library	Should be used for questions relating to issues around downloading and or editing photos from the iCloud Photo Library using PhotoKit on iOS
+android-custom-drawable	Modifiable and customizable drawable android graphic resources.
+opc-ua	Use this tag on questions that concern OPC UA, in contrast to legacy OLE-based OPC.
+paypal-mpl	PayPal Mobile Payment Libraries.
+responsive-emails	\N
+vim-airline	Lean & mean status/tabline for vim that's light as air.
+pywikibot	Pywikibot is a bot written in Python to access the MediaWiki API.
+process-reaper	The process which becomes the parent of a child process when the child's parent ends.
+ms-wopi	Web Application Open Platform Interface Protocol
+ember-2.0.0	\N
+jsonobjectrequest	JsonObjectRequest—A request for retrieving a JSONObject response body at a given URL, allowing for an optional JSONObject to be passed in as part of the request body.
+safari9	Safari version 9.0 released at 30 September 2015, use this tag in addition of safari tag when you want to ask specific question related with this version.
+lrs	Learning Record Store 
+aws-security-group	Amazon EC2 Security Groups
+gae-python27	Google App Engine Python Runtime Environment.
+periodicity	Questions about periodicity, an interval of time. It can represent a clock or an interval between days, minutes or any other unit of time.
+qt5.6	Qt 5.6 is the LTS version of Qt released March 16, 2016. Tag this only for the issues specific for Qt 5.6 and not for other versions. 
+concur	Used for questions related to the Concur API or related SDKs (https://developer.concur.com/)
+git-lfs	Questions about Git Large File Storage.
+datepickr.js	datepickr.js is a simple JavaScript date picker with no external dependencies
+gulp-replace	\N
+icviewpager	ICViewPager creates sliding tabs for iOS Apps.
+elasticsearch.js	ElasticSearch is an Open Source (Apache 2), Distributed, RESTful, Search Engine built on top of Lucene. This tag should be used only for the use of ElasticSearch in JavaScript.
+inline-svg	Tag to be used for question regarding inline use of scalable vector graphic (SVG) images.
+adminlte	Use this tag if your question involves the use of the AdminLTE Control Panel Bootstrap Template.
+web-performance	Related to the discipline of improving the performance of web pages. Performance may be measuring page load time, memory usage, UI jankiness, etc.
+developer-console	Used for Google Developers Console
+persian-calendar	Concered with Calenders and Datetimepickers in Jalali calender and also converting other calenders to Jalali Calender.
+payara	Payara is a modified build of the open source GlassFish Application Server
+payara-micro	Payara-Micro is a lightweight build of Payara that builds on GlassFish embedded.
+neo4j-ha	Neo4j High Availability
+spring-security4	Spring Security version 4
+outlook-web-addins	Use this tag for questions regarding Outlook web add-ins. This tag should not be used for questions regarding COM or VSTO add-ins.
+peek-pop	\N
+apple-news	The Apple News Format, API and associated technologies
+aws-rds	Amazon Relational Database Service (RDS)
+cookie-policy	Designed to protect online privacy
+elastic-found	Elasticsearch as a Service(Hosted Elasticsearch)
+django-pyodbc-azure	\N
+webgl2	WebGL 2 is the 2nd version of WebGL. It is based on OpenGL ES 3.0
+orientdb-2.1	Use this tag for questions specific to the 2.1 version of Orient DB of Orient Technologies.
+office365connectors	Please use this tag to find answers, ask questions, and answer questions about using the extensibility capabilities of Office 365 Connectors.
+wpackagist	wpackagist is the WordPress Packagist
+rdfs+	This tag can be used for questions, which are related to RDFS+ ("OWL Very Lite")
+houghlinesp	This tag should be used only for concerns related to finding lines using Probabilistic Hough Transform. Not to be used for queries regarding Hough Transform alone
+scpsolver	SCPSolver - an easy to use Java Linear Programming Interface
+gdm	GDM is the GNOME Display Manager
+hivecontext	Questions related to HiveContext class of Apache Spark
+startactivityforresult	Questions about starting Activities in Android and in return receive a result from the started activity when it finished.
+kestrel-http-server	The Kestrel HTTP Server is part of ASP.NET 5.
+ajax-update	The act of updating a part of HTML DOM tree based on ajax response.
+sonarqube5.2	This is the SonarQube 5.2.x specific tag. Use it in addition to the sonarqube tag if your question is specific to SonarQube 5.2.x — not just 5.x. 
+grunt-nodemon	Grunt task to run nodemon (no more actively maintened)
+cxf-fediz	Related to [Apache CXF Fediz](https://cxf.apache.org/fediz.html)
+windows-8.1-universal	Windows 8.1 Universal Store Apps
+fedora-23	Questions related to fedora release 23 should use this tag.
+php-ci	Questions related to php continuous integration should use this tag.
+bluespice	Questions related to BlueSpice.com should use this tag
+getstream-io	Hosted News feeds API that allows you to build scalable news feeds and activity streams
+makegood	MakeGood is a continuous test runner to run unit tests on Eclipse PDT. - See more at: http://marketplace.eclipse.org/content/makegood-1#sthash.MzucbmnV.dpuf
+nexus-6p	The Nexus 6P is an Android based Smartphone manufactured by HUAWEI. It was launched with Android 6.0 "Marshmallow". 
+yii2-user-roles	\N
+google-oauth-.net-client	For questions about the use of the Google OAuth Client Library for .NET.&#xD;&#xA;
+yii2-widget	\N
+andyroid	an Android emulator for computer users
+cfs	Completely Fair Scheduler (CFS) is the default CPU Linux scheduler
+sched-deadline	SCHED_DEADLINE is a scheduling class for resource-reservation real-time CPU scheduler in the Linux kernel ([see details](https://en.wikipedia.org/wiki/SCHED_DEADLINE))
+preempt-rt	PREEMPT_RT is the real-time patch for the Linux kernel
+boomerang-app	Boomerang - SOAP & REST Client
+shingles	"shingle" is a synonym for word-nGrams in computational linguistics and probability
+shadowjar	\N
+android-6.0.1	Android 6.0.1 is the successor of Android Marshmallow (6.0.0), released on 22.11.2015.
+opencv4ios	Since 2012 a full integration from openCV 2.4.2 for iOS is available.
+timeuuid	Use it to mark specific Cassandra questions that are involving a TimeUUID instead of a generic UUID.
+sitecore-intranet-portal	This tag should be used for questions related to Sitecore Intranet Portal.
+android-percent-layout	\N
+isync	\N
+mbsync	mbsync - synchronize IMAP4 and Maildir mailboxes
+cdk	CDK refers to the NCurses CDK (Curses Development Kit) 
+3dr	3DR - Drone & UAV Technology
+dinghy	\N
+apache-spark-1.5.2	Use for questions specific to Apache Spark 1.5.2. For general questions related to Apache Spark use the tag [apache-spark].
+redpin	\N
+visual-recognition	Use this tag when asking questions about the IBM Watson Visual Recognition
+cm	The SML/NJ Compilation Manager (CM)
+ifd	Physical Interface Device
+okhttp3	OkHttp 3 is a major release focused on API simplicity and consistency. 
+pace	Progress indicator for your page load and ajax navigation.
+sonarqube5.3	This is the SonarQube 5.3.x specific tag. Use it in addition to the sonarqube tag if your question is specific to SonarQube 5.3.x — not just 5.x.
+jspm-server	\N
+react-slingshot	\N
+hanami-router	Hanami::Router is a Rack compatible, lightweight and fast HTTP Router for Ruby and Hanami.
+jupyter-irkernel	An R kernel for Jupyter
+zonejs	Implements Zones for JavaScript
+i18n-tasks	Questions about the i18n-tasks Ruby Gem.
+asp.net-core-1.0	ASP.NET 5 is now ASP.NET Core 1.0
+command-text	ADO CommandText Property
+llrp	Low Level Reader Protocol
+eww	GNU Emacs Web Browser
+shr	GNU emacs elisp Simple HTML Renderer&#xD;&#xA;
+marklogic-7	7th Version of MarkLogic - An Enterprise NoSQL Database
+kafkacat	generic non-JVM producer and consumer for Apache Kafka 0.8
+xxe	XML External Entity (XXE)
+avro4s	Scala avro schema generation and serialization/deserialization.&#xD;&#xA;https://github.com/sksamuel/avro4s
+photographic-mosaic	A Photographic mosaic is a replica of an existing image created from thumbnails. The color of a covering thumbnail should resemble the color of the covered pixels in the original image.
+pep3118	PEP 3118 is the Revised Buffer Protocol for the [tag:python] C-API.
+hql-delete	Questions related to deleting entities using HQL in hibernate, NHibernate and its derivatives.
+google-knowledge-graph	Google Knowledge Graph is the semantic knowledge graph used by Google to enhance search results.
+stamps.com	For questions involving the stamps.com API.
+mongodb-oplog	For questions related to MongoDB's oplog.
+goldilocks-approach	The Goldilocks Approach is an HTML5 boilerplate
+unsemantic-css	Unsemantic is the successor to the 960 Grid System.
+otter-script	OtterScript is an interpreted Domain-Specific Language used to represent configuration/orchestration plans in Otter and deployment plans in BuildMaster.
+tzstackview	TZStackView is a replica of iOS 9's new UIStackView for use in iOS 7 and iOS 8
+nobrainer	A Ruby ORM for RethinkDB
+mern	MERN stands for Mongo, Express, React and NodeJS.&#xD;&#xA;&#xD;&#xA;
+basis	A basis (of e.g. vectors) spans a space (such as vector space).
+raspbian-wheezy	Raspbian is a free Debian-wheezy-based OS for the Raspberry-Pi computer.
+android-n	Android N (aka Nougat, Android 7, API24)
+ora-12170	ORA-12170: TNS:Connect timeout occurred
+estbeaconmanager	\N
+sslcontext	\N
+timelinelite	A timeline class for building & managing sequences of TweenLite, TweenMax, TimelineLite and/or TimelineMax instances
+spherical-kmeans	In spherical k-means, all vectors are normalized, and distance measure is cosine dissimilarity.
+drawtextinrect	\N
+middleman-4	Version 4.0 of middleman.
+peach	Peach is a SmartFuzzer that is capable of performing both generation and mutation based fuzzing.
+beeline	\N
+fadecandy	Easy to use open source hardware to drive WS2811 LEDs with high-quality color
+dcos	This tag should be used for questions around the DC/OS (Datacenter Operating System). Related: #mesos and #marathon
+sonarqube-5.4	This is the SonarQube 5.4.x specific tag. Use it in addition to the sonarqube tag if your question is specific to SonarQube 5.4.x — not just 5.x.
+amazon-policy	Amazon policy - is a document that formally states one or more permissions. 
+skypedeveloper	The 'skypedeveloper' tag can be used for Q&As relating to Skype's APIs and SDKs.
+pegex	Pegex - Acmeist PEG Parser Framework
+mosca	Mosca is a node.js mqtt broker.
+predictor-ruby-gem	Fast and efficient recommendations and predictions using Ruby & Redis. Developed by and used at Pathgather to generate course similarities and content recommendations to users.
+linkageerror	In Java, subclasses of LinkageError indicate that a class has some dependency on another class; however, the latter class has incompatibly changed after the compilation of the former class.
+drc	Analysis of Dose-Response Curves.
+skype-bots	Questions regarding the Skype Bots SDK (C# or Node.js).
+mysql-helper	For questions involving the MySqlHelper Class.  
+dotnetnuke-8	Version 8 of the DotNetNuke open source CMS.
+.net-mac	This tag is for those questions about using .net on Mac machines.
+neo4j-cql	neo4j-cql or Neo4j - Cypher Query Language
+dotnetbrowser	\N
+flexdashboard	An Easy interactive dashboards for R.
+delphi-10.1-berlin	Delphi 10.1 Berlin is a specific version of Delphi released in April 2016.
+eclipse-rcptt	Use this tag for questions about the Eclipse RCP Testing Tool (RCPTT).
+skrill	Skrill (formerly Moneybookers) is an e-commerce business that allows payments and money transfers to be made through the Internet, with a focus on low-cost international money transfers. 
+werl.exe	The Erlang Emulator on windows
+liquid-haskell	For questions pertaining to the LiquidHaskell static verifier.
+mockserver	\N
+salesforce-communities	Salesforce Communities are branded spaces for your employees, customers, and partners to connect. You can customize and create communities to meet your business needs, then transition seamlessly between them.
+rinsim	Questions concerning the RinSim logistics simulator
+safari-windows	Use this tag only for Windows's version of Safari, not for the OS X version.
+gpu-shared-memory	The memory space on a GPU computation core which is shared by all threads of a block in a work grid ("work-items" in a "work-group" of the grid in OpenCL parlance).
+eight-peg-puzzle	An eight peg puzzle is a simple puzzle moving eight pegs of two different colors in a line with nine holes.
+git-sign	For issues related to signing tags and commits in [git]
+idsrv	Also known as the `Identity Server`
+recursive-mutex	A recursive mutex (reentrant mutex) is a mutex which may be locked multiple times by the same process or thread, without causing a deadlock.
+gcc6	Related to version 6 of GCC.
+symfony-3.1	This is the Symfony 3.1.x specific tag. Use it in addition to the symfony3 tag if your question is specific to Symfony 3.1.x — not just 3.x.
+sonarqube-5.5	This is the SonarQube 5.5.x specific tag. Use it in addition to the sonarqube tag if your question is specific to SonarQube 5.5.x — not just 5.x.
+preact	Used for questions related to Preact, a fast 3kb alternative to React.
+bluesnap	Questions tagged with bluesnap could be questions regarding one of the BlueSnap APIs, BlueSnap Virtual Terminal, BuyNow pages or Marketplace setup.
+stm32f0	STM32 F0 are entry-level ARM Cortex-MO MCUs from ST Microelectronics.
+qt5.7	Tag this only for the issues specific for Qt 5.7 and not for other versions. 
+apache-spark-1.6	Use for questions specific to Apache Spark 1.6. For general questions related to Apache Spark use the tag [apache-spark].
+http-status-code-422	Unprocessable Entity
+gitlab-8	This is the GitLab 8.x specific tag. Use it in addition to the gitlab tag if your question is specific to GitLab 8.x — not just GitLab.
+react-boilerplate	React Boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+pardot	B2B Marketing Automation by Salesforce
+reactive-kafka	Akka Streams Kafka, also known as Reactive Kafka, is an Akka Streams connector for Apache Kafka.
+redis-windows	Redis running on Windows
+ziparchive-objectivec	ZipArchive is An Objective C class for zip/unzip on iPhone and Mac OSX&#xD;&#xA;
+sonarqube5.6	This is the SonarQube 5.6.x LTS specific tag. Use it in addition to the sonarqube tag if your question is specific to SonarQube 5.6.x LTS — not just 5.x.
+gcallowverylargeobjects	\N
+zero-initialization	\N
+persistent-volumes	This tag is for Kubernetes persistent volume related questions.
+gulp-html-replace	Replace build blocks in HTML. Like useref but done right.
+gundb	\N
+kontakt.io	\N
+chronicle-map	Chronicle Map is an efficient, low latency in-memory Key Value Store for the JVM with optional persistence to disk.
+gmavenplus	GMaven Plus is a rewrite of GMaven, which integrates Groovy into the Maven build process
+phpbrew	phpbrew is used to build and install multiple version php(s) in your $HOME directory.
+vladivostok	Use this tag for questions about the Vladivostok Router, Angular's default router.
+botbuilder	Use for questions that are specific for Microsoft Bot Builder, but not to the Microsoft Bot Framework in general.
+asciidoctor-pdf	\N
+configuration-qualifier	Use for questions on android configuration qualifiers like -hdpi, -xhdpi, -v21, -landscape, ...
+wkimage	The basic image handling class on watchOS.It is Available in watchOS 2.0 and later.&#xD;&#xA;
+angular-pipe	Use for discussion of Angular 2+ pipes
+espocrm	\N
+prolog-findall	findall/3 is a built-in predicate of ISO Prolog.
+android-7.0-nougat	Android 7.0 Nougat (API level 24), formerly known as "Android N".
+dragonfly-mail-agent	DragonFly Mail Agent aka dma(8) is a Mail Transfer Agent (MTA) originating from DragonFly BSD; use this tag, do not use the dma tag, which is not related to dma(8) from DragonFly (the dma tag is intended for bus_dma(9))
+spannablestringbuilder	Use this tag for questions related to the SpannableStringBuilder Android API class for text whose content and markup can both be changed.
+orientdb2.2	Use this tag for questions specific to the 2.2 version of Orient DB of Orient Technologies.
+erlang-nif	Erlang Native Implemented Function
+googleway	R Pacakge for working with Google Maps API
+fs2	FS2: Functional Streams for Scala
+gulp-ftp	Useful for uploading and deploying things. Deprecated in favor of vinyl-ftp.
+swi-prolog-for-sharing	SWI-Prolog for Sharing, or SWISh for short, is an online version of SWI-Prolog
+dispatch-after	Enqueue a block for execution at the specified time.
+gulp-node-inspector	\N
+animatron	HTML5 animations created using http://www.animatron.com
+bbc-microbit	The BBC micro:bit is a small but yet powerful learning computer for kids and grown ups.&#xD;&#xA;&#xD;&#xA;https://microbit.org
+azure-batch	\N
+json4j	\N
+rust-diesel	This tag should be used for questions related to the diesel Rust ORM. 
+microsoft.codeanalysis	Formerly known as Project roslyn.
+systemml	for questions about SystemML's declarative large-scale machine learning
+apache-kudu	For questions related to Apache Kudu (http://kudu.apache.org)
+rdf-xml	RDF/XML is an RDF serialization (using XML), defined by the W3C
+cthreads	C11 introduces native threading.
+gulp-bump	Bump npm versions with Gulp (gulpjs.com)
+ckrecordzone	CKRecordZone, a class of iOS CloudKit.
+kinect-v2	 Kinect for Windows v2 (K4W2)
+apache-spark-2.0	Use for questions specific to Apache Spark 2.0. For general questions related to Apache Spark use the tag [apache-spark].
+postgresql-9.6	for PostgreSQL questions specific to version 9.6
+oneplusthree	\N
+onlyoffice	\N
+rxiosble	Recommended tag to help direct questions related to RxBluetoothKit.
+espeasy	ESP Easy is an opensource firmware for ESP8266 hardware, it allow to easily configure connected sensors   
+junos-automation	This is a tag created for questions which may fall under the automation category of Junos. Junos is the OS that runs on Juniper Networks routers. 
+rails-4-upgrade	Rails-4-Upgrade pertains to users who are trying to upgrade an existing Ruby on Rails Application to the more recent version, like 4.0 and up.
+isomorphic-webpack	\N
+google-cloud-intellij	Questions about the Google Cloud Tools for Intellij
+flutterwave	Use this tag for Flutterwave API integration related questions.
+ruby-csv	Use this tag with questions related to Ruby's CSV class
+refresh-token	A Refresh Token is a special kind of token that can be used to obtain a renewed access token —that allows accessing a protected resource— at any time.
+openstack-autopilot	\N
+pybind11	\N
+pogo	"POGO" may be used as an acronym for "Plain Old Groovy Object"
+node.js-addon	Native C++ addons for node.js
+tx-fluidcontent	\N
+taxonomy-terms	Terms are usually associated to custom taxonomies in Wordpress
+este.js	\N
+open-components	\N
+immutables-library	Use this tag for questions relating to the Immutables Library for Java.
+opencart2.3	Opencart version 2.3.x and above, released July 30 2016
+mentionsinput.js	Use this tag for questions about usage, debugging, and help with the mentionsInput add-on to jQuery.
+couchdb-2.0	Use couchdb-2.0 for questions specific to the 2.0 major release of CouchDB and its minor releases.
+ruuvitag	\N
+social-tables	Questions about the Social Tables API.&#xD;&#xA;More info at https://developer.socialtables.com
+turbolinks-android	\N
+graphcool	GraphQL Backend Development Framework
+javax	Pointless catch-all tag. Do not use. For removal.
+android-7.1-nougat	Android 7.1 Nougat MR1 (API level 25), successor of Android 7.0 Nougat.
+rails-upgrade	This is mainly deals with issues when upgrading the rails version.
+dynamics-crm-365	Microsoft Dynamics 365 is Microsoft's latest a multi-lingual Enterprise Business Solution (CRM + ERP). It makes use of Apps to segregate Sales, Marketing, Customer Service, Field Service, Project Service and Portal Functionalities.
+phpmqtt	a simple php class to connect/publish/subscribe to a MQTT broker
+jpad	JPad is a java scratchpad and REPL. That allows interactive running of java snippets and quick visualization of results as HTML tables or charts.
+foundation-icon-fonts-3	Use this tag for version-specific issues relating to version 3 of Foundation Icon Fonts.
+linux-rt	RT or RT-Preempt is a patch for the Linux Kernel that gives it hard realtime capabilities.
+spherical-coordinate	Spherical coordinates (r, θ, φ) as commonly used in physics (ISO convention): radial distance r, polar angle θ (theta), and azimuthal angle φ (phi). The symbol ρ (rho) is often used instead of r. Spherical coordinates (r, θ, φ) as often used in mathematics: radial distance r, azimuthal angle θ, and polar angle φ.
+htc-vive	Use this tag to ask about HTC vive related questions. HTC Vive is a virtual reality(VR) headset developed by HTC and Valve Corporation, released on 5 April 2016.
+apnagent	\N
+index-error	An `IndexError` indicates that an out of bounds or invalid index was used. &#xD;&#xA;
+asp.net-core-2.0	Use this tag for specific questions on ASP.NET Core version 2, otherwise use [tag:asp.net-core]
+qt5.8	Tag this only for the issues specific for Qt 5.8 and not for other versions. 
+swift1-2	Swift 1.2 specific questions
+asp.net-core-routing	Questions about routing within ASP.NET Core
+livy	\N
+domain-calculus	Tag for Domain Relational Calculus since [domain-relational-calculus] is too long for a tag.
+android-job	For using android-job as an alternative to low level schedulers built into android.
+team-city-10.0	Use this tag for questions related to Team City version 10.0.
+celery-3	Celery: Distributed Task Queue
+cronet	\N
+redhat-dts	For issues related to the use of Red Hat Developer Toolset.
+knights-tour	A knight's tour is a sequence of moves of a knight on a chessboard.
+f-string	Literal string interpolation in Python
+dotnetnuke-9	Use this tag for Dnn (DotNetNuke) 9.x specific questions. 
+game-maker-legacy	Older Game Maker versions (<= 8), not Studio.
+appdirect	Use this tag for all questions related to the integration with a marketplace powered by AppDirect.
+artifactory-query-lang	Use this tag for questions regarding usage of the Artifactory Query Language (AQL). 
+elassandra	Elassandra = Elasticsearch as a Cassandra secondary index. Elassandra tightly integrates elasticsearch within cassandra as a secondary index, allowing near-realtime search with all existing elasticsearch APIs. Use this tag for questions referring to the Elassandra.
+semantic-ui-react	Semantic-UI-React (http://react.semantic-ui.com) is the official React integration for Semantic UI (http://www.semantic-ui.com/).
+mongolian-vertical-script	For issues related to the display and rendering of vertical Mongolian text
+devanagari	Alphabet used in India and Nepal. It is written LTR.&#xD;&#xA;This tag seems to have been created when trying to show the letters in for example JavaScript or parse strings written in them
+mageui	A Windows-based UI for the Manifest Generation and Editing Tool (Mage.exe)
+wso2iot	WSO2 Internet of Things Server (IoT Server)
+datumbox	This tag should only been used for Datumbox's Machine Learning Framework related questions.
+excel-r1c1-notation	Questions about Excel formulas that use the **R1C1** notation for describing absolute and relative ranges.
+android-studio-2.2.3	Android Studio 2.2.3 is a version of Android Studio that was released on December 7, 2016.
+simpleioc	Questions related to the SimpleIoc Class in C#
+bash-trap	Use this tag for questions about the `trap` Bash built-in.
+mpu6050	The MPU6050 is a commonly available 6DOF IMU (intertial measurement unit).
+match-recognize	This tag should be used with questions about the Oracle 12c MATCH_RECOGNIZE clause
+postgraphql	A GraphQL API created by reflection over a PostgreSQL schema.
+marten	Polyglot Persistence for .Net Systems using the Rock Solid Postgresql Database&#xD;&#xA;http://jasperfx.github.io/marten/
+sfc	For questions regarding Sequential Function Charts
+heroku-cli	Use this tag for questions associated with the Heroku Command Line Interface (CLI).
+sharpspring	Use this tag for questions about Sharpspring forms and customisation thereof.
+azure-container-registry	Manage a Docker private registry as a first-class Azure resource.
+aspnetcoretemplatepack	Use for questions which are around the use of the Microsoft ASP.NET Core Template Pack
+pajek	\N
+pepper	Use this tag to ask general or specific questions about the Pepper robot (from SoftBank Robotics)
+ember-bootstrap	\N
+bigchaindb	Questions dealing with BigchainDB (github.com/bigchaindb).
+phpspreadsheet	\N
+ktpass	For questions involving the usage of ktpass.exe - Kerberos keytab creation in Windows Active Directory.
+jnativehook	\N
+pf-datatable	\N
+exrin	Exrin is a Xamarin Forms MVVM Framework. If you use this tag, it's very likely you want to include [xamarin.forms] and [xamarin] as well.
+implicit-state-passing	Use this tag when using implicit state passing with Prolog DCG (Definite Clause Grammar).
+symfony-3.2	This is the Symfony 3.2.x specific tag. Use it in addition to the symfony3 tag if your question is specific to Symfony 3.2.x — not just 3.x. 
+typescript-decorator	\N
+akka.fsharp	Use this tag for Akka when used with F#.
+ts-node	Short for TypeScript Node. Built to execute TypeScript for Node.js. You might also include TypeScript and/or Node.js - tags if you use this tag.
+dcg-semicontext	Use this tag with Prolog when using DCG and using a semicontext. 
+delphi-10.2-tokyo	Delphi 10.2 Tokyo is a specific version of Delphi released in March 2017.
+iedriverserver	Internet Explorer Driver Server is required to execute Selenium WebDriver tests in IE
+dsx-desktop	IBM's Data Science Experience desktop version.
+webpacker	\N
+google-optimize	This tag must be used when the OP is related to Google Optimize or Google Optimize 360. 
+dfd	For questions related to Data Flow Diagrams
+antrunner	\N
+wso2ei	This tag can be used with the all the WSO2 Enterprise Integrator related issues.
+json-hyper-schema	Used to mean JsonSchema hypermedia. Differentiated from JsonSchema. 
+allatori	For discussion about the Allatori Java Obfuscator
+fullcalendar-3	Questions about the 3.x branch of FullCalendar
+fullcalendar-2	Questions about the 2.x branch of FullCalendar
+abot	open source C# web crawler
+azure-mcd	For questions related with the German Azure Datacenter (aka: Microsoft Cloud Deutschland)
+angular-reactive-forms	Questions about Angular Reactive Forms, includes Reactive Forms for Angular versions 2, 4 and all succeeding versions. Use this tag for questions which are not specific to an individual version.
+couchdb-1.6	For questions related to CouchDB version 1.6
+binary.js	\N
+filenet-p8-fdm	FileNet Deployment Manager
+scale-independent	\N
+acrylic-material	For use with questions related to background colors and textures
+sql-server-2017	Use this tag for questions specific to the 2017 version of Microsoft's SQL Server. 
+synaptic.js	\N
+firebase-performance	Firebase Performance Monitoring for Android and iOS.
+android-room	For questions related to Android Room Persistence Library
+matrix-synapse	\N
+marklogic-9	Indicates questions specific to MarkLogic 9; use with the MarkLogic tag but not in place of. 
+jssip	Use this tag for questions related to the JavaScript SIP Library.&#xD;&#xA;
+sencha-test	Use for associating your question broadly with Sencha Test
+neto	This is for the https://www.neto.com.au/ eCommerce Platform.
+visual-studio-for-mac	Please use `visual-studio-mac` tag if you have Visual Studio for Mac related questions.
+symfony-3.3	This is the Symfony 3.3.x specific tag. Use it in addition to the symfony3 tag if your question is specific to Symfony 3.3.x — not just 3.x.
+swift3.2	Only use this tag if your question is about a specific change introduced in `Swift 3.2`. For generic Swift questions, use the [swift] tag.
+angular-router	For the angular (2+) router.
+swing-highlighter	Questions about javax.swing.text.Highlighter.
+bvalidator	bValidator is a form validation jQuery plug-in.
+qt5.9	Use this tag only for questions specific to Qt 5.9 and not relevant to other versions.
+googleads-mobile-unity	Use this tag while discussing topics that cover the Official Unity Plugin for the Google Mobile Ads SDK.
+mongorito	Questions about Mongorito MongoDB ORM based on ES6 Generators
+react-instantsearch	react-instantsearch related technical questions.
+platform-server	\N
+accountsservice	\N
+qubit	\N
+tangram	Questions related to the web map rendered made by Mapzen, Tangram.
+shacl	Use this tag on questions concerning the Shapes Constraint Language for RDF: SHACL.
+nodejs-jszip	\N
+google-iap	Questions related to Google Cloud Identity Aware Proxy
+jfrog-cli	This tag should be used for questions regarding usage of the JFrog CLI (Command Line Interface)
+dfpclicks	\N
+iridium	Relates to the Iridium Browser&#xD;&#xA;&#xD;&#xA;http://www.iridiummobile.net/
+rnn	RNN is abbreviation of Recurrent Neural Network which is a class of artificial neural net with feedback.
+agile-crm	For questions about Agile CRM.
+laravel-user-verification	User verification by email or SMS
+spring-boot-starter	For questions relating to the Spring Boot Starter POMs.
+imageset	This is intended to be used for the image-set() notation of CSS.
+prometheus-operator	\N
+ruby-saml	RubySAML is a SAML SSO for Ruby
+ibm-cloud-private	Questions related to the "IBM Cloud private" offering.
+c++-coroutine	This tag is for questions about the Coroutine TS proposal for C++.
+escodegen	\N
+estraverse	\N
+js++	\N
+google-chrome-theme	Google Chrome Themes
+treescale	\N
+sql-server-2017-graph	Questions about Graph processing with SQL Server
+oracle-commerce-cloud	Oracle Commerce Cloud (OCC) is a SaaS based eCommerce Platform launched by Oracle in June 2015
+qwebengineview	\N
+sitefinity-10	Sitefinity is a .NET based CMS developed by Progress Software. Version 10 is released by Progress on around June, 2017
+magellan-nightwatch	\N
+android-8.0-oreo	Android 8.0 Oreo (API level 26), formerly known as "Android O".
+smartcardio	Use this tag for questions related to Java Smart Card I/O API
+google-pixel	\N
+microfocus-mobile-center	For questions related to Micro Focus's Mobile-Center. 
+expect.pm	Expect.pm - Expect for Perl
+typo3-8.7.x	TYPO3 CMS 8.7 LTS version-specific questions.
+opencart-3	For OpenCart version 3.x&#xD;&#xA;OpenCart version 3.0.0 release on June 20th, 2017
+selenium-extent-report	\N
+azure-log-analytics	use for Azure OMS\\Log Analytics questions
+grace-ioc	\N
+ggforce	Accelerating ggplot2
+apache-ranger	\N
+context	go-context. A primitive for synchronizing concurrent go-routines.
+node-pg-pool	https://github.com/brianc/node-pg-pool&#xD;&#xA;A connection pool for node-postgres node.js
+bleve	\N
+azure-msi	Azure Managed Service Identities
+emcee	emcee is an affine-invariant Markov chain Monte Carlo (MCMC) ensemble sampler.
+ef-core-2.0	Use this tag if you have questions regarding the 2.0 version of Entity Framework for .NET Core.
+fee	E-commerce usage related to additional charges
+eudyptula-challenge	\N
+symfony3.4	This is the Symfony 3.4.x specific tag. Use it in addition to the symfony3 tag if your question is specific to Symfony 3.4.x — not just 3.x.
+salesforce-einstein	\N
+ngx-treeview	\N
+x-dwm	For questions about the Dynamic Window Manager (dwm) for X. For questions about the Windows API, use [dwm].
+angular4-router	Questions about the Angular 4 Router.  Use this to tag questions specific to the Angular 4 Router; which is not to be confused with the outdated Angular 2 Router (router-deprecated) or the Angular 1.x router (angular-ui-router).
+marklogic-dhf	Use for questions about the MarkLogic Data Hub Framework. More people will see your question if you also tag it with "marklogic". 
+jsonframe-cheerio	Simple multi-level scraper json input/output for Cheerio
+wallaby	\N
+firebase-predictions	Firebase Predictions lets you define dynamic user groups based on predicted behavior. You can then target these groups using notifications, Remote Config, and more, to increase conversions and reduce churn. 
+ravendb4	RavenDB in version 4.0
+geocoder	An Android class for handling geocoding and reverse geocoding.
+saiy	Saiy is an open source Virtual Assistant for Android.
+azure-rbac	Topics relating to Azure Role Base Access Control
+azure-dsvm	Questions referring to the Azure Data Science Virtual Machine
+mobizen	Mobizen is a screen recorder for Android that allows users to record, capture, and edit screen recordings.
+phonebook	A telephone directory, also known as a telephone book, telephone address book, phone book.
+vocore	Vocore is a single board computer running Open-Wrt Linux. It runs Open-Wrt and has integrated GPIO pins and WiFi.
+mongodb-stitch	For questions related to the MongoDB Stitch Service API.
+mutablecapabilities	MutableCapabilities is a Class from org.openqa.selenium &#xD;&#xA;&#xD;&#xA;The Implemented Interfaces are : java.io.Serializable and Capabilities&#xD;&#xA;&#xD;&#xA;The Direct Known Subclasses are : ChromeOptions, DesiredCapabilities, EdgeOptions, FirefoxOptions, InternetExplorerOptions, OperaOptions, SafariOptions
+python-mlab	For questions on using the mlab Matlab-to-Python bridge
+azure-machine-learning-workbench	Questions related to the Azure Machine Learning Workbench. 
+twilio-twiml	For anything related to Twilio's TwiML (Twilio Markup Language)
+nodesets	 a  node-set  is a set of nodes in a  xml  or  xslt  document. node sets are returned by   a  xpath  expression. . ;
+balance	  balance  is used in its general meaning, from audio balancing to whether a string is balanced (  has as many opening parentheses as closing one), etc., so you are encouraged to use one or more additional tags to better describe your situation. . ;
+adjacency-list-model	 related tags . ;. ; . ;  adjacency-matrix  . ;  adjacency-list  . ; . ;
+cohesion	 high cohesion is when you have a class that does a well defined job. low cohesion is when a class does a lot of jobs that don't have much in common. . ;
+defaultmodelbinder	 useful links . ;. ;  . ; . ;
+seekableiterator	  php.net manual for seekableiterator  . ;
+multiple-conditions	 examples include  if ,  for ,  while  and other loops.  . ;. ;  . ;. ; the loop will continue as long as  a  is 1 and  b  is 2. . ;
+cite	  tag defines the title of a piece of creative work. . ;. ; see . ;. ;     . ;
+touchpad	 the hp touchpad is a 10" tablet running webos. it comes in 16 gb and 32 gb versions. . ;
+csb	 a canon­i­cal schema bus is a vari­ant of the enter­prise ser­vice bus which has a ded­i­cated inner sanc­tum in which only canon­i­cal schemas can travel. these mes­sages are in the sys­tem inde­pen­dent canon­i­cal schema . ;
+remarks	 related tags:. ; comments  . ;
+jmenu	 . ; jmenu in the  jdk7 javadoc  . ; . ;
+symmetry	  symmetry  is used in its general meaning, from symmetric matrices to git. as a result you should probably use at least one more tag to describe your case better. . ;
+private-class	 use this tag for questions related to building or using private classes. . ;
+preemptive	 preemptive scheduling of processes may occur due to a variety of reasons : . ;. ; . ; the process requires more time than the time quantum assigned to it . ; a process of a higher priority has entered the queue . ; a process has less next-cpu-burst time then the one being executed. . ; . ;. ; in either of the cases, a context switch will occur. the context of the switched process will be saved and that of the new process will be loaded. . ;
+integer-hashing	  integer-hashing  is used in its general meaning, so you are encouraged to use one or more tags to describe your situation better. . ;
+treeio-django	 this tag about installation  tree.io  with  django . . ;
+ember-i18n	 internationalization for ember. . ;. ;  github page  . ;
+linaro	 ref :     . ;
+proxyquire	 documentation:     . ;
+famono	 official page and resources:     . ;
+flume-twitter	 apache flume that connects to twitter firehose. . ;. ; requires the consumer and access tokens and secrets of a twitter developer account to access. . ;. ;  flume-twitter  . ;
+javax.mail.address	 questions about javax.mail.address class. . ;
+android-a11y	 questions about  accessibility in android . . ;
+peek-pop	 use this tags for questions concerning peek   pop behaviour on iphone 6s. . ;
+yii2-user-roles	  yii2-user-roles  . ;. ; . ; defining roles; . ; establishing relations among roles; . ; associating rules with roles; . ; assigning roles to users. . ; . ;
+estbeaconmanager	 this is the  official documentation page . . ;
+gundb	 github link:     . ;
+gulp-node-inspector	 github link:     . ;. ; node link:     . ;
+azure-batch	 questions related to azure batch should have this tag.  . ;. ;  microsoft's official azure batch page  . ;
+onlyoffice	 the is an enterprise edition and community edition. these can be installed using docker on linux or on windows or you can use their cloud version. . ;
+isomorphic-webpack	  license  . ;. ;  bsd-3-clause  . ;. ;  links  . ;. ; . ;  github  . ; . ;
+ruuvitag	 open source sw hw ble sensor beacon. . ;. ; . ;  home page  . ;  github repo  . ; . ;
+cronet	 resources . ;. ; . ;  medium article  . ;  github sample  . ; . ;
+phpspreadsheet	 see  . ;. ;    . ; . ;
+jnativehook	     . ;
+pf-datatable	 official documentation: . ;. ;     . ;
+typescript-decorator	 literature . ;. ; . ;  documentation  . ; . ;
+webpacker	  webpacker  . ;
+accountsservice	 useful links . ;. ; . ;  homepage  . ; . ;
+qubit	  wikipedia  . ;
+nodejs-jszip	 current version : v3.1.3 . ;. ; license : jszip is dual-licensed. you may use it under the mit license or the gplv3 license. see license.markdown. . ;. ;     . ;
+prometheus-operator	  github  . ;
+estraverse	  estraverse in github  . ;. ;  esmangle in github  . ;
+js++	  homepage  . ;
+treescale	  homepage  . ;
+qwebengineview	  documentation  . ;
+google-pixel	 the google pixel is a line of consumer electronics from google that either run chrome os or android.  the pixel lineup includes tablets, computers, and cellular phones. . ;

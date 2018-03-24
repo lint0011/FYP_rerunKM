@@ -1,0 +1,1 @@
+iconic	Iconic is a svg icon font with bootstrap / foundation integration.

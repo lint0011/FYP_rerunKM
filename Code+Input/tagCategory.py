@@ -225,6 +225,7 @@ def extractSVO(inputFile_data, inputFile_pos, outputFile_svo, outputFile_excepti
 		if len(items)>1:
 			text = items[1].split(". ")[0]#.decode('utf-8') #Lynn
 		pos =[]
+		print(index)
 		splitpos = poslines[index].split("	")
 		for p in splitpos:
 			if p != "\n" and splitpos.index(p)>1:
@@ -427,12 +428,12 @@ def postProcess(inputFile_results, inputFile_exception, inputFile_category, outp
 				if inCategory and preserveTag == "":
 					count_preserve = count_preserve + 1
 					preserveTag = items1[1]
-					fw.write("%s	%s	%s\n" % (items[0], preserveTag, items[2]))
+					fw.write("%s	%s	%s\n" % (items[0].strip(), preserveTag.strip(), items[2].strip()))
 				elif inCategory and preserveTag != "":
 					preserveTag = preserveTag +"|"+items1[1]
-					fw.write("%s	%s	%s\n" % (items[0], preserveTag, items[2]))
+					fw.write("%s	%s	%s\n" % (items[0].strip(), preserveTag.strip(), items[2].strip()))
 				elif preserveTag != "":
-					fw.write("%s	%s	%s\n" % (items[0], preserveTag, items[2]))
+					fw.write("%s	%s	%s\n" % (items[0].strip(), preserveTag.strip(), items[2].strip()))
 				else: #Lynn: changed the following to check sentence for category
 					extractWord = ""
 					for word in items[2].split():
@@ -441,7 +442,7 @@ def postProcess(inputFile_results, inputFile_exception, inputFile_category, outp
 							break
 					if extractWord != "":
 						count_refine = count_refine + 1
-						fw.write("%s	%s	%s\n" % (items[0], extractWord, items[2]))
+						fw.write("%s	%s	%s\n" % (items[0].strip(), extractWord.strip(), items[2].strip()))
 					else:
 						fw_exception.write(row)
 				
@@ -462,7 +463,7 @@ def postProcess(inputFile_results, inputFile_exception, inputFile_category, outp
 							break
 					if extractWord != "":
 						count_refine = count_refine + 1
-						fw.write("%s	%s	%s\n" % (items[0], extractWord, items[2]))
+						fw.write("%s	%s	%s\n" % (items[0].strip(), extractWord.strip(), items[2].strip()))
 					else:
 						fw_exception.write(row)
 					
@@ -485,7 +486,7 @@ def postProcess(inputFile_results, inputFile_exception, inputFile_category, outp
 					break
 			if extractWord != "":
 				count_exception  = count_exception + 1
-				fw.write("%s	%s	%s\n" % (items[0], extractWord, items[1]))
+				fw.write("%s	%s	%s\n" % (items[0].strip(), extractWord.strip(), items[1].strip()))
 			else:
 				fw_exception.write(row)
 					
@@ -562,8 +563,9 @@ def furtherPostProcess(inputFile, outputFileLong, outputFile):
 					if "virtual machine" in items[2].lower():
 						items[1] = "vm"
 				if "replacement" in items[1]: #Lynn add in
-					temp = items[1].replace('replacement','')
-					items[1] = temp
+					if items[1].strip() != 'replacement':
+						temp = items[1].replace('replacement','')
+						items[1] = temp
 				
 				
 				fw.write("%s	%s	%s\n" % (items[0], items[1], items[2]))
@@ -572,6 +574,9 @@ def furtherPostProcess(inputFile, outputFileLong, outputFile):
 					
 					f.write("%s	%s	%s\n" % (items[0], items1[0].rsplit(None, 1)[-1]+"|"+items1[1].rsplit(None, 1)[-1], items[2]))
 				else:
+					print(items[0])
+					print(items[1])
+					print(items[2])
 					f.write("%s	%s	%s\n" % (items[0], items[1].rsplit(None, 1)[-1], items[2]))
 	fw.close()
 	f.close()				
@@ -749,7 +754,7 @@ if __name__ == '__main__':
 	f_preprocess2 = 'tagWiki_preprocess2.txt'
 	f_allTags = "allTags_test.txt"						#Input
 	f_version = "tag_version_manual_test.txt"			#Input
-	f_pos = "pos_part3.txt"
+	f_pos = "pos.txt"
 	f_svo = "svo.txt"
 	f_exception = "svo_exception.txt"
 	f_analysis = "analysis.txt"
@@ -767,14 +772,14 @@ if __name__ == '__main__':
 	try:
 	
 		#preprocess(f, f_preprocess2)
-		extractPOS(f_preprocess2,f_allTags, f_version,f_pos)
+		#extractPOS(f_preprocess2,f_allTags, f_version,f_pos)
 		#extractSVO(f_preprocess2, f_pos, f_svo, f_exception)
 		#postProcess(f_svo, f_exception, f_manualCategory, f_tagCategory, f_exception2)	
 		#furtherPostProcess(f_tagCategory, f_refineLong,f_refine)
 		#categoryAnalysis(f_refine, f_analysis)
 		#tagsInfo(f_tagRevise, f_refine, f_exception2, f_tagInfo)
 		#verifyAccacuracy(f_tagInfo, f_tagAccuracy)
-		#categoryExceptionProcess(f_exception2,f,f_manualCategory,f_rescued, f_failed_rescued) #Lynn add this function to perform word match in whole tagwiki
+		categoryExceptionProcess(f_exception2,f,f_manualCategory,f_rescued, f_failed_rescued) #Lynn add this function to perform word match in whole tagwiki
 		
 	except Exception as e :
 		print('There are exceptions')

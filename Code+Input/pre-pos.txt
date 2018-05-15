@@ -1,2 +1,0 @@
-wro4j		Free and Open Source Java project which brings together almost all the modern web tools: JsHint, CssLint, JsMin, Google Closure compressor, YUI Compressor, UglifyJs, Dojo Shrinksafe, Css Variables Support, JSON Compression, Less, Sass, CoffeeScript and much more.
-android4.0.3		Android 4.0.3 is an incremental release of the Android 4.x platform family.

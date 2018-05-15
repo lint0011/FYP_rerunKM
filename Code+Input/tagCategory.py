@@ -154,7 +154,7 @@ def extractPOS(inputFile_data,  inputFile_tags, inputFile_version, outputFile_po
 	totallength = len(lines)
 	
 	for index, row in enumerate(lines):
-		if index >= 29124:
+		if index <=10000:
 			if index %300 == 0:
 				print(str(index) + " Finish " + str(float(index)/totallength))
 			items = row.strip().split("\t\t")
@@ -167,7 +167,7 @@ def extractPOS(inputFile_data,  inputFile_tags, inputFile_version, outputFile_po
 				fw_pos.write(str(index)+"	"+items[0] +"	")	
 				if len(items)>1:
 					text = items[1].split(". ")[0]#.decode('utf-8')   #Lynn     
-					pos = english_postagger.tag(text.split())	
+					pos = nltk.pos_tag(text.split())  #use nltk tagger method instead	
 				
 					for p in pos:
 						fw_pos.write(str(p))
@@ -753,21 +753,21 @@ if __name__ == '__main__':
 	f_preprocess = 'tagWiki_preprocess.txt'
 	f_preprocess2 = 'tagWiki_preprocess2.txt'
 	f_allTags = "allTags_test.txt"						#Input
-	f_version = "tag_version_manual_test.txt"			#Input
-	f_pos = "pos.txt"
-	f_svo = "svo.txt"
-	f_exception = "svo_exception.txt"
+	f_version = "tag_version_manual.txt"			#Input
+	f_pos = "pos_nltk.txt"
+	f_svo = "svo_nltk.txt"
+	f_exception = "svo_exception_nltk.txt"
 	f_analysis = "analysis.txt"
 	f_manualCategory = "allCategory_test.txt"			#Input
-	f_tagCategory = "tagCategory.txt"
-	f_refineLong = "tagCategory_refineLong.txt"
-	f_refine = "tagCategory_refine.txt"
-	f_exception2 = "tagCategory_exception.txt"
+	f_tagCategory = "tagCategory_nltk.txt"
+	f_refineLong = "tagCategory_refineLong_nltk.txt"
+	f_refine = "tagCategory_refine_nltk.txt"
+	f_exception2 = "tagCategory_exception_nltk.txt"
 	f_tagInfo = "tagInfo.txt"
 	f_tagAccuracy = "tagAccuracy4.txt"
 	#f_tagRevise = "tags_revise.csv"					#Input
-	f_rescued = "tagCategory_rescued.txt"
-	f_failed_rescued = "tagCategory_failed_rescued.txt"
+	f_rescued = "tagCategory_rescued_nltk.txt"
+	f_failed_rescued = "tagCategory_failed_rescued_nltk.txt"
 
 	try:
 	
